@@ -27,7 +27,7 @@ type TimeZone struct {
 
 const (
 	GET_TIME_URL  = "https://usglobal.cvvplus.com/global.service/test/api/TimeZone/TzDb/us"
-	POST_TIME_URL = "https://usglobal.com/test/api/TimeZone/TzDb/us"
+	POST_TIME_URL = "https://globalcontainer1.cvvplus.com/test/api/TimeZone/TzDb/us"
 )
 
 func GetHandler(w http.ResponseWriter, r *http.Request) {
