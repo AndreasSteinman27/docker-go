@@ -6,7 +6,7 @@
 
 * [Menu](navigation/menu/README.md)
   * [Nav Bar](navigation/menu/nav-bar.md)
-  * [Top Navigation](navigation/menu/top-navigation.md)
+  * [Top Navigation Menu](navigation/menu/top-navigation.md)
 
 ## Forms
 
