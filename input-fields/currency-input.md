@@ -18,6 +18,7 @@ Amounts that exceed the maximum and minimum values for a field should show an er
 The field should use a currency-styled formatting, with the following behaviors applied when the field is left:  
 Two decimals are always shown, even if no fractional numbers are present.  
 Commas are added every three characters.  
+Trailing Zeros are to be removed.  
   
 The field should not respond to arrow-key or scroll wheel interactions.
 
