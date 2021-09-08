@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Overview](README.md)
+* [LOS UI Reference Manual](README.md)
 
 ## Navigation
 
