@@ -18,12 +18,6 @@
 
 ## Tables
 
-* [Trim Verification](tables/trim-verification/README.md)
-  * [LBO Trim Verifcation](tables/trim-verification/lbo-trim-verifcation.md)
-* [Documents](tables/documents/README.md)
-  * [LBO Documents](tables/documents/lbo-documents.md)
-* [Disbursement](tables/disbursement.md)
-
 ## Input Fields
 
 * [Text Field](input-fields/text-field.md)

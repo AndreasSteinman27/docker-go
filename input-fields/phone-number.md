@@ -13,8 +13,6 @@
 * A null value is invalid
 * The entry must be all numbers
 * The entry must be 10 numbers long
-
-**3. Form Validation**
 {% endtab %}
 
 {% tab title="Design" %}
