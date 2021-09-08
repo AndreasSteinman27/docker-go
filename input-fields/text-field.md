@@ -1,6 +1,4 @@
-# Text Field
-
-### Requirements
+# Generic Text Field
 
 
 

@@ -26,61 +26,42 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 ### 4. Generate Preliminary Statement
 
-Creates a PDF report and a valuation calculation that is need to Create a Final Valuation. This PDF is able to be downloaded on the memebers side and will be an object in the documents section.
+Creates a PDF report and a valuation calculation that is need to Create a Final Valuation. This PDF is able to be downloaded on the members side and will be an object in the documents section.
 
 ### 5. Branches in MSA Selection
 
-Based on the input choice of the direct or retail lease options. The flow will change based on the selection of these options.
+Based on the input choice of the direct or retail lease options. The flow will change based on the selection of either of these required options.
 
 ### 6. Required Fields
 
 | Name | Type | Required |
 | :--- | :--- | :--- |
-| Address 1 |  |  |
-| Address 2 |  |  |
-| City |  |  |
-| State |  |  |
-|  Phone Number |  |  |
-|  Lease Type |  |  |
-| Estimated Taxes Fields \(all\) |  |  |
-| Other Fee's |  |  |
-| Amount |  |  |
+| Address 1 | [Generic](../input-fields/text-field.md) |  |
+| Address 2 | [Generic](../input-fields/text-field.md) |  |
+| City | [Generic](../input-fields/text-field.md) |  |
+| State | Dropdown |  |
+|  Phone Number | [Phone](../input-fields/phone-number.md) | **Yes** |
+|  Lease Type | Dropdown | **Yes** |
+| Estimated Taxes Fields \(all\) | [Amount](../input-fields/currency-input.md) |  |
+| Other Fee's | [Generic](../input-fields/text-field.md) |  |
+| Amount | [Amount](../input-fields/currency-input.md) |  |
 
 ### 6. Error Messages
 
-{% tabs %}
-{% tab title="Requirements" %}
-**Preliminary LBO Text Fields**
+Form validation errors occur when "Save" is pressed and the input displays an Inline Error. 
 
-| Text Field / Dropdown | Required |
-| :--- | :--- |
-| Address 1 |  |
-| Address 2 |  |
-|  City |  |
-| State |  |
-|  Zip Code |  |
-| [ Phone Number](../input-fields/phone-number.md) | Yes |
-|  Lease Type | Yes |
-| Estimated Taxes  |  |
-{% endtab %}
+* Lease type -&gt; Please select a lease type
+* Phone number -&gt; Please input a valid phone number
 
-{% tab title="Design" %}
-{% embed url="https://www.figma.com/file/LAf8e0JKG93H5LxR9Asfbu/?node-id=1594%3A156118" caption="Lease Buyout Component" %}
+### 7. Code
 
-{% embed url="https://www.figma.com/file/LAf8e0JKG93H5LxR9Asfbu/?node-id=1594%3A147559" %}
-{% endtab %}
+{% embed url="https://iframe.html?id=forms-prelim-form--primary&args=" %}
 
-{% tab title="Error Messages" %}
-**Inline Error Messages \(onSubmit\)**
+{% embed url="https://storybook.carputty.com/axle/iframe.html?id=forms-prelim-form--primary&args=&globals=backgrounds.grid:false&viewMode=story" %}
 
-* Please input a valid phone number
-* Please select a lease type
-{% endtab %}
 
-{% tab title="Code" %}
 
-{% endtab %}
-{% endtabs %}
+
 
 
 

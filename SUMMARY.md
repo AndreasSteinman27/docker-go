@@ -18,7 +18,7 @@
 
 ## Input Fields
 
-* [Text Field](input-fields/text-field.md)
+* [Generic Text Field](input-fields/text-field.md)
 * [Social Security](input-fields/social-security.md)
 * [Phone Number](input-fields/phone-number.md)
 * [Password](input-fields/password.md)
