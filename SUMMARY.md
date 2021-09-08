@@ -29,7 +29,7 @@
 * [Text Field](input-fields/text-field.md)
 * [Password](input-fields/password.md)
 * [Phone Number](input-fields/phone-number.md)
-* [Currency](input-fields/currency-input.md)
+* [Amount](input-fields/currency-input.md)
 
 ## Dev Resources
 
