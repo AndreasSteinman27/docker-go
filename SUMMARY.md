@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Axle Reference Manual](README.md)
+* [Overview](README.md)
 
 ## Navigation
 
@@ -11,17 +11,15 @@
 ## Forms
 
 * [Final Advance Statement](forms/final-statement.md)
-* [Preliminary Advance Statement](forms/preliminary-statement/README.md)
-  * [LBO Preliminary Statement](forms/preliminary-statement/lbo-preliminary-statement.md)
-  * [Retail Preliminary Statement](forms/preliminary-statement/retail-preliminary-statement.md)
-  * [Refi Preliminary Statement](forms/preliminary-statement/refi-preliminary-statement.md)
+* [LBO Preliminary Statement](forms/lbo-preliminary-statement.md)
+* [Preliminary Advance Statement](forms/preliminary-statement.md)
 
 ## Tables
 
 ## Input Fields
 
 * [Text Field](input-fields/text-field.md)
-* [Password](input-fields/password.md)
+* [Social Security](input-fields/social-security.md)
 * [Phone Number](input-fields/phone-number.md)
 * [Amount](input-fields/currency-input.md)
 

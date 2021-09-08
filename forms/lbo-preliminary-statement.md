@@ -9,6 +9,7 @@ The **Preliminary Statement Form** component has 3 active states and 1 Skeleton 
 **Actions/States**
 
 * On First Load / Default
+
   * an empty state in which the form has no values
 
 
@@ -44,7 +45,7 @@ The **Preliminary Statement Form** component has 3 active states and 1 Skeleton 
 |  City |  |
 | State |  |
 |  Zip Code |  |
-| [ Phone Number](../../input-fields/phone-number.md) | Yes |
+| [ Phone Number](../input-fields/phone-number.md) | Yes |
 |  Lease Type | Yes |
 | Estimated Taxes  |  |
 {% endtab %}
