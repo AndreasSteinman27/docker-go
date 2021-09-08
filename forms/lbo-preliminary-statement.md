@@ -1,6 +1,6 @@
 # LBO Preliminary Statement
 
-LBO Preliminary Statement
+**Description**
 
 The Preliminary Statement Form component has 3 active states and 1 Skeleton loading state. **Only the required fields** must be complete in order to save.
 
@@ -30,9 +30,23 @@ Creates a PDF report and a valuation calculation that is need to Create a Final 
 
 ### 5. Branches in MSA Selection
 
-Based on the input choice of the direct or retail lease options. The flow will change based on this options
+Based on the input choice of the direct or retail lease options. The flow will change based on the selection of these options.
 
-### 6. Branches in MSA Selection
+### 6. Required Fields
+
+| Name | Type | Required |
+| :--- | :--- | :--- |
+| Address 1 |  |  |
+| Address 2 |  |  |
+| City |  |  |
+| State |  |  |
+|  Phone Number |  |  |
+|  Lease Type |  |  |
+| Estimated Taxes Fields \(all\) |  |  |
+| Other Fee's |  |  |
+| Amount |  |  |
+
+### 6. Error Messages
 
 {% tabs %}
 {% tab title="Requirements" %}
