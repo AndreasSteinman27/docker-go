@@ -1,3 +1,7 @@
+---
+description: Used for currency and monetary values.
+---
+
 # Amount
 
 **Intended use**  
