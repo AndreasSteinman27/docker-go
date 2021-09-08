@@ -21,7 +21,8 @@
 * [Text Field](input-fields/text-field.md)
 * [Social Security](input-fields/social-security.md)
 * [Phone Number](input-fields/phone-number.md)
-* [Amount](input-fields/currency-input.md)
+* [Password](input-fields/password.md)
+* [Amount / Currency](input-fields/currency-input.md)
 
 ## Dev Resources
 
@@ -29,4 +30,8 @@
 * [ANT UI Framework](https://ant.design/components/overview/)
 * [Change Log](dev-resources/change-log.md)
 * [Back-end Services](dev-resources/back-end-services.md)
+
+---
+
+* [Right Sidebar](right-sidebar.md)
 

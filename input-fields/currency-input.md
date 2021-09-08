@@ -2,7 +2,7 @@
 description: Used for currency and monetary values.
 ---
 
-# Amount
+# Amount / Currency
 
 **Intended use**  
 This field is intended to be used for currency values.
