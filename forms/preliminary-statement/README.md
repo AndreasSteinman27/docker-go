@@ -1,12 +1,10 @@
-# Preliminary Statement
-
-### **LBO Preliminary Statement**
+# Preliminary Advance Statement
 
 {% tabs %}
 {% tab title="Description" %}
-Preliminary Statement is document created within Axle and a statement that is given to our members as an estimate of services, state fee’s, and vehicle valuation happens Axle. The preliminary statement generates a report that is a PDF that the member and provides a valuation once complete. Once the MSA has more information, a final statement is generated and signed by our members.
+The Preliminary Advance Statement is a document created within Axle that serves as a preliminary estimate for a given asset/transaction. The preliminary statement shows estimated transactional amounts, including the vehicle price/outstanding balance, the minimum downpayment as calculated against our valuation for the vehicle, and any estimated taxes or fees. Its counterpart is the Final Advance Statement, which shows finalized values once the MSA is able to verify everything.
 
-There are 3 components in Axle:
+There are 3 different Preliminary Advance Statement types, one for each transaction type:
 
 {% page-ref page="lbo-preliminary-statement.md" %}
 
