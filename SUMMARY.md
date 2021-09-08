@@ -1,6 +1,6 @@
 # Table of contents
 
-* [LOS UI Reference Manual](README.md)
+* [Axle Reference Manual](README.md)
 
 ## Navigation
 

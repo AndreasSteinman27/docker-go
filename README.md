@@ -2,7 +2,7 @@
 description: Overview
 ---
 
-# LOS UI Reference Manual
+# Axle Reference Manual
 
 ### **Who is this document for?**
 
