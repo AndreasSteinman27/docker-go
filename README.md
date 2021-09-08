@@ -22,5 +22,5 @@ It is organized by developmental and design components to ensure a developer can
 | :--- | :--- |
 | MSA | Member Success Agent |
 | Axle | Carputty Platform |
-| LOS | Loan Orgination System |
+| LOS | Loan Origination System |
 
