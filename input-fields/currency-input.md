@@ -18,6 +18,9 @@ Ant Design's InputNumber: [https://ant.design/components/input-number/](https://
   * Leading Zeros are to be removed.
 * The field should not respond to arrow-key or scroll wheel interactions.
 
-   
+**Design**
 
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4522" %}
+
+\*\*\*\*
 
