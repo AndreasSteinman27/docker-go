@@ -16,3 +16,10 @@ To **serve as a centralized source of truth and reference manual for UI componen
 
 It is organized by developmental and design components to ensure a developer can find the necessary components and documentation.  It's a living document, we expect this manual to be updated often as changes are made to components.
 
+### Terms
+
+| Term | Description |
+| :--- | :--- |
+| MSA | Member Success Agent |
+| Axle | Carputty Platform |
+
