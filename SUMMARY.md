@@ -18,8 +18,8 @@
 
 ## Navigation
 
-* [Nav Bar](navigation/nav-bar.md)
 * [Top Navigation Menu](navigation/top-navigation.md)
+* [Left Nav Bar](navigation/left-nav-bar.md)
 * [Menu](navigation/menu.md)
 
 ## Forms
