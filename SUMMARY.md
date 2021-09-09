@@ -10,10 +10,11 @@
 * [Password](inputs/password.md)
 * [Phone Number](inputs/phone-number.md)
 
-## Base Buttons
+## Button <a id="buttons"></a>
 
-* [Primary Button](base-buttons/primary-button.md)
-* [Secondary Button](base-buttons/secondary-button.md)
+* [Primary Button](buttons/primary-button.md)
+* [Secondary Button](buttons/secondary-button.md)
+* [Link Button](buttons/link-button.md)
 
 ## Navigation
 
