@@ -18,9 +18,9 @@
 
 ## Navigation
 
-* [Menu](navigation/menu/README.md)
-  * [Nav Bar](navigation/menu/nav-bar.md)
-  * [Top Navigation Menu](navigation/menu/top-navigation.md)
+* [Nav Bar](navigation/nav-bar.md)
+* [Top Navigation Menu](navigation/top-navigation.md)
+* [Menu](navigation/menu.md)
 
 ## Forms
 
