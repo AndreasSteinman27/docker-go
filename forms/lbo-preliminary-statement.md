@@ -4,6 +4,10 @@
 
 The Preliminary Statement Form component has 3 active states and 1 Skeleton loading state. **Only the required fields** must be complete in order to save.
 
+Child Elements
+
+Generic Text Field, Currency input, Header, Primary button, Secondary button, Form.
+
 ### 1. Empty State 
 
 This the state that is on first load.
@@ -36,15 +40,15 @@ Based on the input choice of the direct or retail lease options. The flow will c
 
 | Name | Type | Required |
 | :--- | :--- | :--- |
-| Address 1 | [Generic](../base-inputs/text-field.md) |  |
-| Address 2 | [Generic](../base-inputs/text-field.md) |  |
-| City | [Generic](../base-inputs/text-field.md) |  |
+| Address 1 | [Generic](../inputs/text-field.md) |  |
+| Address 2 | [Generic](../inputs/text-field.md) |  |
+| City | [Generic](../inputs/text-field.md) |  |
 | State | Dropdown |  |
-|  Phone Number | [Phone](../base-inputs/phone-number.md) | **Yes** |
+|  Phone Number | [Phone](../inputs/phone-number.md) | **Yes** |
 |  Lease Type | Dropdown | **Yes** |
-| Estimated Taxes Fields \(all\) | [Amount](../base-inputs/currency-input.md) |  |
-| Other Fee's | [Generic](../base-inputs/text-field.md) |  |
-| Amount | [Amount](../base-inputs/currency-input.md) |  |
+| Estimated Taxes Fields \(all\) | [Amount](../inputs/currency-input.md) |  |
+| Other Fee's | [Generic](../inputs/text-field.md) |  |
+| Amount | [Amount](../inputs/currency-input.md) |  |
 
 ### 6. Error Messages
 

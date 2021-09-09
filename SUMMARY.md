@@ -2,13 +2,13 @@
 
 * [Overview](README.md)
 
-## Base Inputs
+## Inputs
 
-* [Generic Text Field](base-inputs/text-field.md)
-* [Social Security](base-inputs/social-security.md)
-* [Currency](base-inputs/currency-input.md)
-* [Password](base-inputs/password.md)
-* [Phone Number](base-inputs/phone-number.md)
+* [Generic Text Field](inputs/text-field.md)
+* [Social Security](inputs/social-security.md)
+* [Currency](inputs/currency-input.md)
+* [Password](inputs/password.md)
+* [Phone Number](inputs/phone-number.md)
 
 ## Base Buttons
 
