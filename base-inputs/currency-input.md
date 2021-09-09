@@ -2,7 +2,7 @@
 description: Used for currency and monetary values.
 ---
 
-# Amount / Currency
+# Currency
 
 ### **Design**
 
