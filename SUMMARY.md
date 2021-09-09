@@ -32,3 +32,7 @@
 
 * [Resource Page](dev-resources/resource-page.md)
 
+## Error Messages
+
+* [Soft Credit Pull](error-messages/soft-credit-pull.md)
+
