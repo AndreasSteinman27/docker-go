@@ -1,3 +1,7 @@
+---
+description: For reference only. Current Error Messages.
+---
+
 # Soft Credit Pull
 
 <table>
