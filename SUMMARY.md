@@ -9,6 +9,7 @@
 * [Currency](inputs/currency-input.md)
 * [Password](inputs/password.md)
 * [Phone Number](inputs/phone-number.md)
+* [Dropdown](inputs/dropdown.md)
 
 ## Button <a id="buttons"></a>
 
@@ -20,7 +21,6 @@
 
 * [Top Navigation Menu](navigation/top-navigation.md)
 * [Left Nav Bar](navigation/left-nav-bar.md)
-* [Menu](navigation/menu.md)
 
 ## Forms
 

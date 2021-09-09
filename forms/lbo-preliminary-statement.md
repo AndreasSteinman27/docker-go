@@ -4,13 +4,11 @@
 
 The Preliminary Statement Form component has 3 active states and 1 Skeleton loading state. **Only the required fields** must be complete in order to save.
 
-Child Elements
+**Child Elements**
 
 Generic Text Field, Currency input, Header, Primary button, Secondary button, Form.
 
-### 1. Empty State 
-
-This the state that is on first load.
+### 1. On-First Load
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4766" %}
 
@@ -18,7 +16,7 @@ This the state that is on first load.
 
 In this state, values are submitted and calculated. For instance, taxes are generated and sent to the Right Sidebar
 
- This state can only be edited through pressing the Edit button.
+ This state can only be edited by pressing the Edit button.
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A10825" caption="" %}
 
@@ -30,7 +28,7 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 ### 4. Generate Preliminary Statement
 
-Creates a PDF report and a valuation calculation that is need to Create a Final Valuation. This PDF is able to be downloaded on the members side and will be an object in the documents section.
+Creates a PDF report and a valuation calculation that is needed to Create a Final Valuation. This PDF is able to be downloaded on the members side and will be an object in the documents section.
 
 ### 5. Branches in MSA Selection
 

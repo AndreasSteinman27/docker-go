@@ -19,8 +19,6 @@ Ant Design's [Top Navigation ](https://ant.design/components/menu/)
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=152%3A6078" %}
 
-
-
 ### 3. Hover State
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A12000" %}
