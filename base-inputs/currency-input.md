@@ -4,8 +4,6 @@ description: Used for currency and monetary values.
 
 # Currency
 
-### **Design**
-
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4522" %}
 
 **Intended use**  
