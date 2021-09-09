@@ -19,7 +19,7 @@ To **serve as a centralized source of truth and reference manual for Axle UI com
 | MSA | Member Success Agent |
 | Axle | Carputty Platform for creating loans |
 | LOS | Loan Origination System |
-| Base | The component or ingredient to make more complex components |
+|  |  |
 
 
 
