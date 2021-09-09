@@ -1,4 +1,4 @@
-# Preliminary Advance Statement
+# Preliminary Statement
 
 {% tabs %}
 {% tab title="Description" %}

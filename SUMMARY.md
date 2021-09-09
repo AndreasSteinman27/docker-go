@@ -25,7 +25,7 @@
 
 * [Final Advance Statement](forms/final-statement.md)
 * [LBO Preliminary Statement](forms/lbo-preliminary-statement.md)
-* [Preliminary Advance Statement](forms/preliminary-statement.md)
+* [Preliminary Statement](forms/preliminary-statement.md)
 
 ## Dev Resources
 
