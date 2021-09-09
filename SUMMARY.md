@@ -2,6 +2,19 @@
 
 * [Overview](README.md)
 
+## Base Inputs
+
+* [Generic Text Field](base-inputs/text-field.md)
+* [Social Security](base-inputs/social-security.md)
+* [Amount / Currency](base-inputs/currency-input.md)
+* [Password](base-inputs/password.md)
+* [Phone Number](base-inputs/phone-number.md)
+
+## Base Buttons
+
+* [Primary Button](base-buttons/primary-button.md)
+* [Secondary Button](base-buttons/secondary-button.md)
+
 ## Navigation
 
 * [Menu](navigation/menu/README.md)
@@ -18,12 +31,6 @@
 
 ## Input Fields
 
-* [Generic Text Field](input-fields/text-field.md)
-* [Social Security](input-fields/social-security.md)
-* [Phone Number](input-fields/phone-number.md)
-* [Password](input-fields/password.md)
-* [Amount / Currency](input-fields/currency-input.md)
-
 ## Dev Resources
 
 * [Axle Figma Board](https://www.figma.com/file/LAf8e0JKG93H5LxR9Asfbu/Axle?node-id=642%3A15777)
@@ -34,4 +41,5 @@
 ---
 
 * [Right Sidebar](right-sidebar.md)
+* [Untitled](untitled.md)
 

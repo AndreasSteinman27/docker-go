@@ -4,11 +4,15 @@ description: Used for currency and monetary values.
 
 # Amount / Currency
 
+### **Design**
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4522" %}
+
 **Intended use**  
 This field is intended to be used for currency values.
 
 **Parent Object**  
-Ant Design's InputNumber: [https://ant.design/components/input-number/](https://ant.design/components/input-number/)
+Ant Design's **Input with Pre-fix**: [https://ant.design/components/input-number/](https://ant.design/components/input-number/)
 
 **Functional Requirements**
 
@@ -22,9 +26,7 @@ Ant Design's InputNumber: [https://ant.design/components/input-number/](https://
   * Leading Zeros are to be removed.
 * The field should not respond to arrow-key or scroll wheel interactions.
 
-**Design**
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4522" %}
+**Error Messages**
 
 \*\*\*\*
 
