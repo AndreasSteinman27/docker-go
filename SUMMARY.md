@@ -9,6 +9,7 @@
 * [Currency](inputs/currency-input.md)
 * [Password](inputs/password.md)
 * [Phone Number](inputs/phone-number.md)
+* [Zipcode](inputs/zipcode.md)
 * [Dropdown](inputs/dropdown.md)
 
 ## Button <a id="buttons"></a>
