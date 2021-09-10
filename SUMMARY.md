@@ -3,15 +3,15 @@
 * [Overview](README.md)
 * [Roadmap](roadmap.md)
 
-## Inputs
+## Input
 
-* [Generic Text Field](inputs/text-field.md)
-* [Social Security](inputs/social-security.md)
-* [Currency](inputs/currency-input.md)
-* [Password](inputs/password.md)
-* [Phone Number](inputs/phone-number.md)
-* [Zipcode](inputs/zipcode.md)
-* [Dropdown](inputs/dropdown.md)
+* [Generic Text Field](input/text-field.md)
+* [Social Security](input/social-security.md)
+* [Currency](input/currency-input.md)
+* [Password](input/password.md)
+* [Phone Number](input/phone-number.md)
+* [Zipcode](input/zipcode.md)
+* [Dropdown](input/dropdown.md)
 
 ## Button <a id="buttons"></a>
 

@@ -38,15 +38,15 @@ Based on the input choice of the direct or retail lease options. The flow will c
 
 | Name | Type | Required |
 | :--- | :--- | :--- |
-| Address 1 | [Generic](../inputs/text-field.md) |  |
-| Address 2 | [Generic](../inputs/text-field.md) |  |
-| City | [Generic](../inputs/text-field.md) |  |
+| Address 1 | [Generic](../input/text-field.md) |  |
+| Address 2 | [Generic](../input/text-field.md) |  |
+| City | [Generic](../input/text-field.md) |  |
 | State | Dropdown |  |
-|  Phone Number | [Phone](../inputs/phone-number.md) | **Yes** |
+|  Phone Number | [Phone](../input/phone-number.md) | **Yes** |
 |  Lease Type | Dropdown | **Yes** |
-| Estimated Taxes Fields \(all\) | [Amount](../inputs/currency-input.md) |  |
-| Other Fee's | [Generic](../inputs/text-field.md) |  |
-| Amount | [Amount](../inputs/currency-input.md) |  |
+| Estimated Taxes Fields \(all\) | [Amount](../input/currency-input.md) |  |
+| Other Fee's | [Generic](../input/text-field.md) |  |
+| Amount | [Amount](../input/currency-input.md) |  |
 
 ### 6. Error Messages
 
