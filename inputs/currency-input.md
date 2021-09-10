@@ -10,7 +10,7 @@ description: Used for currency and monetary values.
 This field is intended to be used for currency values.
 
 **Parent Object**  
-Ant Design's **Input with Pre-fix**: [https://ant.design/components/input-number/](https://ant.design/components/input-number/)
+Ant Design's [**Input with Pre-fix**](https://ant.design/components/input/)
 
 **Functional Requirements**
 
