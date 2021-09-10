@@ -64,6 +64,7 @@ Form validation errors occur when "Save" is pressed and the input displays an In
 ### 8. Backend service
 
 * [ ] Fee's Calcuation Service needed
+* [ ] Form output 
 
 
 
