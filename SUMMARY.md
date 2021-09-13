@@ -36,8 +36,5 @@
 ## Dev Resources
 
 * [Resource Page](dev-resources/resource-page.md)
-
-## Error Messages
-
-* [Soft Credit Pull](error-messages/soft-credit-pull.md)
+* [Existing Error Messages](dev-resources/existing-error-messages.md)
 

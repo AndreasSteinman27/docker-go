@@ -1,8 +1,6 @@
----
-description: For reference only. Current Error Messages.
----
+# Existing Error Messages
 
-# Soft Credit Pull
+### Soft Credit Pull
 
 <table>
   <thead>
@@ -21,7 +19,6 @@ description: For reference only. Current Error Messages.
     </tr>
     <tr>
       <td style="text-align:left">
-        <p></p>
         <p>The address is too new</p>
         <p>DOB/SSN error</p>
         <p>Name spelling</p>
@@ -30,7 +27,11 @@ description: For reference only. Current Error Messages.
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">4 SSN rejected &amp; requires Full SSN</td>
+      <td style="text-align:left">
+        <p>The address is too new</p>
+        <p>DOB/SSN error</p>
+        <p>Name spelling</p>
+      </td>
       <td style="text-align:left">Error- SSN is required to access this consumer&apos;s file</td>
     </tr>
     <tr>
@@ -39,6 +40,4 @@ description: For reference only. Current Error Messages.
     </tr>
   </tbody>
 </table>
-
-
 
