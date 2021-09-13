@@ -19,11 +19,12 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :--- |
+| [Form Base](components/form/) | Component |  |  |
 | Table | Component |  |  |
-| Trim Table | Component |  |  |
-| Direct Lease Table | Component |  |  |
+| Trim Table | Variant |  |  |
+| Direct Lease Table | Variant |  |  |
 | Retail Lease Table | Component |  |  |
-| Preliminary Backend Service | Research |  |  |
+| Preliminary Back-end Service | Research |  |  |
 
 ### Release 3
 
@@ -36,7 +37,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 ### Release 4
 
-| Feature | Type | Requirements | Design | Code | Date |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-|  |  |  |  |  |  |
+| Feature | Type | Requirements | Design |
+| :--- | :---: | :---: | :---: |
+|  |  |  |  |
 
