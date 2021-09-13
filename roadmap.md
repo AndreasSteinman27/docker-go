@@ -11,8 +11,8 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Generic Text Field](input/text-field.md) | Input |  | Done |
 | [Social Security](input/social-security.md) | Input |  | Done |
 | [Zipcode ](input/zipcode.md) | Input |  | Done |
-| [City ](input/city.md) | Input |  |  |
-| [Password](input/password.md) | Input |  |  |
+| [City ](input/city.md) | Input |  | Done |
+| [Password](input/password.md) | Input |  | Done |
 | [Dropdown](input/dropdown.md) | Dropdown |  | Done |
 
 ### Release 2
