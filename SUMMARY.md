@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Roadmap](roadmap.md)
+* [Release Schedule](roadmap.md)
 
 ## Input
 
@@ -11,6 +11,7 @@
 * [Password](input/password.md)
 * [Phone Number](input/phone-number.md)
 * [Zipcode](input/zipcode.md)
+* [City](input/city.md)
 * [Dropdown](input/dropdown.md)
 
 ## Button <a id="buttons"></a>
