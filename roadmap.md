@@ -28,7 +28,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 ### Release 3
 
-| Feature | Type | Requirments | Design |
+| Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :--- |
 | Right Sidebar | Component |  |  |
 | Skelton Loading | Component |  |  |
