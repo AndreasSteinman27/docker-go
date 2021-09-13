@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Release Schedule](roadmap.md)
+* [Roadmap](roadmap.md)
 
 ## Input
 
