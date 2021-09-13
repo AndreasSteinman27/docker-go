@@ -6,7 +6,7 @@
 For capturing U.S. phone numbers
 
 **Parent Object**  
-Ant Design's[ **Input** ](https://ant.design/components/input/)
+[Ant Design's Input Link](https://ant.design/components/input/)
 
 **Functional Requirements**
 
