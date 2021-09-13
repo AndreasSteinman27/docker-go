@@ -23,17 +23,19 @@
 ## Components
 
 * [Form](components/form/README.md)
-  * [Preliminary  & Final Statements](components/form/preliminary-and-final-statements.md)
+  * [Preliminary  & Final Statements](components/form/preliminary-and-final-statements/README.md)
+    * [LBO Preliminary Statement](components/form/preliminary-and-final-statements/lbo-preliminary-statement.md)
 * [Top Navigation Menu](components/top-navigation-menu/README.md)
   * [LBO - Variant 1](components/top-navigation-menu/top-navigation.md)
-* [Left Nav Bar](components/left-nav-bar.md)
 
 ## Global Component
+
+* [Left Nav Bar](global-component/left-nav-bar.md)
+* [Global Header](global-component/global-header.md)
 
 ## Forms
 
 * [Final Statement](forms/final-statement.md)
-* [LBO Preliminary Statement](forms/lbo-preliminary-statement.md)
 * [Preliminary Statement](forms/preliminary-statement.md)
 
 ## Dev Resources
@@ -43,8 +45,4 @@
 ## Error Messages
 
 * [Soft Credit Pull](error-messages/soft-credit-pull.md)
-
----
-
-* [Global Components](global-components.md)
 

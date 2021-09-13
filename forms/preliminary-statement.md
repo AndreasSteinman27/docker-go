@@ -6,7 +6,7 @@ The Preliminary Advance Statement is a document created within Axle that serves 
 
 There are 3 different Preliminary Advance Statement types, one for each transaction type:
 
-{% page-ref page="lbo-preliminary-statement.md" %}
+{% page-ref page="../components/form/preliminary-and-final-statements/lbo-preliminary-statement.md" %}
 {% endtab %}
 {% endtabs %}
 
