@@ -11,9 +11,9 @@ The top-level navigation acts as a way for the [MSA](/@carputty/s/axle-doc/~/dra
 
 **Functional Requirements**
 
-**Final Statement** is reached when the required [Preliminary](../../forms/preliminary-statement.md) & Documents fields are filled, saved and preliminary generated.
+**Final Statement** is reached when the required [Preliminary]() & Documents fields are filled, saved and preliminary generated.
 
-**Disbursement** is reached when the required [Preliminary,](../../forms/preliminary-statement.md) Documents, and Final State fields are filled, saved, and final statement generated.
+**Disbursement** is reached when the required [Preliminary,]() Documents, and Final State fields are filled, saved, and final statement generated.
 
 ### 2. On-Load 
 

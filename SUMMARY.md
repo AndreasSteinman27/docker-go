@@ -33,11 +33,6 @@
 * [Left Nav Bar](global-component/left-nav-bar.md)
 * [Global Header](global-component/global-header.md)
 
-## Forms
-
-* [Final Statement](forms/final-statement.md)
-* [Preliminary Statement](forms/preliminary-statement.md)
-
 ## Dev Resources
 
 * [Resource Page](dev-resources/resource-page.md)
