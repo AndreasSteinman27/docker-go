@@ -20,18 +20,19 @@
 * [Secondary Button](buttons/secondary-button.md)
 * [Link Button](buttons/link-button.md)
 
+## Components
+
+* [Menu](components/menu/README.md)
+  * [Top Navigation - Variant 1](components/menu/top-navigation.md)
+* [Forms](components/forms/README.md)
+  * [Statement Form \(Base\)](components/forms/statement-form-base/README.md)
+    * [Preliminary Statement](components/forms/statement-form-base/lbo-preliminary-statement.md)
+    * [Final Advance Statement](components/forms/statement-form-base/final-statement.md)
+
 ## Global Components
 
 * [Global Header](global-components/global-header.md)
 * [Left Nav Bar](global-components/left-nav-bar.md)
-
-## Forms
-
-* [Top Navigation Menu \(Base\)](forms/top-navigation-menu-base/README.md)
-  * [Top Navigation Menu \(Variant 1\)](forms/top-navigation-menu-base/top-navigation.md)
-* [Final Advance Statement](forms/final-statement.md)
-* [LBO Preliminary Statement](forms/lbo-preliminary-statement.md)
-* [Preliminary Statement](forms/preliminary-statement.md)
 
 ## Dev Resources
 

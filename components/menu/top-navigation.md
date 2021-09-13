@@ -1,4 +1,4 @@
-# Top Navigation Menu \(Variant 1\)
+# Top Navigation - Variant 1
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=413%3A23206" caption="Variant of Top Navigation Menu " %}
 
@@ -11,9 +11,9 @@ Ant Design's [Top Navigation ](https://ant.design/components/menu/)
 
 **Functional Requirements**
 
-**Final Statement** is reached when the required [Preliminary](../preliminary-statement.md) & Documents fields are filled, saved and preliminary generated.
+**Final Statement** is reached when the required [Preliminary]() & Documents fields are filled, saved and preliminary generated.
 
-**Disbursement** is reached when the required [Preliminary,](../preliminary-statement.md) Documents, and Final State fields are filled, saved, and final statement generated.
+**Disbursement** is reached when the required [Preliminary,]() Documents, and Final State fields are filled, saved, and final statement generated.
 
 ### 2. On-Load 
 
