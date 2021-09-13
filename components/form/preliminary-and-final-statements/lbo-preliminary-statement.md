@@ -1,4 +1,4 @@
-# LBO Preliminary Statement
+# LBO Preliminary & Final \(Variant 1\)
 
 **Description**
 
@@ -41,9 +41,9 @@ Based on the input choice of the direct or retail lease options. The flow will c
 | Address 1 | [Generic](../../../input/text-field.md) |  |
 | Address 2 | [Generic](../../../input/text-field.md) |  |
 | City | [Generic](../../../input/text-field.md) |  |
-| State | Dropdown |  |
+| State | [Dropdown](../../../input/dropdown.md) |  |
 |  Phone Number | [Phone](../../../input/phone-number.md) | **Yes** |
-|  Lease Type | Dropdown | **Yes** |
+|  Lease Type | [Dropdown](../../../input/dropdown.md) | **Yes** |
 | Estimated Taxes Fields \(all\) | [Amount](../../../input/currency-input.md) |  |
 | Other Fee's | [Generic](../../../input/text-field.md) |  |
 | Amount | [Amount](../../../input/currency-input.md) |  |
@@ -63,8 +63,7 @@ Form validation errors occur when "Save" is pressed and the input displays an In
 
 ### 8. Backend service
 
-* [ ] Fee's Calcuation Service needed
-* [ ] Form output 
+**\(needed\)**
 
 
 

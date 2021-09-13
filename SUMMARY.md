@@ -24,7 +24,7 @@
 
 * [Form](components/form/README.md)
   * [Preliminary  & Final Statements](components/form/preliminary-and-final-statements/README.md)
-    * [LBO Preliminary Statement](components/form/preliminary-and-final-statements/lbo-preliminary-statement.md)
+    * [LBO Preliminary & Final \(Variant 1\)](components/form/preliminary-and-final-statements/lbo-preliminary-statement.md)
 * [Top Navigation Menu](components/top-navigation-menu/README.md)
   * [LBO - Variant 1](components/top-navigation-menu/top-navigation.md)
 
