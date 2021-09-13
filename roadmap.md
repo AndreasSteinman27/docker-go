@@ -2,7 +2,7 @@
 
 ### Description
 
-Below is the roadmap for functional requirements and designs for Axle components. Due dates are at Product Plan \([https://app.productplan.com/kwbIflXk\#](https://app.productplan.com/kwbIflXk#)\).
+Below is the roadmap for functional requirements and designs for Axle components. Due dates are in Product Plan \([https://app.productplan.com/kwbIflXk\#](https://app.productplan.com/kwbIflXk#)\).
 
 ### Release 1
 
