@@ -20,15 +20,19 @@
 * [Secondary Button](buttons/secondary-button.md)
 * [Link Button](buttons/link-button.md)
 
-## Navigation
+## Components
 
-* [Top Navigation Menu](navigation/top-navigation-menu/README.md)
-  * [Axle Top Navigation Menu](navigation/top-navigation-menu/top-navigation.md)
-* [Left Nav Bar](navigation/left-nav-bar.md)
+* [Form](components/form/README.md)
+  * [Preliminary  & Final Statements](components/form/preliminary-and-final-statements.md)
+* [Top Navigation Menu](components/top-navigation-menu/README.md)
+  * [LBO - Variant 1](components/top-navigation-menu/top-navigation.md)
+* [Left Nav Bar](components/left-nav-bar.md)
+
+## Global Component
 
 ## Forms
 
-* [Final Advance Statement](forms/final-statement.md)
+* [Final Statement](forms/final-statement.md)
 * [LBO Preliminary Statement](forms/lbo-preliminary-statement.md)
 * [Preliminary Statement](forms/preliminary-statement.md)
 
@@ -40,5 +44,7 @@
 
 * [Soft Credit Pull](error-messages/soft-credit-pull.md)
 
-## Base Component
+---
+
+* [Global Components](global-components.md)
 
