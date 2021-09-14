@@ -8,12 +8,15 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :---: |
-| [Generic Text Field](input/text-field.md) | Input |  | Done |
-| [Social Security](input/social-security.md) | Input |  | Done |
-| [Zipcode ](input/zipcode.md) | Input |  | Done |
-| [City ](input/city.md) | Input |  | Done |
-| [Password](input/password.md) | Input |  | Done |
-| [Dropdown](input/dropdown.md) | Dropdown |  | Done |
+| [Generic Text Field](input/text-field.md) | Input | Needed | **Done** |
+| [Social Security](input/social-security.md) | Input | Needed | **Done** |
+| [Zipcode ](input/zipcode.md) | Input | Needed | **Done** |
+| [City ](input/city.md) | Input | Needed | **Done** |
+| [Password](input/password.md) | Input | Needed | **Done** |
+| [Dropdown](input/dropdown.md) | Dropdown | Needed | **Done** |
+| [Primary Button](components/button/primary-button.md) | Button | Needed | **Done** |
+| [Secondary Button](components/button/secondary-button.md) | Button | Needed | **Done** |
+| [Link Button](components/button/link-button.md) | Button | Needed | **Done** |
 
 ### Release 2
 

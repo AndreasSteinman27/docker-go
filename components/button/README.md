@@ -6,7 +6,7 @@ A button means an operation \(or a series of operations\). Clicking a button wil
 
 In Ant Design we provide 5 types of button.
 
-* Primary button: indicate the main action, one primary button at most in one section.
+* [Primary button](primary-button.md): indicate the main action, one primary button at most in one section.
 * Default button: indicate a series of actions without priority.
 * Dashed button: used for adding action commonly.
 * Text button: used for the most secondary action.
@@ -18,4 +18,8 @@ And 4 other properties additionally.
 * `ghost`: used in situations with complex background, home pages usually.
 * `disabled`: when actions are not available.
 * `loading`: add loading spinner in button, avoiding multiple submits too.
+
+
+
+
 

@@ -16,12 +16,12 @@
 
 ## Button <a id="buttons"></a>
 
-* [Primary Button](buttons/primary-button.md)
-* [Secondary Button](buttons/secondary-button.md)
-* [Link Button](buttons/link-button.md)
-
 ## Components
 
+* [Button](components/button/README.md)
+  * [Primary Button](components/button/primary-button.md)
+  * [Secondary Button](components/button/secondary-button.md)
+  * [Link Button](components/button/link-button.md)
 * [Form](components/form/README.md)
   * [Preliminary  & Final Statements](components/form/preliminary-and-final-statements/README.md)
     * [LBO Preliminary & Final \(Variant 1\)](components/form/preliminary-and-final-statements/lbo-preliminary-statement.md)
@@ -35,7 +35,6 @@
 
 ## Dev Resources
 
-* [Button](dev-resources/button.md)
 * [Resource Page](dev-resources/resource-page.md)
 * [Existing Error Messages](dev-resources/existing-error-messages.md)
 
