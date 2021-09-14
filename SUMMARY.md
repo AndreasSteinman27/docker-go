@@ -25,8 +25,8 @@
   * [Text Button](components/button/text-button.md)
   * [Link Button](components/button/link-button.md)
 * [Form](components/form/README.md)
-  * [Statements](components/form/preliminary-and-final-statements/README.md)
-    * [LBO Preliminary & Final \(Variant 1\)](components/form/preliminary-and-final-statements/lbo-preliminary-statement.md)
+  * [Preliminary & Final Statements](components/form/lbo-preliminary-statement.md)
+  * [Statements](components/form/preliminary-and-final-statements.md)
 * [Top Navigation Menu](components/top-navigation-menu/README.md)
   * [LBO - Variant 1](components/top-navigation-menu/top-navigation.md)
 

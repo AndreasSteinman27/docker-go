@@ -8,7 +8,7 @@ description: Overview
 
 | Name | Flow | Component |
 | :--- | :--- | :--- |
-| [Preliminary Statement](components/form/preliminary-and-final-statements/lbo-preliminary-statement.md) | Lease-buyout | Form |
+| [Preliminary Statement](components/form/lbo-preliminary-statement.md) | Lease-buyout | Form |
 | [Direct Lease Documents](components/task-tables/) | Lease-buyout | Table |
 | [Retail Lease Documents](components/task-tables/retail-lease-documents.md) | Lease-buyout | Table |
 | [Disbursement](components/task-tables/disbursement.md) | Lease-buyout |  |
