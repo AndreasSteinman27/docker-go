@@ -15,8 +15,9 @@
 ## Components
 
 * [Table](components/task-tables/README.md)
-  * [Task Table - Variant 1](components/task-tables/task-table-variant-1/README.md)
-    * [Direct Lease Documents](components/task-tables/task-table-variant-1/direct-lease-documents.md)
+  * [Retail Lease Documents](components/task-tables/retail-lease-documents.md)
+  * [Disbursement](components/task-tables/disbursement.md)
+  * [Direct Lease Documents](components/task-tables/direct-lease-documents.md)
 * [Button](components/button/README.md)
   * [Primary Button](components/button/primary-button.md)
   * [Secondary Button](components/button/secondary-button.md)
