@@ -46,7 +46,7 @@ Based on the input choice of the direct or retail lease options. The flow will c
 |  Lease Type | [Dropdown](../../../input/dropdown.md) | **Yes** |
 | Estimated Taxes Fields \(all\) | [Amount](../../../input/currency-input.md) |  |
 | Other Fee's | [Generic](../../../input/text-field.md) |  |
-| Amount | [Amount](../../../input/currency-input.md) |  |
+| Currency | [Currency](../../../input/currency-input.md) |  |
 
 ### 6. Error Messages
 
