@@ -14,13 +14,12 @@
 * [City](input/city.md)
 * [Dropdown](input/dropdown.md)
 
-## Button <a id="buttons"></a>
-
 ## Components
 
 * [Button](components/button/README.md)
   * [Primary Button](components/button/primary-button.md)
   * [Secondary Button](components/button/secondary-button.md)
+  * [Text Button](components/button/text-button.md)
   * [Link Button](components/button/link-button.md)
 * [Form](components/form/README.md)
   * [Preliminary  & Final Statements](components/form/preliminary-and-final-statements/README.md)
