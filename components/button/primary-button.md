@@ -9,10 +9,10 @@ description: The primary action button on the page.
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=99%3A5020" %}
 
 **Intended use**  
-To capture a user's Social Security Number in a secure manner
+
 
 **Parent Object**  
-[Ant Design's Input **-** Password component](https://ant.design/components/input/)
+[ANT Primary Button](https://ant.design/components/button/)
 
 **Functional Requirements**
 

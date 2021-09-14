@@ -1,6 +1,6 @@
 # LBO - Variant 1
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A11819" %}
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A11819" caption="Base Component" %}
 
 ### 1. **Description**
 
