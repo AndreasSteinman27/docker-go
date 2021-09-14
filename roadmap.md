@@ -11,7 +11,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Generic Text Field](input/text-field.md) | Input | Needed | **Done** |
 | [Zipcode ](input/zipcode.md) | Input | Needed | **Done** |
 | [City ](input/city.md) | Input | Needed | **Done** |
-| [Password](input/password.md) | Input | Needed | **Done** |
+| [Password](archive/password.md) | Input | Needed | **Done** |
 | [Dropdown](input/dropdown.md) | Dropdown | Needed | **Done** |
 | [Primary Button](components/button/primary-button.md) | Button | Needed | **Done** |
 | [Secondary Button](components/button/secondary-button.md) | Button | Needed | **Done** |

@@ -7,7 +7,6 @@
 
 * [Generic Text Field](input/text-field.md)
 * [Currency](input/currency-input.md)
-* [Password](input/password.md)
 * [Phone Number](input/phone-number.md)
 * [Zipcode](input/zipcode.md)
 * [City](input/city.md)
@@ -38,5 +37,6 @@
 
 ## Archive
 
+* [Password](archive/password.md)
 * [Social Security](archive/social-security.md)
 
