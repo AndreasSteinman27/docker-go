@@ -6,7 +6,6 @@
 ## Input
 
 * [Generic Text Field](input/text-field.md)
-* [Social Security](input/social-security.md)
 * [Currency](input/currency-input.md)
 * [Password](input/password.md)
 * [Phone Number](input/phone-number.md)
@@ -36,4 +35,8 @@
 
 * [Resource Page](dev-resources/resource-page.md)
 * [Existing Error Messages](dev-resources/existing-error-messages.md)
+
+## Archive
+
+* [Social Security](archive/social-security.md)
 

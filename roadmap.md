@@ -9,7 +9,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :---: |
 | [Generic Text Field](input/text-field.md) | Input | Needed | **Done** |
-| [Social Security](input/social-security.md) | Input | Needed | **Done** |
+| [Social Security](archive/social-security.md) | Input | Needed | **Done** |
 | [Zipcode ](input/zipcode.md) | Input | Needed | **Done** |
 | [City ](input/city.md) | Input | Needed | **Done** |
 | [Password](input/password.md) | Input | Needed | **Done** |
