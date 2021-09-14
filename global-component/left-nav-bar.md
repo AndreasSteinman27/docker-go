@@ -6,7 +6,7 @@
 
 
 **Parent Object**  
-[Ant Design's Input Link](https://ant.design/components/input/)
+
 
 **Functional Requirements**
 
