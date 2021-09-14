@@ -1,10 +1,10 @@
 # Button
 
-
-
 A button means an operation \(or a series of operations\). Clicking a button will trigger corresponding business logic.
 
-In Ant Design we provide 5 types of button.
+In Ant Design there are 5 types of buttons \([https://ant.design/components/button/](https://ant.design/components/button/)\). 
+
+For Axle, we currently use 4 out of 5 which are the following:
 
 * [Primary button](primary-button.md): indicate the main action, one primary button at most in one section.
 * [Secondary button](secondary-button.md) \(default button\): indicates a series of actions without priority.
