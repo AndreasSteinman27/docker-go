@@ -35,6 +35,7 @@
 
 ## Dev Resources
 
+* [Button](dev-resources/button.md)
 * [Resource Page](dev-resources/resource-page.md)
 * [Existing Error Messages](dev-resources/existing-error-messages.md)
 
