@@ -15,8 +15,8 @@
 ## Components
 
 * [Table](components/task-tables/README.md)
-  * [Disbursement](components/task-tables/disbursement.md)
   * [Direct Lease Documents](components/task-tables/direct-lease-documents.md)
+  * [Disbursement](components/task-tables/disbursement.md)
   * [Retail Lease Documents](components/task-tables/retail-lease-documents.md)
   * [Archive](components/task-tables/archive.md)
 * [Button](components/button/README.md)

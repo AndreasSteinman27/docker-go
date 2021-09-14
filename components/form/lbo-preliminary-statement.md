@@ -10,7 +10,7 @@ The Preliminary Statement Form component has 3 active states and 1 Skeleton load
 
 **Child Elements**
 
-Generic Text Field, Currency input, Header, Primary button, Secondary button, Form.
+[Generic Text Field](../../input/text-field.md), [Currency input](../../input/currency-input.md), Header, [Primary button](../button/), [Secondary button](../button/secondary-button.md)
 
 ## 1. States
 
@@ -69,6 +69,8 @@ Form validation errors occur when "Save" is pressed and the input displays an In
 {% embed url="https://storybook.carputty.com/axle/iframe.html?id=forms-prelim-form--primary&args=&globals=backgrounds.grid:false&viewMode=story" %}
 
 ## 7. Backend service
+
+
 
 **\(needed\)**
 
