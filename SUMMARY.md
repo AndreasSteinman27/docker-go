@@ -14,6 +14,7 @@
 
 ## Components
 
+* [Tables](components/tables.md)
 * [Button](components/button/README.md)
   * [Primary Button](components/button/primary-button.md)
   * [Secondary Button](components/button/secondary-button.md)
@@ -35,8 +36,13 @@
 * [Resource Page](dev-resources/resource-page.md)
 * [Existing Error Messages](dev-resources/existing-error-messages.md)
 
-## Archive
+## Archived <a id="archive"></a>
 
-* [Password](archive/password.md)
-* [Social Security](archive/social-security.md)
+---
+
+* [Archive - Do not look](archive-do-not-look/README.md)
+  * [Social Security](archive-do-not-look/social-security.md)
+  * [Password](archive-do-not-look/password.md)
+
+## Tables
 
