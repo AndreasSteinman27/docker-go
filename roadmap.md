@@ -8,24 +8,24 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :---: |
-| [Generic Text Field](input/text-field.md) | Input | Needed | **Done** |
-| [Zipcode ](input/zipcode.md) | Input | Needed | **Done** |
-| [City ](input/city.md) | Input | Needed | **Done** |
-| [Dropdown](input/dropdown.md) | Dropdown | Needed | **Done** |
-| [Primary Button](components/button/primary-button.md) | Button | Needed | **Done** |
-| [Secondary Button](components/button/secondary-button.md) | Button | Needed | **Done** |
-| [Link Button](components/button/link-button.md) | Button | Needed | **Done** |
+| [Generic Text Field](input/text-field.md) | Base Component | Needed | **Done** |
+| [Zipcode ](input/zipcode.md) | Base Component | Needed | **Done** |
+| [City ](input/city.md) | Base Component | Needed | **Done** |
+| [Dropdown](input/dropdown.md) | Base Component | Needed | **Done** |
+| [Primary Button](components/button/primary-button.md) | Base Component | Needed | **Done** |
+| [Secondary Button](components/button/secondary-button.md) | Base Component | Needed | **Done** |
+| [Link Button](components/button/link-button.md) | Base Component | Needed | **Done** |
 
 ### Release 2
 
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :--- |
-| [Form Base](components/form/) | Component | Needed | Needed |
-| Table | Component | Needed | Needed |
-| Tags | Component | Needed | Needed |
-| Trim Table | Variant | Needed | Needed |
-| Direct Lease Table | Variant | Needed | Needed |
-| Retail Lease Table | Component | Needed | Needed |
+| [Form Base](components/form/) | Base Component | Needed | Needed |
+| [Table](components/task-tables/) | Base Component | Needed | Needed |
+| Tags | Base Component | Needed | Needed |
+| Trim Table | Table Variant | Needed | Needed |
+| [Direct Lease Documents](components/task-tables/direct-lease-documents.md) | Table Variant | Needed | Needed |
+| [Retail Lease Documents](components/task-tables/retail-lease-documents.md) | Table Variant | Needed | Needed |
 | Preliminary Back-end Service | Research | Needed | Needed |
 
 ### Release 3
