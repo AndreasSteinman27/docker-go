@@ -12,7 +12,7 @@ description: Overview
 | [Direct Lease Documents](components/task-tables/) | Lease-buyout | Table |
 | [Retail Lease Documents](components/task-tables/retail-lease-documents.md) | Lease-buyout | Table |
 | [Disbursement](components/task-tables/disbursement.md) | Lease-buyout |  |
-| Archive |  |  |
+| [Archive](components/task-tables/archive.md) |  |  |
 |  |  |  |
 
 ### **Who is this document for?**
