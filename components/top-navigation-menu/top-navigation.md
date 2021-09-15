@@ -1,4 +1,4 @@
-# LBO - Variant 1
+# Lease Buyout - Transaction
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A11819" caption="Base Component" %}
 
@@ -11,17 +11,15 @@ The top-level navigation acts as a way for the [MSA](/@carputty/s/axle-doc/~/dra
 
 **Functional Requirements**
 
-**Final Statement** is reached when the required [Preliminary]() & Documents fields are filled, saved and preliminary generated.
+**Final Statement** is reached when the required Preliminary & Documents fields are filled, saved and preliminary generated.
 
-**Disbursement** is reached when the required [Preliminary,]() Documents, and Final State fields are filled, saved, and final statement generated.
+**Disbursement** is reached when the required Preliminary, Documents, and Final State fields are filled, saved, and final statement generated.
 
 ### 2. On-Load 
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=152%3A6078" %}
 
 ### 3. Hover State
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A12000" %}
 
 
 

@@ -30,8 +30,10 @@
 * [Form](components/form/README.md)
   * [Preliminary & Final Statements](components/form/lbo-preliminary-statement.md)
   * [Statements](components/form/preliminary-and-final-statements.md)
-* [Top Navigation Menu](components/top-navigation-menu/README.md)
-  * [LBO - Variant 1](components/top-navigation-menu/top-navigation.md)
+* [Side Drawer](components/drawer/README.md)
+  * [Upload](components/drawer/upload.md)
+* [Menu](components/top-navigation-menu/README.md)
+  * [Lease Buyout - Transaction](components/top-navigation-menu/top-navigation.md)
 
 ## Dev Resources
 
@@ -45,5 +47,4 @@
 * [Archive - Do not look](archive-do-not-look/README.md)
   * [Social Security](archive-do-not-look/social-security.md)
   * [Password](archive-do-not-look/password.md)
-* [Drawer](drawer.md)
 
