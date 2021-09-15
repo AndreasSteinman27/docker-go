@@ -8,10 +8,10 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :---: |
-| [Generic Text Field](input/text-field.md) | Base Component | Draft | **Done** |
-| [Zipcode ](input/zipcode.md) | Base Component | Needed | **Done** |
-| [City ](input/city.md) | Base Component | Needed | **Done** |
-| [Dropdown](input/dropdown.md) | Base Component | Needed | **Done** |
+| [Generic Text Field]() | Base Component | Draft | **Done** |
+| [Zipcode ](components/input/zipcode.md) | Base Component | Needed | **Done** |
+| [City ](components/input/city.md) | Base Component | Needed | **Done** |
+| [Dropdown](components/dropdown.md) | Base Component | Needed | **Done** |
 | [Primary Button](components/button/primary-button.md) | Base Component | Needed | **Done** |
 | [Secondary Button](components/button/secondary-button.md) | Base Component | Needed | **Done** |
 | [Link Button](components/button/link-button.md) | Base Component | Needed | **Done** |

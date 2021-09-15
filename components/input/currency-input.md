@@ -28,5 +28,7 @@ Ant Design's [**Input with Pre-fix**](https://ant.design/components/input/)
 
 **Error Messages**
 
+* Please enter an amount
+
 \*\*\*\*
 

@@ -10,7 +10,7 @@ The Preliminary Statement Form component has 3 active states and 1 Skeleton load
 
 **Child Elements**
 
-[Generic Text Field](../../input/text-field.md), [Currency input](../../input/currency-input.md), Header, [Primary button](../button/), [Secondary button](../button/secondary-button.md)
+[Generic Text Field](), [Currency input](../input/currency-input.md), Header, [Primary button](../button/), [Secondary button](../button/secondary-button.md)
 
 ## 1. States
 
@@ -46,14 +46,14 @@ In order to save the form, you must complete the following fields. The others ar
 
 | Name | Type | Required |
 | :--- | :--- | :--- |
-| Address 1 | [Generic](../../input/text-field.md) |  |
-| Address 2 | [Generic](../../input/text-field.md) |  |
-| City | [Generic](../../input/text-field.md) |  |
-| State | [Dropdown](../../input/dropdown.md) |  |
-|  Phone Number | [Phone](../../input/phone-number.md) | **Yes** |
-|  Lease Type | [Dropdown](../../input/dropdown.md) | **Yes** |
-| Estimated Taxes Fields \(all\) | [Currency](../../input/currency-input.md) |  |
-| Other Fee's | [Generic](../../input/text-field.md) |  |
+| Address 1 | [Generic]() |  |
+| Address 2 | [Generic]() |  |
+| City | [Generic]() |  |
+| State | [Dropdown](../dropdown.md) |  |
+|  Phone Number | [Phone](../input/phone-number.md) | **Yes** |
+|  Lease Type | [Dropdown](../dropdown.md) | **Yes** |
+| Estimated Taxes Fields \(all\) | [Currency](../input/currency-input.md) |  |
+| Other Fee's | [Generic]() |  |
 
 ## 5. Error Messages
 
