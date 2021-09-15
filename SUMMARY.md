@@ -3,6 +3,11 @@
 * [Overview](README.md)
 * [Roadmap](roadmap.md)
 
+## Global Components <a id="global-component"></a>
+
+* [Left Nav Bar](global-component/left-nav-bar.md)
+* [Global Header](global-component/global-header.md)
+
 ## Components
 
 * [Input](components/input/README.md)
@@ -26,11 +31,6 @@
   * [Statements](components/form/preliminary-and-final-statements.md)
 * [Top Navigation Menu](components/top-navigation-menu/README.md)
   * [LBO - Variant 1](components/top-navigation-menu/top-navigation.md)
-
-## Global Components <a id="global-component"></a>
-
-* [Left Nav Bar](global-component/left-nav-bar.md)
-* [Global Header](global-component/global-header.md)
 
 ## Dev Resources
 
