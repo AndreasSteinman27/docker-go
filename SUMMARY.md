@@ -45,7 +45,3 @@
   * [Social Security](archive-do-not-look/social-security.md)
   * [Password](archive-do-not-look/password.md)
 
-## Tables
-
-## Text Field
-
