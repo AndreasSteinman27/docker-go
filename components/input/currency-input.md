@@ -60,6 +60,8 @@ Amounts are in decimal format with 2 places after the decimal point. For example
 {% tab title="Code" %}
 **Code**
 
+{% embed url="https://storybook.carputty.com/axle/iframe.html?id=inputs-currency-input--primary&args=&viewMode=story" %}
+
 \*\*\*\*
 {% endtab %}
 {% endtabs %}
