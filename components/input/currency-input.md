@@ -8,23 +8,25 @@ description: Used for currency and monetary values.
 
 {% tabs %}
 {% tab title="Usage" %}
+**Usage**
+
 This field is intended to be used for currency values
 {% endtab %}
 
 {% tab title="Parent Object" %}
-
+**Parent Object**
 {% endtab %}
 
 {% tab title="Requirements" %}
-
+**Requirements**
 {% endtab %}
 
 {% tab title="Error Handling" %}
-
+**Error Handling**
 {% endtab %}
 
 {% tab title="Code" %}
-
+**Code**
 {% endtab %}
 {% endtabs %}
 
