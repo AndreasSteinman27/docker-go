@@ -25,11 +25,13 @@
   * [City](components/input/city.md)
 * [Dropdown](components/dropdown.md)
 * [Table](components/task-tables/README.md)
-  * [Trim](components/task-tables/trim.md)
-  * [Direct Lease Documents](components/task-tables/direct-lease-documents.md)
-  * [Disbursement](components/task-tables/disbursement.md)
-  * [Retail Lease Documents](components/task-tables/retail-lease-documents.md)
-  * [Archive](components/task-tables/archive.md)
+  * [Task Table](components/task-tables/task-table/README.md)
+    * [Trim](components/task-tables/task-table/trim.md)
+    * [Direct Lease Documents](components/task-tables/task-table/direct-lease-documents.md)
+    * [Retail Lease Documents](components/task-tables/task-table/retail-lease-documents.md)
+    * [Disbursement](components/task-tables/task-table/disbursement.md)
+  * [Object Table](components/task-tables/object-table/README.md)
+    * [Archive](components/task-tables/object-table/archive.md)
 * [Button](components/button/README.md)
   * [Primary Button](components/button/primary-button.md)
   * [Secondary Button](components/button/secondary-button.md)
@@ -43,9 +45,9 @@
 * [Menu](components/top-navigation-menu/README.md)
   * [Lease Buyout - Transaction](components/top-navigation-menu/top-navigation.md)
 
-## Dev Resources
+## Alerts & Errors
 
-* [Existing Error Messages](dev-resources/existing-error-messages.md)
+* [Existing Error Messages](alerts-and-errors/existing-error-messages.md)
 
 ## Archived <a id="archive"></a>
 
