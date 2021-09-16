@@ -24,5 +24,11 @@ Many organizations have what they consider to be a **design system**, but these 
 
 **In order to quickly iterate with confidence, design teams need access to a single source of truth that allows for a scalable UI language and streamlined UX guidelines**. Building a library of design patterns, rules, and UX guidelines prevent inconsistencies when shipping products at scale.
 
+### **How are components organized?**
+
+The term component gets thrown around alot in development. It's useful to think of component in terms of building block with each getting more complex as you move up in complexity.
+
 ![Design Systems](https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/12/dsystems.png)
+
+
 
