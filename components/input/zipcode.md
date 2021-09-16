@@ -4,25 +4,31 @@
 
 {% tabs %}
 {% tab title="Usage" %}
-
+**Usage**
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Parent Object" %}
+**Parent Object**
 
+[Ant Design's Input](https://ant.design/components/input/)
+{% endtab %}
+
+{% tab title="Requriments" %}
+**Requirements**
+{% endtab %}
+
+{% tab title="Attributes Format" %}
+**Attributes Format**
+{% endtab %}
+
+{% tab title="Error Handeling" %}
+**Error Handeling**
+{% endtab %}
+
+{% tab title="Code" %}
+**Code**
 {% endtab %}
 {% endtabs %}
 
-**Intended use**  
-A generic text field that can be used as a base for different types of inputs
-
-**Parent Object**  
-Ant Design's [Input](https://ant.design/components/input/)
-
-**Functional Requirements**
-
-**\(needed\)**
-
-**Error Messaging**
-
-**\(needed\)**
+\*\*\*\*
 
