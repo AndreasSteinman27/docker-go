@@ -2,17 +2,33 @@
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=392%3A23103" %}
 
-**Intended use**  
-A generic text field that can be used as a base for different types of inputs
+{% tabs %}
+{% tab title="Usage" %}
+**Usage**
+{% endtab %}
 
-**Parent Object**  
-[Ant Design's Input Link](https://ant.design/components/input/)
+{% tab title="Parent Object" %}
+**Parent Object**
+{% endtab %}
 
-**Functional Requirements**
+{% tab title="Requirements" %}
+**Requirements**
+{% endtab %}
 
-**\(needed\)**
+{% tab title="Validation" %}
+**Validation**
+{% endtab %}
 
-**Error Messaging**
+{% tab title="Attributes Format" %}
+**Attributes Format**
+{% endtab %}
 
-**\(needed\)**
+{% tab title="Error Handeling" %}
+**Error Handling**
+{% endtab %}
+
+{% tab title="Code" %}
+
+{% endtab %}
+{% endtabs %}
 
