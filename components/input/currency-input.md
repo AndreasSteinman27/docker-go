@@ -7,11 +7,23 @@ description: Used for currency and monetary values.
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4522" %}
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Usage" %}
+This field is intended to be used for currency values
+{% endtab %}
+
+{% tab title="Parent Object" %}
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Requirements" %}
+
+{% endtab %}
+
+{% tab title="Error Handling" %}
+
+{% endtab %}
+
+{% tab title="Code" %}
 
 {% endtab %}
 {% endtabs %}

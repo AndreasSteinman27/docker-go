@@ -2,28 +2,46 @@
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4469" %}
 
-**Intended use**  
+{% tabs %}
+{% tab title="Usage" %}
+**Usage**
+
 For capturing U.S. phone numbers
+{% endtab %}
 
-**Parent Object**  
+{% tab title="Parent Object" %}
+**Parent Object**
+
 [Ant Design's Input Link](https://ant.design/components/input/)
+{% endtab %}
 
-**Functional Requirements**
+{% tab title="Requirements" %}
+**Requirements**
 
 * 10 characters only
 * Only numbers
-* Auto-formating: \(111\) 111-1111
+* Auto- formating: \(111\) 111-1111
+{% endtab %}
 
-**Validations**
+{% tab title="Validation" %}
+**Validation**
 
 * A null value is invalid
 * The entry must be all numbers
 * The entry must be 10 numbers long
 * \(country code for future iterations\)
+{% endtab %}
 
+{% tab title="Error Handling" %}
 **Error Messages**
 
 * Please input a valid phone number
+{% endtab %}
+
+{% tab title="Code" %}
+**Code**
+{% endtab %}
+{% endtabs %}
 
 \*\*\*\*
 
