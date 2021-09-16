@@ -21,6 +21,10 @@ For capturing U.S. phone numbers
 * 10 characters only
 * Only numbers
 * Auto- formating: \(111\) 111-1111
+
+**Placeholder**
+
+* none
 {% endtab %}
 
 {% tab title="Validation" %}
@@ -32,6 +36,16 @@ For capturing U.S. phone numbers
 * \(country code for future iterations\)
 {% endtab %}
 
+{% tab title="Attributes Format" %}
+### Attributes Format
+
+For example:
+
+```text
+(123) - 456 - 7890 => 1234567890-
+```
+{% endtab %}
+
 {% tab title="Error Handling" %}
 **Error Messages**
 
@@ -40,6 +54,8 @@ For capturing U.S. phone numbers
 
 {% tab title="Code" %}
 **Code**
+
+\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
