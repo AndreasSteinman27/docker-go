@@ -6,7 +6,7 @@
 {% tab title="Usage" %}
 **Usage**
 
-To properly display the city field
+An input field with validation for city names
 {% endtab %}
 
 {% tab title="Parent Object" %}
@@ -20,7 +20,7 @@ To properly display the city field
 
 * Only accepts letters and symbols
 * Max character limit is 32
-* All symbols are allowed for spainish, hawian, native American named cities
+* Unicode symbols are allowed, to cover Spanish, Hawaiian, or Native American city names
 {% endtab %}
 
 {% tab title="Validation" %}
@@ -35,7 +35,7 @@ To properly display the city field
 \*\*\*\*
 {% endtab %}
 
-{% tab title="Error Handeling" %}
+{% tab title="Error Handling" %}
 **Error Handling**
 
 Please provide a valid city
