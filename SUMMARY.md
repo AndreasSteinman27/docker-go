@@ -1,8 +1,12 @@
 # Table of contents
 
-* [Purpose](README.md)
-* [Axle Technical Description](axle-layout.md)
-* [Roadmap](roadmap.md)
+* [Introduction](README.md)
+
+## Getting Started
+
+* [What is Axle?](getting-started/axle-layout.md)
+* [Dev Resources](getting-started/resource-page.md)
+* [Roadmap](getting-started/roadmap.md)
 
 ## Global Components <a id="global-component"></a>
 
@@ -39,7 +43,6 @@
 
 * [Axle Calculations](dev-resources/axle-calculations.md)
 * [API & Attributes Formats](dev-resources/back-end.md)
-* [Resource Page](dev-resources/resource-page.md)
 * [Existing Error Messages](dev-resources/existing-error-messages.md)
 
 ## Archived <a id="archive"></a>

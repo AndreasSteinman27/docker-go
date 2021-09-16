@@ -2,6 +2,16 @@
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1%3A3" %}
 
+{% tabs %}
+{% tab title="Intended Use" %}
+
+{% endtab %}
+
+{% tab title="Second Tab" %}
+
+{% endtab %}
+{% endtabs %}
+
 **Intended use**  
 A generic text field that can be used as a base for different types of inputs. Should only be used directly for simple text fields with one-off \(non-validated\) data, otherwise, a different object should be created.
 
