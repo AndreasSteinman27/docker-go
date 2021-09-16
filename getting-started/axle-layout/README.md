@@ -1,4 +1,4 @@
-# What is Axle?
+# System Architecture
 
 ## What is Axle?
 

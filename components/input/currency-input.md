@@ -45,6 +45,10 @@ This field is intended to be used for currency values
 **Output Format**
 
 Amounts are in decimal format with 2 places after the decimal point. For example, 32.45 is thirty two dollars and forty five cents.
+
+```text
+
+```
 {% endtab %}
 
 {% tab title="Error Handling" %}
