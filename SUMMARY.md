@@ -25,6 +25,7 @@
   * [City](components/input/city.md)
 * [Dropdown](components/dropdown.md)
 * [Table](components/task-tables/README.md)
+  * [Trim](components/task-tables/trim.md)
   * [Direct Lease Documents](components/task-tables/direct-lease-documents.md)
   * [Disbursement](components/task-tables/disbursement.md)
   * [Retail Lease Documents](components/task-tables/retail-lease-documents.md)
