@@ -30,7 +30,7 @@ The task table is to provide a central view for MSA's to see what task needs to 
 
 | Name | Flow |
 | :--- | :--- |
-| Trim | Lease-buyout |
+| [Trim](trim.md) | Lease-buyout |
 | Direct Lease Documents | Lease-buyout |
 | Retail Lease Documents | Lease-buyout |
 | Disbursement | Lease-buyout |
