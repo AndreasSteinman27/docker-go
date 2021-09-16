@@ -19,8 +19,12 @@ The task table is to provides a central view for MSA's to see what task needs to
 
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="Interaction" %}
+### Interaction
 
+* Upload brings up the Side Drawer - Upload
+* Start brings up Modal - Tasks
+  * Once task is complete the button link turns to Edit
 {% endtab %}
 {% endtabs %}
 

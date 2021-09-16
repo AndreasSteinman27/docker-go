@@ -4,3 +4,21 @@
 
 
 
+{% tabs %}
+{% tab title="Usage" %}
+
+{% endtab %}
+
+{% tab title="Requirements" %}
+
+{% endtab %}
+
+{% tab title="Intearction" %}
+
+{% endtab %}
+
+{% tab title="Code" %}
+
+{% endtab %}
+{% endtabs %}
+

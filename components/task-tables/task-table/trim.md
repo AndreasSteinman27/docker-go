@@ -15,7 +15,7 @@
 ### Interaction
 
 * Upload brings up the Side Drawer - Upload
-* Start brings up Modal - Tasks
+* Start brings up Modal - Trim Tasks
   * Once task is complete the button link turns to Edit
 {% endtab %}
 
@@ -29,6 +29,10 @@
 ### Task Completion / Edit
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=876%3A25901" %}
+{% endtab %}
+
+{% tab title="Code" %}
+
 {% endtab %}
 {% endtabs %}
 
