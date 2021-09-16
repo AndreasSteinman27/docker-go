@@ -1,6 +1,6 @@
 # API Documentation
 
-Requires VPN, username, and password to access.
+ \(u: `carputty-user` \| p: `goputtygo`\)
 
 {% embed url="https://docs.carputty.com/" %}
 
