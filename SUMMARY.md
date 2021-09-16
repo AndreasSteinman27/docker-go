@@ -13,7 +13,7 @@
 
 ## Global Components <a id="global-component"></a>
 
-* [Side Nav Bar](global-component/left-nav-bar.md)
+* [Inline Menu](global-component/left-nav-bar.md)
 * [Global Header](global-component/global-header.md)
 
 ## Components
