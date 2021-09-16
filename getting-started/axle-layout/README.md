@@ -2,7 +2,7 @@
 
 ## What is Axle?
 
-![](../.gitbook/assets/axle-system-environment.png)
+![](../../.gitbook/assets/axle-system-environment.png)
 
 Axle is an end-to-end digital lending platform that streamlines income/asset/employment verifications and provides near real-time approvals for lines of credit, including all the integrations necessary for efficient and accurate credit decisioning.
 

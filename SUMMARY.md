@@ -4,7 +4,9 @@
 
 ## Getting Started
 
-* [What is Axle?](getting-started/axle-layout.md)
+* [What is Axle?](getting-started/axle-layout/README.md)
+  * [API Documentation](getting-started/axle-layout/api-documentation.md)
+  * [Attributes Formats](getting-started/axle-layout/back-end.md)
 * [Dev Resources](getting-started/resource-page.md)
 * [Roadmap](getting-started/roadmap.md)
 
@@ -42,7 +44,6 @@
 ## Dev Resources
 
 * [Axle Calculations](dev-resources/axle-calculations.md)
-* [API & Attributes Formats](dev-resources/back-end.md)
 * [Existing Error Messages](dev-resources/existing-error-messages.md)
 
 ## Archived <a id="archive"></a>

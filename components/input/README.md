@@ -3,28 +3,26 @@
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1%3A3" %}
 
 {% tabs %}
-{% tab title="Intended Use" %}
-
+{% tab title="Usage" %}
+A generic text field that can be used as a base for different types of inputs. Directly for simple text fields with one-off validated data, otherwise.
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
-
-**Intended use**  
-A generic text field that can be used as a base for different types of inputs. Should only be used directly for simple text fields with one-off \(non-validated\) data, otherwise, a different object should be created.
-
-**Parent Object**  
+{% tab title="Parent Object" %}
 [Ant Design's Input Link](https://ant.design/components/input/)
+{% endtab %}
 
-**Functional Requirements**
-
+{% tab title="Requirements" %}
 * Must take any character entered in
 * Must respond to empty, focus, hover, error, and disabled states
   * The error state should appear if the field is required and the form is submitted with the field empty. If other validators are required, consider creating a unique object.
+{% endtab %}
 
-**Error Messaging**
-
+{% tab title="Error Handling" %}
 * This field is required
+{% endtab %}
+
+{% tab title="Code" %}
+
+{% endtab %}
+{% endtabs %}
 

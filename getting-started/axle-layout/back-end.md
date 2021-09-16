@@ -1,10 +1,4 @@
-# API & Attributes Formats
-
-## API Documentation
-
-Requires VPN, username, and password to access.
-
-{% embed url="https://docs.carputty.com/" %}
+# Attributes Formats
 
 ## Attributes Formats
 
