@@ -6,5 +6,8 @@
 | Ant Framework | [https://ant.design/components/overview/](https://ant.design/components/overview/) |
 | API Providers / Vendors | [https://carputty.atlassian.net/l/c/M0cA8jES](https://carputty.atlassian.net/l/c/M0cA8jES) |
 | Decision Engine | [https://carputty.atlassian.net/l/c/wgJHvZyA](https://carputty.atlassian.net/l/c/wgJHvZyA) |
-| Axle Status for Applications | [https://carputty.atlassian.net/l/c/c10ErofS](https://carputty.atlassian.net/l/c/c10ErofS) |
+| Axle Status for Applications | https://carputty.atlassian.net/l/c/c10ErofS |
+| Handy Dany Notebook | [https://carputty.atlassian.net/l/c/VqHuSJY8](https://carputty.atlassian.net/l/c/VqHuSJY8) |
+
+
 

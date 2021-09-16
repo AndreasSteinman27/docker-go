@@ -28,48 +28,37 @@ There are several key components needed to make this possible.
 
 ## State & Status
 
-### Applications Status
+Reference page: [https://carputty.atlassian.net/l/c/0Lcuwb8b](https://carputty.atlassian.net/l/c/0Lcuwb8b)
+
+### Application Statuses <a id="Application-Statuses"></a>
 
 * `pending` - Default status for new LOC applications. Identity, credit and income information still missing.
 * `underwriting` - All required fields are captured. This step is typically performed by the automated decision engine, but can be done manually as well.
 * `needs-review` - The application requires manual review, for any special cases that fall through the decision engine.
+* `canceled` - The application was canceled by the member.
 * `declined` - The application was denied.
-* `approved` - The application was approved.
+* `approved` - The application was approved
 * `originated` - The borrower signed the LOC agreement document, and passed a hard credit pull.
-* `canceled` - The application was cancel.
 
-### Loan Status
+### Asset/Transaction Statuses <a id="Asset/Transaction-Statuses"></a>
 
-* `pending` - Default status for new loans. Line of Credit agreement document and hard credit pull still missing.
-* `active`
-* `frozen`
-* `paid-off`
-* `charged-off`
-* `canceled` - The loan was cancel.
-
-### Asset Status
-
-* `pending` - Default status for new assets.
-* `prelim-advance-waiting`
-* `prelim-advance-review`
-* `documents-upload`
-* `final-advance-waiting`
-* `final-advance-review`
-* `approved`
-* `declined`
-* `active`
-* `paid-off`
-* `charged-off`
-* `frozen`
-* `canceled`
-
-
+* `pending` - The transaction has been initiated, but no information has been submitted
+* `prelim-advance-waiting` - The information for a preliminary statement has been submitted and needs to be reviewed by us
+* `prelim-advance-review` - The preliminary statement must be reviewed and signed by the member
+* `documents-upload` - Documents required for the final statement must be uploaded by the member
+* `final-advance-waiting` - The information for a final statement has been submitted and needs to be reviewed by us
+* `final-advance-review` - The preliminary statement must be reviewed and signed by the member
+* `approved` - The transaction has been approved
+* `vehicle-pickup-confirmation` - For Retail transactions - the member must confirm that their vehicle has been picked up
+* `ready-to-fund` - The transaction is ready to fund.
+* `funding-requested` - Funding for the asset/transaction is in-process
+* `funded` - The asset/transaction has been funded.
 
 ## Terms
 
 | People & Roles | Description |
 | :--- | :--- |
-| MSA | Member Sucess Agents |
+| MSA | Member Success Agents |
 | Agent | Any person with account access to Axle. \(non-customer facing\) |
 | Borrower | Any person who initiated the loan application process. |
 | Visitor | Any person who visits the website, and has not created an account yet. |
