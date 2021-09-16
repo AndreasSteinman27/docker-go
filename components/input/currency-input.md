@@ -42,12 +42,17 @@ This field is intended to be used for currency values
 {% endtab %}
 
 {% tab title="Attributes Format" %}
-**Output Format**
+**Attributes Format**
 
-Amounts are in decimal format with 2 places after the decimal point. For example, 32.45 is thirty two dollars and forty five cents.
+Amounts are in decimal format with 2 places after the decimal point. 
+
+For example:
 
 ```text
-
+$0 => $0.00
+$1 => $1.00
+$1.1 => $1.10
+$32.50 => $32.50
 ```
 {% endtab %}
 
