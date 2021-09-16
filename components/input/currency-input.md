@@ -59,6 +59,8 @@ Amounts are in decimal format with 2 places after the decimal point. For example
 
 {% tab title="Code" %}
 **Code**
+
+\*\*\*\*
 {% endtab %}
 {% endtabs %}
 

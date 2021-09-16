@@ -4,12 +4,12 @@
 
 ## Getting Started
 
+* [Roadmap](getting-started/roadmap.md)
 * [System Architecture](getting-started/axle-layout/README.md)
   * [API Documentation](getting-started/axle-layout/api-documentation.md)
   * [Calculations](getting-started/axle-layout/axle-calculations.md)
   * [Attributes Formats](getting-started/axle-layout/back-end.md)
-* [Dev Resources](getting-started/resource-page.md)
-* [Roadmap](getting-started/roadmap.md)
+* [Additional Resources](getting-started/resource-page.md)
 
 ## Global Components <a id="global-component"></a>
 

@@ -1,6 +1,4 @@
-# Dev Resources
-
-
+# Additional Resources
 
 | Name | Link |
 | :--- | :--- |
