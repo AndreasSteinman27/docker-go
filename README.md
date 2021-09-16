@@ -14,19 +14,15 @@ This document is made for **Carputty Developers and QA**. Developers who begin p
 
 To **serve as a centralized source of truth and reference manual for Axle UI components**. By actually sitting down with members of other departments to write functional specification documents, we will be able to obtain buy-in at an early stage for Axle's current direction. This document is **designed to be an ongoing conversation between all the product team members who work on Axle**.
 
-### **Why a Design System**
+### **What is a Design System?**
 
-\*\*\*\*
+A **design system** is a collection of reusable components, guided by clear standards, that can be assembled together to build any number of applications.
 
-\*\*\*\*
+### **How is it different from a framework or component library?** 
 
-### **Resources**
+Many organizations have what they consider to be a **design system**, but these collections typically amount to no more than a group of elements and code snippets. While a style guide or pattern library can be a starting point for a design system, they are not the only components. 
 
-{% embed url="https://uxdesign.cc/how-much-is-a-design-system-worth-d72e2ededf76" %}
+**In order to quickly iterate with confidence, design teams need access to a single source of truth that allows for a scalable UI language and streamlined UX guidelines**. Building a library of design patterns, rules, and UX guidelines prevent inconsistencies when shipping products at scale.
 
-{% embed url="https://ethanmarcotte.com/wrote/the-design-systems-between-us/" %}
-
-\*\*\*\*
-
-
+![Design Systems](https://s3.amazonaws.com/blog.invisionapp.com/uploads/2017/12/dsystems.png)
 
