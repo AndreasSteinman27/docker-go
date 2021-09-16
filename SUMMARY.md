@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Purpose](README.md)
+* [Axle Technical Description](axle-layout.md)
 * [Roadmap](roadmap.md)
 
 ## Global Components <a id="global-component"></a>
 
-* [Axle Layout](global-component/axle-layout.md)
 * [Left Nav Bar](global-component/left-nav-bar.md)
 * [Global Header](global-component/global-header.md)
 

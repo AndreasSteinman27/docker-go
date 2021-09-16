@@ -8,7 +8,6 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :---: |
-| [Generic Text Field]() | Base Component | Draft | **Done** |
 | [Zipcode ](components/input/zipcode.md) | Base Component | Needed | **Done** |
 | [City ](components/input/city.md) | Base Component | Needed | **Done** |
 | [Dropdown](components/dropdown.md) | Base Component | Needed | **Done** |

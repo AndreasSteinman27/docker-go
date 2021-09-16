@@ -4,7 +4,7 @@ description: >-
   product requirements.
 ---
 
-# Overview
+# Purpose
 
 ### **Who is this document for?**
 
@@ -14,13 +14,9 @@ This document is made for **Carputty Developers and QA**. Developers who begin p
 
 To **serve as a centralized source of truth and reference manual for Axle UI components**. By actually sitting down with members of other departments to write functional specification documents, we will be able to obtain buy-in at an early stage for Axle's current direction. This document is **designed to be an ongoing conversation between the product team**.
 
-### Terms
+### **What is this gloassay?**
 
-| Term | Description |
-| :--- | :--- |
-| MSA | Member Success Agent |
-| Axle | Carputty Platform for creating loans |
-| LOS | Loan Origination System |
-| Refi | Car refinancing a traditional loan |
-| LBO | Lease Buy-Out |
+
+
+
 
