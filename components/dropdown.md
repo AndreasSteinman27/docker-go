@@ -12,7 +12,7 @@ The `Dropdown` displays and allows users to select a single item from a predeter
 {% tab title="Parent Object" %}
 ### Parent Object
 
-Ant Design's [Select](https://ant.design/components/select/)
+[Ant Design's Select](https://ant.design/components/select/)
 {% endtab %}
 
 {% tab title="Requirements" %}
