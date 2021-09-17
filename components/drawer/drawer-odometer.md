@@ -7,7 +7,7 @@
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="States" %}
 
 {% endtab %}
 {% endtabs %}
