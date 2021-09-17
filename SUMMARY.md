@@ -42,7 +42,7 @@
   * [Drawer Upload](components/drawer/upload.md)
   * [Drawer - Maroney Label](components/drawer/drawer-trim.md)
   * [Drawer - Autocheck](components/drawer/untitled.md)
-  * [Drawer - Odometer](components/drawer/drawer-odometer.md)
+  * [Drawer - Odometer Image](components/drawer/drawer-odometer.md)
 * [Table](components/task-tables/README.md)
   * [Task Table](components/task-tables/task-table/README.md)
     * [Trim](components/task-tables/task-table/trim.md)
