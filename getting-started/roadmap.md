@@ -19,16 +19,16 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Feature | Type | Requirements | Design | Code |
 | :--- | :---: | :---: | :--- | :--- |
-| [Form Base](../components/form/) | Base Component |  |  |  |
-| Task Table  | Variant |  |  |  |
-| Object Table | Variant |  |  |  |
-| Preliminary Statement | Task Table | **Done** | **Done** | **Done** |
-| Final Statement | Task Table |  |  |  |
-| [Table](../components/task-tables/) | Base Component |  |  |  |
+| [Form](../components/form/) | Base Component |  |  |  |
+| [Preliminary Statement](../components/form/lbo-preliminary-statement.md) | Statement Form | **Done** | **Done** | **Done** |
+| Final Statement | Statement Form |  |  |  |
+| [Table](../components/task-tables/) | Base |  |  |  |
 | Tags | Base Component |  |  |  |
-| Trim Table | Table Variant |  |  |  |
-| [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | Table Variant |  |  |  |
-| [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | Table Variant |  |  |  |
+| [Task Table](../components/task-tables/task-table/) | Variant |  |  |  |
+| [Object Table](../components/task-tables/object-table/) | Variant |  |  |  |
+| [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) |  |  |  |
+| [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) |  |  |  |
+| [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | Task Table |  |  |  |
 
 ### Release 3
 
