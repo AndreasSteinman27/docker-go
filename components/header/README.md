@@ -16,3 +16,8 @@
 {% endtab %}
 {% endtabs %}
 
+| Variant Name | Flows |
+| :--- | :--- |
+| No Button Form Header | Lease-buyout |
+| Save/Edit Form Header | Lease-buyout |
+
