@@ -44,6 +44,9 @@ Below is the roadmap for functional requirements and designs for Axle components
 | Skelton Loading | Component |  |  |
 | Loading | Component |  |  |
 | Side Drawer | Component |  |  |
+| Drawer - Upload |  |  |  |
+| Drawer - Autocheck |  |  |  |
+| Drawer - Maroney Label |  |  |  |
 
 ### Release 4
 
