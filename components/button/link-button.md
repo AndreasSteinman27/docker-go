@@ -17,6 +17,9 @@
 
 {% tab title="Requirements" %}
 ### Requirements
+
+* Contains default, hover, and disabled
+* Base styling
 {% endtab %}
 
 {% tab title="Code" %}
