@@ -21,6 +21,9 @@ Default buttons are used for non-primary actions. If not sure which button type 
 
 {% tab title="Requirements" %}
 ### Requirements
+
+* Contains default, hover, disabled, action, and animating states
+* Base styling
 {% endtab %}
 
 {% tab title="Code" %}

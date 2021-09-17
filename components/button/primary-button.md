@@ -20,7 +20,7 @@ Emphasize on "complete" or "recommend" action. There is at most one primary butt
 {% endtab %}
 
 {% tab title="Requirements" %}
-* Contains default, hover, disabled, action, and animating
+* Contains default, hover, disabled, action, and animating states
 * Base styling
 {% endtab %}
 

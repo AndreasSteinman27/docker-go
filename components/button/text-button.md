@@ -2,13 +2,24 @@
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=534%3A23865" %}
 
-**Intended use**  
+{% tabs %}
+{% tab title="Usage" %}
+### Usage
+{% endtab %}
 
+{% tab title="Parent Object" %}
+### **Parent Object**
 
-**Parent Object**  
 [Ant Framework - Text Button](https://ant.design/components/button/)
+{% endtab %}
 
-**Functional Requirements**
+{% tab title="Requirements" %}
+* Contains default, hover, and disabled states
+* Base styling
+{% endtab %}
 
-**\(needed\)**
+{% tab title="Code" %}
+
+{% endtab %}
+{% endtabs %}
 
