@@ -12,13 +12,9 @@
 
 #### Onload
 
-Pass
+**Pass**
 
-Fail - Image unreadable
-
-Fail - Over Mileage
-
-Fail - 
+**Fail**
 {% endtab %}
 {% endtabs %}
 
