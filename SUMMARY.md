@@ -38,7 +38,6 @@
   * [No Button Form Header](components/header/no-button-form-header.md)
   * [Save/Edit Form Header](components/header/2-button-form-header.md)
 * [Input](components/input/README.md)
-  * [Odometer Mileage](components/input/odometer-mileage.md)
   * [Currency](components/input/currency-input.md)
   * [Phone Number](components/input/phone-number.md)
   * [Zipcode](components/input/zipcode.md)
