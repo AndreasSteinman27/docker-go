@@ -21,7 +21,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | :--- | :---: | :---: | :--- | :--- |
 | [Form](../components/form/) | Base Component |  |  |  |
 | Header | Base Componet |  |  |  |
-| [Preliminary Statement](../components/form/lbo-preliminary-statement.md) | Statement Form | **Done** | **Done** | **Done** |
+| [Preliminary Statement](../components/form/statement-input-form/lbo-preliminary-statement.md) | Statement Form | **Done** | **Done** | **Done** |
 | Final Statement | Statement Form |  |  |  |
 | [Table](../components/task-tables/) | Base |  |  |  |
 | Tags | Base Component |  |  |  |
