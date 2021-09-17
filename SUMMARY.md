@@ -23,7 +23,7 @@
   * [Phone Number](components/input/phone-number.md)
   * [Zipcode](components/input/zipcode.md)
   * [City](components/input/city.md)
-* [Dropdown](components/dropdown.md)
+* [Selector](components/dropdown.md)
 * [Table](components/task-tables/README.md)
   * [Task Table Variant](components/task-tables/task-table/README.md)
     * [Trim](components/task-tables/task-table/trim.md)
