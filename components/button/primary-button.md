@@ -24,16 +24,10 @@ Emphasize on "complete" or "recommend" action. There is at most one primary butt
 * Base styling
 {% endtab %}
 
-{% tab title="Validation" %}
-
-{% endtab %}
-
-{% tab title="Error Handling" %}
-
-{% endtab %}
-
 {% tab title="Code" %}
+### Code
 
+{% embed url="https://storybook.carputty.com/axle/index.html?path=/story/axle-button--primary" %}
 {% endtab %}
 {% endtabs %}
 
