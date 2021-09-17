@@ -21,7 +21,7 @@ Base Table
 ### Requirements
 {% endtab %}
 
-{% tab title="Error Handeling" %}
+{% tab title="Error Handling" %}
 ### Error Handling
 {% endtab %}
 

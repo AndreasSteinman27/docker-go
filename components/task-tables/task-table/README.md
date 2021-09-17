@@ -1,4 +1,4 @@
-# Task Table Variant
+# Task Table
 
 ### Task Table Variant
 
