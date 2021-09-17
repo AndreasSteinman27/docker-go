@@ -28,7 +28,7 @@
   * [Secondary Button](components/button/secondary-button.md)
   * [Text Button](components/button/text-button.md)
   * [Link Button](components/button/link-button.md)
-* [Selector](components/dropdown.md)
+* [Dropdown](components/dropdown.md)
 * [Table](components/task-tables/README.md)
   * [Task Table Variant](components/task-tables/task-table/README.md)
     * [Trim](components/task-tables/task-table/trim.md)

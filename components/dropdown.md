@@ -1,4 +1,8 @@
-# Selector
+---
+description: Known also as a "Selector"
+---
+
+# Dropdown
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=264%3A5433" %}
 
