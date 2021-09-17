@@ -34,7 +34,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table/) |  |  |  |
 | [Disbursement](../components/task-tables/task-table/disbursement.md) | [Task Table](../components/task-tables/task-table/) |  |  |  |
 | [Document Archive](../components/task-tables/object-table/archive.md) | [Object Table](../components/task-tables/object-table/) |  |  |  |
-| Retail Lease Contact Info | [Contact Table](../components/task-tables/contact-table/) |  |  |  |
+| [Retail Lease Contact Info](../components/task-tables/contact-table/retail-lease-contact-info.md) | [Contact Table](../components/task-tables/contact-table/) |  |  |  |
 
 ### Release 3
 
