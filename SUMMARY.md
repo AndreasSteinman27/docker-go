@@ -38,7 +38,7 @@
   * [Object Table](components/task-tables/object-table/README.md)
     * [Archive](components/task-tables/object-table/archive.md)
 * [Form](components/form/README.md)
-  * [Preliminary & Final Statements](components/form/lbo-preliminary-statement.md)
+  * [Preliminary Statement](components/form/lbo-preliminary-statement.md)
   * [Statements](components/form/preliminary-and-final-statements.md)
 * [Side Drawer](components/drawer/README.md)
   * [Upload](components/drawer/upload.md)

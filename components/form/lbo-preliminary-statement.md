@@ -1,8 +1,4 @@
----
-description: Variant 1 of a base form.
----
-
-# Preliminary & Final Statements
+# Preliminary Statement
 
 **Description**
 
@@ -10,7 +6,7 @@ The Preliminary Statement Form component has 3 active states and 1 Skeleton load
 
 **Child Elements**
 
-[Generic Text Field](), [Currency input](../input/currency-input.md), Header, [Primary button](../button/), [Secondary button](../button/secondary-button.md)
+[Currency input](../input/currency-input.md), Header, [Primary button](../button/), [Secondary button](../button/secondary-button.md)
 
 ## 1. States
 
