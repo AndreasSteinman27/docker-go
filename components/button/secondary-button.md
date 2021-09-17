@@ -16,7 +16,7 @@ Default buttons are used for non-primary actions. If not sure which button type 
 {% tab title="Parent Object" %}
 ### Parent Object
 
-[Ant's Framework - Default Button](https://ant.design/components/button/)
+{% embed url="https://ant.design/components/button/" %}
 {% endtab %}
 
 {% tab title="Requirements" %}

@@ -18,7 +18,7 @@ Emphasize on "complete" or "recommend" action. There is at most one primary butt
 {% tab title="Parent Object" %}
 ### Parent Object
 
-[ANT Primary Button](https://ant.design/components/button/)
+{% embed url="https://ant.design/components/button/" %}
 {% endtab %}
 
 {% tab title="Requirements" %}

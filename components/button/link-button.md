@@ -12,7 +12,7 @@
 {% tab title="Parent Object" %}
 ### Parent Object
 
-[Ant Framework - Link Button](https://ant.design/components/button/#When-To-Use)
+{% embed url="https://ant.design/components/button/" %}
 {% endtab %}
 
 {% tab title="Requirements" %}
