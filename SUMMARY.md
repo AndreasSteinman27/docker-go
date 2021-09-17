@@ -40,6 +40,8 @@
   * [Lease Buyout - Transaction](components/top-navigation-menu/top-navigation.md)
 * [Drawer](components/drawer/README.md)
   * [Drawer - Upload](components/drawer/upload.md)
+  * [Drawer - Trim](components/drawer/drawer-trim.md)
+* [Untitled](components/untitled.md)
 * [Table](components/task-tables/README.md)
   * [Task Table](components/task-tables/task-table/README.md)
     * [Trim](components/task-tables/task-table/trim.md)
