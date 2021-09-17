@@ -27,7 +27,9 @@
 * [Form](components/form/README.md)
   * [Preliminary Statement](components/form/lbo-preliminary-statement.md)
   * [Statements](components/form/preliminary-and-final-statements.md)
-* [Form Header](components/header.md)
+* [Form Header](components/header/README.md)
+  * [No Button Form Header](components/header/no-button-form-header.md)
+  * [Save/Edit Form Header](components/header/2-button-form-header.md)
 * [Input](components/input/README.md)
   * [Currency](components/input/currency-input.md)
   * [Phone Number](components/input/phone-number.md)
@@ -57,7 +59,4 @@
 * [Archive - Do not look](archive-do-not-look/README.md)
   * [Social Security](archive-do-not-look/social-security.md)
   * [Password](archive-do-not-look/password.md)
-* [2-Button Form Header](2-button-form-header-1.md)
-* [1-Button Form Header](2-button-form-header.md)
-* [No Button Form Header](no-button-form-header.md)
 
