@@ -54,6 +54,7 @@
     * [Document Archive](components/task-tables/object-table/archive.md)
   * [Contact Table](components/task-tables/contact-table/README.md)
     * [Retail Lease Contact Info](components/task-tables/contact-table/retail-lease-contact-info.md)
+* [Radio Button](components/radio-button.md)
 
 ## Alerts & Errors
 
@@ -66,5 +67,4 @@
 * [Archive - Do not look](archive-do-not-look/README.md)
   * [Social Security](archive-do-not-look/social-security.md)
   * [Password](archive-do-not-look/password.md)
-* [Radio Button](radio-button.md)
 
