@@ -2,13 +2,29 @@
 
 
 
-**ntended use**  
+{% tabs %}
+{% tab title="Usage" %}
 
+{% endtab %}
 
-**Parent Object**  
+{% tab title="Parent Object" %}
 
+{% endtab %}
 
-**Functional Requirements**
+{% tab title="Requirements" %}
 
-**\(needed\)**
+{% endtab %}
+
+{% tab title="Validation" %}
+
+{% endtab %}
+
+{% tab title="Error Handling" %}
+
+{% endtab %}
+
+{% tab title="Code" %}
+
+{% endtab %}
+{% endtabs %}
 
