@@ -28,6 +28,8 @@ Default buttons are used for non-primary actions. If not sure which button type 
 
 {% tab title="Code" %}
 ### Code
+
+{% embed url="https://storybook.carputty.com/axle/index.html?path=/story/axle-button--secondary" %}
 {% endtab %}
 {% endtabs %}
 
