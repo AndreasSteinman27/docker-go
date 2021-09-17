@@ -23,7 +23,7 @@
   * [Phone Number](components/input/phone-number.md)
   * [Zipcode](components/input/zipcode.md)
   * [City](components/input/city.md)
-* [Button](components/button/README.md)
+* [Buttons](components/button/README.md)
   * [Primary Button](components/button/primary-button.md)
   * [Secondary Button](components/button/secondary-button.md)
   * [Text Button](components/button/text-button.md)

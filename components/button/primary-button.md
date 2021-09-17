@@ -11,6 +11,8 @@ description: The primary action button on the page.
 {% tabs %}
 {% tab title="Usage" %}
 ### Usage
+
+Emphasize on "complete" or "recommend" action. There is at most one primary button per button group.
 {% endtab %}
 
 {% tab title="Parent Object" %}
@@ -18,7 +20,8 @@ description: The primary action button on the page.
 {% endtab %}
 
 {% tab title="Requirements" %}
-
+* Contains default, hover, disabled, action and native state
+* Base styling
 {% endtab %}
 
 {% tab title="Validation" %}
