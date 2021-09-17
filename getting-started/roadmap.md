@@ -20,8 +20,10 @@ Below is the roadmap for functional requirements and designs for Axle components
 | Feature | Type | Requirements | Design | Code |
 | :--- | :---: | :---: | :--- | :--- |
 | [Form Base](../components/form/) | Base Component |  |  |  |
-| Preliminary Statement |  | **Done** | **Done** | **Done** |
-| Final Statement |  |  |  |  |
+| Task Table  | Variant |  |  |  |
+| Object Table | Variant |  |  |  |
+| Preliminary Statement | Task Table | **Done** | **Done** | **Done** |
+| Final Statement | Task Table |  |  |  |
 | [Table](../components/task-tables/) | Base Component |  |  |  |
 | Tags | Base Component |  |  |  |
 | Trim Table | Table Variant |  |  |  |
