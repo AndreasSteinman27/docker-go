@@ -24,7 +24,8 @@ This field is intended to be used for Odometer readings.
 {% endtab %}
 
 {% tab title="Error Handling" %}
-
+* This field is required
+* Vehicles with over 85,000 miles are not supported
 {% endtab %}
 
 {% tab title="Code" %}
