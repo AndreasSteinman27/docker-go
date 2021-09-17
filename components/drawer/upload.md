@@ -1,4 +1,4 @@
-# Drawer - Upload
+# Drawer Upload
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=692%3A25322" %}
 
@@ -29,6 +29,10 @@
 ### Upload Button Link is Pressed
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=692%3A25322" %}
+
+### Hover
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1143%3A27276" %}
 {% endtab %}
 
 {% tab title="Error Handeling" %}
