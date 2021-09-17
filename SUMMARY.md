@@ -38,7 +38,7 @@
   * [Object Table](components/task-tables/object-table/README.md)
     * [Archive](components/task-tables/object-table/archive.md)
 * [Form](components/form/README.md)
-  * [Preliminary Statement](components/form/lbo-preliminary-statement.md)
+  * [Preliminary & Final Statements](components/form/lbo-preliminary-statement.md)
   * [Statements](components/form/preliminary-and-final-statements.md)
 * [Side Drawer](components/drawer/README.md)
   * [Upload](components/drawer/upload.md)
@@ -56,5 +56,4 @@
 * [Archive - Do not look](archive-do-not-look/README.md)
   * [Social Security](archive-do-not-look/social-security.md)
   * [Password](archive-do-not-look/password.md)
-* [Header](header.md)
 
