@@ -8,15 +8,33 @@ description: The primary action button on the page.
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=99%3A5020" %}
 
-**Intended use**  
+{% tabs %}
+{% tab title="Usage" %}
+### Usage
+{% endtab %}
 
-
-**Parent Object**  
+{% tab title="Parent Object" %}
 [ANT Primary Button](https://ant.design/components/button/)
+{% endtab %}
 
-**Functional Requirements**
+{% tab title="Requirements" %}
 
-**\(needed\)**
+{% endtab %}
+
+{% tab title="Validation" %}
+
+{% endtab %}
+
+{% tab title="Error Handling" %}
+
+{% endtab %}
+
+{% tab title="Code" %}
+
+{% endtab %}
+{% endtabs %}
+
+\*\*\*\*
 
 \*\*\*\*
 
