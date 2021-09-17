@@ -9,10 +9,14 @@ description: The secondary action button on the page and also called  "Ghost" Bu
 {% tabs %}
 {% tab title="Usage" %}
 ### Usage
+
+Default buttons are used for non-primary actions. If not sure which button type to choose from, the default button is always a safe bet.
 {% endtab %}
 
 {% tab title="Parent Object" %}
 ### Parent Object
+
+[Ant's Framework - Default Button](https://ant.design/components/button/)
 {% endtab %}
 
 {% tab title="Requirements" %}
@@ -21,18 +25,6 @@ description: The secondary action button on the page and also called  "Ghost" Bu
 
 {% tab title="Code" %}
 ### Code
-
-{% embed url="https://storybook.carputty.com/axle/index.html?path=/story/axle-button--secondary" %}
 {% endtab %}
 {% endtabs %}
-
-**Intended use**  
-
-
-**Parent Object**  
-[Ant's Framework - Default Button](https://ant.design/components/button/)
-
-**Functional Requirements**
-
-**\(needed\)**
 
