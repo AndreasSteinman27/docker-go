@@ -7,7 +7,11 @@
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Requirements" %}
+
+{% endtab %}
+
+{% tab title="" %}
 
 {% endtab %}
 {% endtabs %}
