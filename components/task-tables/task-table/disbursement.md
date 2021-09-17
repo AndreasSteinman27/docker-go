@@ -7,12 +7,12 @@
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
-
-{% endtab %}
-{% endtabs %}
+{% tab title="States" %}
+### Completed 
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=640%3A24741" %}
+{% endtab %}
+{% endtabs %}
 
 
 
