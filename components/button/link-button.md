@@ -2,13 +2,27 @@
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=139%3A5890" %}
 
-**Intended use**  
-To capture a user's Social Security Number in a secure manner
+{% tabs %}
+{% tab title="Usage" %}
+### **Usage**
 
-**Parent Object**  
-[Ant Design's Input **-** Password component](https://ant.design/components/input/)
+\*\*\*\*
+{% endtab %}
 
-**Functional Requirements**
+{% tab title="Parent Object" %}
+### Parent Object
+{% endtab %}
 
-**\(needed\)**
+{% tab title="Requirements" %}
+### Requirements
+{% endtab %}
+
+{% tab title="Code" %}
+### Code
+{% endtab %}
+{% endtabs %}
+
+\*\*\*\*
+
+\*\*\*\*
 
