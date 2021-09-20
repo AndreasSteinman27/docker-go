@@ -28,9 +28,9 @@ The Preliminary Advance Statement is a document created within Axle that serves 
 
 In order to save the form, you must complete the following fields. The others are optional.
 
-* Calculation of Tax's and Fee's sent to Right Bar
-* Performs valuations
-* Provides 
+* Calculation of Tax's and Fee's are sent to Right Bar
+* Performs vehicle valuation
+* Provides a different flow based on retail or direct lease dropdown
 
 #### Required fields
 
