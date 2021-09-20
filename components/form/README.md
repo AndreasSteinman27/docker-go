@@ -1,5 +1,5 @@
 ---
-description: Form Base Component
+description: Base Component
 ---
 
 # Input Form
