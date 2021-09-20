@@ -1,4 +1,6 @@
-# Odometer
+# Odometer Reading
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1216%3A34043" %}
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -9,6 +11,8 @@ This field is intended to be used for Odometer readings.
 
 {% tab title="Parent Object" %}
 ### Parent Object
+
+[Ant Design's Input Link](https://ant.design/components/input/)
 {% endtab %}
 
 {% tab title="Requirements" %}
@@ -32,4 +36,6 @@ This field is intended to be used for Odometer readings.
 
 {% endtab %}
 {% endtabs %}
+
+
 

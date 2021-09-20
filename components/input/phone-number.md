@@ -10,7 +10,7 @@ For capturing U.S. phone numbers
 {% endtab %}
 
 {% tab title="Parent Object" %}
-**Parent Object**
+### **Parent Object**
 
 [Ant Design's Input Link](https://ant.design/components/input/)
 {% endtab %}
