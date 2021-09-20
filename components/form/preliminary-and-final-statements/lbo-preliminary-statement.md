@@ -40,7 +40,7 @@ Fields marked as Required must be completed and validated to submit this form. A
 | Lessor Details - Address 2 | Generic |  |  |
 | Lessor Details - City | Generic |  |  |
 | Lessor Details - State | [Dropdown](../../dropdown.md) |  |  |
-| Phone Number | [Phone](../../input/phone-number.md) | **Yes** |  |
+| Lessor Details - Phone Number | [Phone](../../input/phone-number.md) | **Yes** |  |
 | Lease Type | [Dropdown](../../dropdown.md) | **Yes** |  |
 | Estimated Taxes Fields \(all\) | [Currency](../../input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
