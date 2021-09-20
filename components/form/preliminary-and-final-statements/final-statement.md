@@ -4,6 +4,10 @@ description: Variant
 
 # Final Statement
 
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1632%3A27548" %}
+
+
+
 {% tabs %}
 {% tab title="Usage" %}
 ### **Usage**
@@ -37,19 +41,12 @@ In order to save the form, you must complete the following fields. The others ar
 
 In order to save the form, you must complete the following fields. The others are optional.
 
-### Final Statement Fields
+### Final Statement Required Fields
 
 | Name | Type | Required | Backend |
 | :--- | :--- | :--- | :---: |
 | Lease Buyout Amount | [Currency](../../input/currency-input.md) | **Yes** | \*\*\*\* |
-| Verified Taxes and Fees \(all fields\) | [Currency](../../input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
-
-### Required Fields Not on Page
-
-| Name | Type |  |
-| :--- | :--- | :--- |
-|  |  |  |
 {% endtab %}
 
 {% tab title="States" %}
