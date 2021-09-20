@@ -36,16 +36,16 @@ In order to save the form, you must complete the following fields. The others ar
 
 In order to save the form, you must complete the following fields. The others are optional.
 
-| Name | Type | Required |
-| :--- | :--- | :--- |
-| Address 1 | Generic |  |
-| Address 2 | Generic |  |
-| City | Generic |  |
-| State | [Dropdown](../dropdown.md) |  |
-|  Phone Number | [Phone](../input/phone-number.md) | **Yes** |
-|  Lease Type | [Dropdown](../dropdown.md) | **Yes** |
-| Estimated Taxes Fields \(all\) | [Currency](../input/currency-input.md) |  |
-| Other Fee's | Generic |  |
+| Name | Type | Required | Backend |
+| :--- | :--- | :--- | :--- |
+| Address 1 | Generic |  |  |
+| Address 2 | Generic |  |  |
+| City | Generic |  |  |
+| State | [Dropdown](../dropdown.md) |  |  |
+|  Phone Number | [Phone](../input/phone-number.md) | **Yes** |  |
+|  Lease Type | [Dropdown](../dropdown.md) | **Yes** |  |
+| Estimated Taxes Fields \(all\) | [Currency](../input/currency-input.md) |  |  |
+| Other Fee's | Generic |  |  |
 {% endtab %}
 
 {% tab title="States" %}
@@ -99,10 +99,4 @@ Form validation errors occur when "Save" is pressed and the input displays an In
 {% embed url="https://iframe.html?id=forms-prelim-form--primary&args=" %}
 {% endtab %}
 {% endtabs %}
-
-### Backend Tables
-
-| Input | Type |
-| :--- | :--- |
-|  |  |
 
