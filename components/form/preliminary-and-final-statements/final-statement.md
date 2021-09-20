@@ -9,6 +9,17 @@ description: Variant
 {% tabs %}
 {% tab title="Usage" %}
 ### **Usage**
+
+The Final Advance Statement is a document created within Axle that serves as a preliminary estimate for a given asset/transaction. 
+
+The final statement shows: 
+
+* transactional amounts 
+* vehicle price/outstanding balance
+* The minimum down payment as calculated against our valuation for the vehicle
+* Final taxes or fees. 
+
+Its counterpart is the Preliminary Advance Statement, which shows estimated values.
 {% endtab %}
 
 {% tab title="Parent Object" %}
