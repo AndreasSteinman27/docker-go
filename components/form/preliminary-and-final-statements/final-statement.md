@@ -9,7 +9,7 @@ description: Variant
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Parent Object" %}
 
 {% endtab %}
 {% endtabs %}
