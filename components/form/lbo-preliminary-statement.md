@@ -1,3 +1,7 @@
+---
+description: Variant
+---
+
 # Preliminary Statement
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4766" %}
@@ -50,7 +54,11 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 {% endtab %}
 
 {% tab title="Actions" %}
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1306%3A26568" %}
 
+### Generate Preliminary Form
+
+Creates a PDF report and a valuation calculation that is needed to Create a Final Valuation. This PDF is able to be downloaded on the member's side and will be an object in the documents section.
 {% endtab %}
 
 {% tab title="Error Handeling" %}
@@ -64,12 +72,6 @@ Form validation errors occur when "Save" is pressed and the input displays an In
 {% endtabs %}
 
 
-
-
-
-## 2. Generate Statements
-
-Creates a PDF report and a valuation calculation that is needed to Create a Final Valuation. This PDF is able to be downloaded on the member's side and will be an object in the documents section.
 
 ## 3. Flow
 
