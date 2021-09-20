@@ -7,7 +7,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 ### Release 1 - Inputs
 
 | Feature | Type | Requirements | Design | Code |
-| :--- | :---: | :---: | :---: | :--- |
+| :--- | :---: | :---: | :---: | :---: |
 | [Zipcode ](../components/input/zipcode.md) | Base Component | **Done** | **Done** |  |
 | [City ](../components/input/city.md) | Base Component | **Done** | **Done** |  |
 | [Dropdown](../components/dropdown.md) | Base Component | **Done** | **Done** |  |
