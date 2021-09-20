@@ -1,6 +1,6 @@
 # Preliminary Statement
 
-\*\*\*\*
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4766" %}
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -12,43 +12,60 @@ The Preliminary Advance Statement is a document created within Axle that serves 
 {% tab title="Parent Object" %}
 ### **Parent Object**
 
-**Input Form**
+[Input Form](./)
+
+### Child Elements
+
+[Currency input](../input/currency-input.md), [Header,](../header/) [Primary button](../button/), [Secondary button](../button/secondary-button.md)
 {% endtab %}
 
 {% tab title="Requirements" %}
+### Requirements
 
+In order to save the form, you must complete the following fields. The others are optional.
+
+* Calculation of Tax's and Fee's sent to Right Bar
+* Performs valuations
+* Provides 
 {% endtab %}
-{% endtabs %}
 
-\*\*\*\*
-
-**Description**
-
-The Preliminary Statement Form component has 3 active states and 1 Skeleton loading state. **Only the required fields** must be complete in order to save.
-
-**Child Elements**
-
-[Currency input](../input/currency-input.md), Header, [Primary button](../button/), [Secondary button](../button/secondary-button.md)
-
-## 1. States
-
-#### On-First Load
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4766" %}
-
-#### Saved State 
+{% tab title="States" %}
+### On-First Load
 
 In this state, values are submitted and calculated. For instance, taxes are generated and sent to the Right Sidebar
 
- This state can only be edited by pressing the Edit button.
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4766" %}
+
+### Saved-State
+
+This state can only be edited by pressing the Edit button.
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A10825" caption="" %}
 
-#### Edit
+### Edit
 
 This state allows for MSA's to edit their information and resubmit it. Discard will keep values from the previous save.
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A11583" %}
+{% endtab %}
+
+{% tab title="Actions" %}
+
+{% endtab %}
+
+{% tab title="Error Handeling" %}
+### Error Handeling
+
+Form validation errors occur when "Save" is pressed and the input displays an Inline Error. 
+
+* Lease type -&gt; Please select a lease type
+* Phone number -&gt; Please input a valid phone number
+{% endtab %}
+{% endtabs %}
+
+
+
+
 
 ## 2. Generate Statements
 
@@ -74,11 +91,6 @@ In order to save the form, you must complete the following fields. The others ar
 | Other Fee's | [Generic]() |  |
 
 ## 5. Error Messages
-
-Form validation errors occur when "Save" is pressed and the input displays an Inline Error. 
-
-* Lease type -&gt; Please select a lease type
-* Phone number -&gt; Please input a valid phone number
 
 ## 6. Code
 
