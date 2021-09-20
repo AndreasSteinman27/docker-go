@@ -4,8 +4,6 @@ description: Variant
 
 # Final Statement
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1418%3A26955" %}
-
 {% tabs %}
 {% tab title="Usage" %}
 ### **Usage**
@@ -43,13 +41,8 @@ In order to save the form, you must complete the following fields. The others ar
 
 | Name | Type | Required | Backend |
 | :--- | :--- | :--- | :---: |
-| Address 1 | Generic |  |  |
-| Address 2 | Generic |  |  |
-| City | Generic |  |  |
-| State | [Dropdown](../../dropdown.md) |  |  |
-|  Phone Number | [Phone](../../input/phone-number.md) | **Yes** |  |
-|  Lease Type | [Dropdown](../../dropdown.md) | **Yes** |  |
-| Estimated Taxes Fields \(all\) | [Currency](../../input/currency-input.md) |  |  |
+| Lease Buyout Amount | [Currency](../../input/currency-input.md) | **Yes** | \*\*\*\* |
+| Verified Taxes and Fees \(all fields\) | [Currency](../../input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
 
 ### Required Fields Not on Page
