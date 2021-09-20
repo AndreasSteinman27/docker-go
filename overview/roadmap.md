@@ -14,7 +14,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Primary Button](../components/button/primary-button.md) | Base Component | **Done** | **Done** | \*\*\*\* |
 | [Secondary Button](../components/button/secondary-button.md) | Base Component | **Done** | **Done** | \*\*\*\* |
 | [Link Button](../components/button/link-button.md) | Base Component | **Done** | **Done** |  |
-| [Odometer](../components/input/odometer-mileage.md) | Base Component |  |  |  |
+| [Odometer](../components/input/odometer-mileage.md) | Base Component | **Done** | **Done** |  |
 
 ### Release 2 - Lease Buyout Forms & Tables
 

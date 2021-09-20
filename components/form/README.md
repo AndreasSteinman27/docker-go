@@ -2,11 +2,9 @@
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=413%3A23311" %}
 
-
-
 {% tabs %}
 {% tab title="Usage" %}
-
+### Usage
 {% endtab %}
 
 {% tab title="Parent Object" %}
