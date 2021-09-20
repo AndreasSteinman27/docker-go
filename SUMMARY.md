@@ -11,11 +11,6 @@
 * [API Documentation](getting-started/api-documentation.md)
 * [Additional Resources](getting-started/resource-page.md)
 
-## Global Components <a id="global-component"></a>
-
-* [Inline Menu](global-component/left-nav-bar.md)
-* [Global Header](global-component/global-header.md)
-
 ## Components
 
 * [Buttons](components/button/README.md)
@@ -56,6 +51,11 @@
   * [Contact Table](components/task-tables/contact-table/README.md)
     * [Retail Lease Contact Info](components/task-tables/contact-table/retail-lease-contact-info.md)
 * [Radio Button](components/radio-button.md)
+
+## Global Components <a id="global-component"></a>
+
+* [Inline Menu](global-component/left-nav-bar.md)
+* [Global Header](global-component/global-header.md)
 
 ## Alerts & Errors
 
