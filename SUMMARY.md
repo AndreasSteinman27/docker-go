@@ -26,7 +26,7 @@
   * [Odometer Image Drawer](components/drawer/drawer-odometer.md)
   * [Untitled](components/drawer/untitled-1.md)
 * [Dropdown](components/dropdown.md)
-* [Form](components/form/README.md)
+* [Input Form](components/form/README.md)
   * [Statement Input Form](components/form/preliminary-and-final-statements/README.md)
     * [Preliminary Statement](components/form/preliminary-and-final-statements/lbo-preliminary-statement.md)
     * [Final Statement](components/form/preliminary-and-final-statements/final-statement.md)
