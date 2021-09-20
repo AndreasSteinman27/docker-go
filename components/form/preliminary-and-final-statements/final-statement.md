@@ -46,6 +46,7 @@ In order to save the form, you must complete the following fields. The others ar
 | Name | Type | Required | Backend |
 | :--- | :--- | :--- | :---: |
 | Lease Buyout Amount | [Currency](../../input/currency-input.md) | **Yes** | \*\*\*\* |
+| All Tax Fields  | [Currency](../../input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
 {% endtab %}
 
