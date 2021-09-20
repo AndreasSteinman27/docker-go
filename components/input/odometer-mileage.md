@@ -1,6 +1,6 @@
 # Odometer Reading
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1216%3A34043" %}
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1216%3A34043" caption="Odometer Reading" %}
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -16,7 +16,7 @@ This field is intended to be used for Odometer readings.
 {% endtab %}
 
 {% tab title="Requirements" %}
-
+### Requirements
 {% endtab %}
 
 {% tab title="Validation" %}
