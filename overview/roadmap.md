@@ -41,7 +41,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :--- |
-| Right Sidebar | Component |  |  |
+| Radio Button | Base |  |  |
 | Skelton Loading | Component |  |  |
 | Loading | Component |  |  |
 | Side Drawer | Component |  |  |
@@ -53,6 +53,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Feature | Type | Requirements | Design | Code |
 | :--- | :---: | :---: | :---: | :--- |
+| Right Sidebar | Component |  |  |  |
 | Result Table | Base Component |  |  |  |
 | Personal Information | Result Table |  |  |  |
 |  |  |  |  |  |

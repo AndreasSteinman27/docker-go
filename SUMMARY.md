@@ -14,10 +14,11 @@
 ## Components
 
 * [Buttons](components/button/README.md)
+  * [Link Button](components/button/link-button.md)
   * [Primary Button](components/button/primary-button.md)
+  * [Radio Button](components/button/radio-button.md)
   * [Secondary Button](components/button/secondary-button.md)
   * [Text Button](components/button/text-button.md)
-  * [Link Button](components/button/link-button.md)
 * [Drawer](components/drawer/README.md)
   * [Upload Drawer](components/drawer/upload.md)
   * [Maroney Label Drawer](components/drawer/drawer-trim.md)
@@ -50,7 +51,6 @@
     * [Document Archive](components/task-tables/object-table/archive.md)
   * [Contact Table](components/task-tables/contact-table/README.md)
     * [Retail Lease Contact Info](components/task-tables/contact-table/retail-lease-contact-info.md)
-* [Radio Button](components/radio-button.md)
 
 ## Global Components <a id="global-component"></a>
 
