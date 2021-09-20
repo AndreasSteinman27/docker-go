@@ -16,11 +16,11 @@ The Preliminary Advance Statement is a document created within Axle that serves 
 {% tab title="Parent Object" %}
 ### **Parent Object**
 
-[Input Form](./)
+[Input Form](../)
 
 ### Child Elements
 
-[Currency input](../input/currency-input.md), [Header,](../header/) [Primary button](../button/), [Secondary button](../button/secondary-button.md)
+[Currency input](../../input/currency-input.md), [Header,](../../header/) [Primary button](../../button/), [Secondary button](../../button/secondary-button.md)
 {% endtab %}
 
 {% tab title="Requirements" %}
@@ -41,10 +41,10 @@ In order to save the form, you must complete the following fields. The others ar
 | Address 1 | Generic |  |  |
 | Address 2 | Generic |  |  |
 | City | Generic |  |  |
-| State | [Dropdown](../dropdown.md) |  |  |
-|  Phone Number | [Phone](../input/phone-number.md) | **Yes** |  |
-|  Lease Type | [Dropdown](../dropdown.md) | **Yes** |  |
-| Estimated Taxes Fields \(all\) | [Currency](../input/currency-input.md) |  |  |
+| State | [Dropdown](../../dropdown.md) |  |  |
+|  Phone Number | [Phone](../../input/phone-number.md) | **Yes** |  |
+|  Lease Type | [Dropdown](../../dropdown.md) | **Yes** |  |
+| Estimated Taxes Fields \(all\) | [Currency](../../input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
 {% endtab %}
 
@@ -75,7 +75,7 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 ### Generate Preliminary Form
 
-Creates a PDF report and a valuation calculation that is needed to Create a Final Valuation. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../task-tables/object-table/)\).
+Creates a PDF report and a valuation calculation that is needed to Create a Final Valuation. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\).
 
 ### 
 {% endtab %}

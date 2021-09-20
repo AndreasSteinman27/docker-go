@@ -49,5 +49,8 @@ High-performance form components make it easy for a user to submit information a
 {% endtab %}
 {% endtabs %}
 
-
+| Variants | Type |
+| :--- | :--- |
+| [Preliminary Statement Advance](preliminary-and-final-statements/lbo-preliminary-statement.md) | [Statement Input Form](preliminary-and-final-statements/) |
+| [Final Statement Advance](preliminary-and-final-statements/final-statement.md) | [Statement Input Form](preliminary-and-final-statements/) |
 
