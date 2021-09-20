@@ -26,24 +26,22 @@ The Preliminary Advance Statement is a document created within Axle that serves 
 {% tab title="Requirements" %}
 ### Requirements
 
-In order to save the form, you must complete the following fields. The others are optional.
-
-* Calculation of Tax's and Fee's are sent to Right Bar
-* Performs vehicle valuation
+* Calculation of Taxes and Fees are sent to Right Bar
+* Performs vehicle valuation upon submission using the data provided in Trim Verification
 * Provides a different flow based on retail or direct lease dropdown
 
-#### Required fields
+#### Fields
 
-In order to save the form, you must complete the following fields. The others are optional.
+Fields marked as Required must be completed and validated to submit this form. All others are optional.
 
 | Name | Type | Required | Backend |
 | :--- | :--- | :--- | :--- |
-| Address 1 | Generic |  |  |
-| Address 2 | Generic |  |  |
-| City | Generic |  |  |
-| State | [Dropdown](../../dropdown.md) |  |  |
-|  Phone Number | [Phone](../../input/phone-number.md) | **Yes** |  |
-|  Lease Type | [Dropdown](../../dropdown.md) | **Yes** |  |
+| Lessor Details - Address 1 | Generic |  |  |
+| Lessor Details - Address 2 | Generic |  |  |
+| Lessor Details - City | Generic |  |  |
+| Lessor Details - State | [Dropdown](../../dropdown.md) |  |  |
+| Phone Number | [Phone](../../input/phone-number.md) | **Yes** |  |
+| Lease Type | [Dropdown](../../dropdown.md) | **Yes** |  |
 | Estimated Taxes Fields \(all\) | [Currency](../../input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
 {% endtab %}
