@@ -80,7 +80,7 @@ When pressed:
 
 * Creates a PDF report This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\) and name "Final Statement of Advance". 
 * Checks for required fields
-* Provides approiate error handling
+* Provides appropriate error handling
 * Performs a Final Valuation Calculation
 {% endtab %}
 
