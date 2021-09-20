@@ -1,12 +1,34 @@
 # Preliminary Statement
 
+\*\*\*\*
+
+{% tabs %}
+{% tab title="Usage" %}
+### **Usage**
+
+The Preliminary Advance Statement is a document created within Axle that serves as a preliminary estimate for a given asset/transaction. The preliminary statement shows estimated transactional amounts, including the vehicle price/outstanding balance, the minimum down payment as calculated against our valuation for the vehicle, and any estimated taxes or fees. Its counterpart is the Final Advance Statement, which shows finalized values once the MSA is able to verify everything.
+{% endtab %}
+
+{% tab title="Parent Object" %}
+### **Parent Object**
+
+**Input Form**
+{% endtab %}
+
+{% tab title="Requirements" %}
+
+{% endtab %}
+{% endtabs %}
+
+\*\*\*\*
+
 **Description**
 
 The Preliminary Statement Form component has 3 active states and 1 Skeleton loading state. **Only the required fields** must be complete in order to save.
 
 **Child Elements**
 
-[Currency input](../../input/currency-input.md), Header, [Primary button](../../button/), [Secondary button](../../button/secondary-button.md)
+[Currency input](../input/currency-input.md), Header, [Primary button](../button/), [Secondary button](../button/secondary-button.md)
 
 ## 1. States
 
@@ -45,10 +67,10 @@ In order to save the form, you must complete the following fields. The others ar
 | Address 1 | [Generic]() |  |
 | Address 2 | [Generic]() |  |
 | City | [Generic]() |  |
-| State | [Dropdown](../../dropdown.md) |  |
-|  Phone Number | [Phone](../../input/phone-number.md) | **Yes** |
-|  Lease Type | [Dropdown](../../dropdown.md) | **Yes** |
-| Estimated Taxes Fields \(all\) | [Currency](../../input/currency-input.md) |  |
+| State | [Dropdown](../dropdown.md) |  |
+|  Phone Number | [Phone](../input/phone-number.md) | **Yes** |
+|  Lease Type | [Dropdown](../dropdown.md) | **Yes** |
+| Estimated Taxes Fields \(all\) | [Currency](../input/currency-input.md) |  |
 | Other Fee's | [Generic]() |  |
 
 ## 5. Error Messages
