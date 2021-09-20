@@ -17,18 +17,27 @@ This field is intended to be used for Odometer readings.
 
 {% tab title="Requirements" %}
 ### Requirements
-{% endtab %}
 
-{% tab title="Validation" %}
-
+* Accept numbers
+* No letters 
+* No !@\#$%^&\*\(\)
 {% endtab %}
 
 {% tab title="Attributes Format" %}
+### Attributes Format
 
+This component only passes numerical values to the backend.
 {% endtab %}
 
 {% tab title="Error Handling" %}
+Inline Error Handeling 
+
+On Submit
+
 * This field is required
+
+OnChange
+
 * Vehicles with over 85,000 miles are not supported
 {% endtab %}
 
@@ -36,6 +45,8 @@ This field is intended to be used for Odometer readings.
 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
