@@ -2,14 +2,14 @@
 
 * [Introduction](README.md)
 
-## Getting Started
+## Overview
 
-* [Roadmap](getting-started/roadmap.md)
-* [System Architecture](getting-started/axle-layout/README.md)
-  * [Calculations](getting-started/axle-layout/axle-calculations.md)
-  * [Attributes Formats](getting-started/axle-layout/back-end.md)
-* [API Documentation](getting-started/api-documentation.md)
-* [Additional Resources](getting-started/resource-page.md)
+* [Roadmap](overview/roadmap.md)
+* [System Architecture](overview/axle-layout/README.md)
+  * [Calculations](overview/axle-layout/axle-calculations.md)
+  * [Attributes Formats](overview/axle-layout/back-end.md)
+* [API Documentation](overview/api-documentation.md)
+* [Additional Resources](overview/resource-page.md)
 
 ## Components
 
