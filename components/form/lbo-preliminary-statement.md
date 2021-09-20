@@ -31,6 +31,21 @@ In order to save the form, you must complete the following fields. The others ar
 * Calculation of Tax's and Fee's sent to Right Bar
 * Performs valuations
 * Provides 
+
+#### Required fields
+
+In order to save the form, you must complete the following fields. The others are optional.
+
+| Name | Type | Required |
+| :--- | :--- | :--- |
+| Address 1 | Generic |  |
+| Address 2 | Generic |  |
+| City | Generic |  |
+| State | [Dropdown](../dropdown.md) |  |
+|  Phone Number | [Phone](../input/phone-number.md) | **Yes** |
+|  Lease Type | [Dropdown](../dropdown.md) | **Yes** |
+| Estimated Taxes Fields \(all\) | [Currency](../input/currency-input.md) |  |
+| Other Fee's | Generic |  |
 {% endtab %}
 
 {% tab title="States" %}
@@ -54,11 +69,19 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 {% endtab %}
 
 {% tab title="Actions" %}
+### Actions
+
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1306%3A26568" %}
 
 ### Generate Preliminary Form
 
-Creates a PDF report and a valuation calculation that is needed to Create a Final Valuation. This PDF is able to be downloaded on the member's side and will be an object in the documents section.
+Creates a PDF report and a valuation calculation that is needed to Create a Final Valuation. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../task-tables/object-table/)\).
+
+### 
+{% endtab %}
+
+{% tab title="Flow" %}
+### Flow
 {% endtab %}
 
 {% tab title="Error Handeling" %}
@@ -69,44 +92,13 @@ Form validation errors occur when "Save" is pressed and the input displays an In
 * Lease type -&gt; Please select a lease type
 * Phone number -&gt; Please input a valid phone number
 {% endtab %}
-{% endtabs %}
 
-
-
-## 3. Flow
-
-Based on the input choice of the direct or retail lease options. The flow will change based on the selection of either of these required options.
-
-## 4. Required Fields
-
-In order to save the form, you must complete the following fields. The others are optional.
-
-| Name | Type | Required |
-| :--- | :--- | :--- |
-| Address 1 | [Generic]() |  |
-| Address 2 | [Generic]() |  |
-| City | [Generic]() |  |
-| State | [Dropdown](../dropdown.md) |  |
-|  Phone Number | [Phone](../input/phone-number.md) | **Yes** |
-|  Lease Type | [Dropdown](../dropdown.md) | **Yes** |
-| Estimated Taxes Fields \(all\) | [Currency](../input/currency-input.md) |  |
-| Other Fee's | [Generic]() |  |
-
-## 5. Error Messages
-
-## 6. Code
+{% tab title="Code" %}
+### Code
 
 {% embed url="https://iframe.html?id=forms-prelim-form--primary&args=" %}
-
-{% embed url="https://storybook.carputty.com/axle/iframe.html?id=forms-prelim-form--primary&args=&globals=backgrounds.grid:false&viewMode=story" %}
-
-## 7. Backend service
-
-```text
-Code goes here - test me please
-```
-
-**\(needed\)**
+{% endtab %}
+{% endtabs %}
 
 
 
