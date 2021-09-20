@@ -100,5 +100,9 @@ Form validation errors occur when "Save" is pressed and the input displays an In
 {% endtab %}
 {% endtabs %}
 
+### Backend Tables
 
+| Input | Type |
+| :--- | :--- |
+|  |  |
 
