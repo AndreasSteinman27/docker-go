@@ -31,9 +31,15 @@ High-performance form components make it easy for a user to submit information a
 {% endtab %}
 
 {% tab title="States" %}
-### On-load
+### Sucess State
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1297%3A26533" %}
 
 ### Error State
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1418%3A26894" %}
+
+
 
 ### Success State
 {% endtab %}
