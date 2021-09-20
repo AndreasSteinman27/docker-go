@@ -4,7 +4,7 @@
 
 Below is the roadmap for functional requirements and designs for Axle components. Due dates are in Product Plan \([https://app.productplan.com/kwbIflXk\#](https://app.productplan.com/kwbIflXk#)\).
 
-### Release 1
+### Release 1 - Base Components
 
 | Feature | Type | Requirements | Design | Code |
 | :--- | :---: | :---: | :---: | :--- |
@@ -14,8 +14,9 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Primary Button](../components/button/primary-button.md) | Base Component | **Done** | **Done** | \*\*\*\* |
 | [Secondary Button](../components/button/secondary-button.md) | Base Component | **Done** | **Done** | \*\*\*\* |
 | [Link Button](../components/button/link-button.md) | Base Component | **Done** | **Done** |  |
+| [Odometer](../components/input/odometer-mileage.md) | Base Component |  |  |  |
 
-### Release 2
+### Release 2 - Base & Variants
 
 | Feature | Type | Requirements | Design | Code |
 | :--- | :---: | :---: | :--- | :--- |

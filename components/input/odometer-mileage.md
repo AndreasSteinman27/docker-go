@@ -1,4 +1,4 @@
-# Odometer Mileage
+# Odometer
 
 {% tabs %}
 {% tab title="Usage" %}
