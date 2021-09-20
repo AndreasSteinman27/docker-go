@@ -10,11 +10,11 @@ description: Variant
 {% endtab %}
 
 {% tab title="Parent Object" %}
-
+### Parent Object
 {% endtab %}
 
 {% tab title="Requirements" %}
-
+### Requirements
 {% endtab %}
 
 {% tab title="States" %}
