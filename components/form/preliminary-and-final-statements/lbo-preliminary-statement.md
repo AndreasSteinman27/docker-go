@@ -75,9 +75,14 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 ### Generate Preliminary Form
 
-Creates a PDF report and a valuation calculation that is needed to Create a Final Valuation. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\).
+When pressed:
 
-### 
+* Creates a PDF report This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\) and name "Final Statement of Advance". 
+* Checks for required fields
+* Provides appropriate error handling
+* Performs a Prelim Valuation Calculation
+
+Creates a PDF report and a valuation calculation that is needed to Create a preliminary and Final Valuation. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\).
 {% endtab %}
 
 {% tab title="Flow" %}
@@ -101,6 +106,8 @@ Form validation errors occur when "Save" is pressed and the input displays an In
 {% embed url="https://iframe.html?id=forms-prelim-form--primary&args=" %}
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
