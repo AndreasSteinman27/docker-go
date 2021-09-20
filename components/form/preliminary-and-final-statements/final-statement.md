@@ -4,6 +4,10 @@ description: Variant
 
 # Final Statement
 
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1418%3A26955" %}
+
+
+
 {% tabs %}
 {% tab title="Usage" %}
 ### **Usage**
