@@ -8,7 +8,12 @@
 {% endtab %}
 
 {% tab title="Requirements" %}
+### Requirements
 
+| **Data Field** | **Required/Optional** |
+| :--- | :--- |
+| Monroney Label | Monroney Label Side Drawer must be clicked through, upload is optional |
+| Autocheck | Autocheck Drawer must be clicked through, upload is optional |
 {% endtab %}
 
 {% tab title="" %}
