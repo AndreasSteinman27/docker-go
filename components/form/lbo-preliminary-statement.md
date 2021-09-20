@@ -82,6 +82,8 @@ Creates a PDF report and a valuation calculation that is needed to Create a Fina
 
 {% tab title="Flow" %}
 ### Flow
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=308%3A6033" %}
 {% endtab %}
 
 {% tab title="Error Handeling" %}
@@ -99,4 +101,6 @@ Form validation errors occur when "Save" is pressed and the input displays an In
 {% embed url="https://iframe.html?id=forms-prelim-form--primary&args=" %}
 {% endtab %}
 {% endtabs %}
+
+
 
