@@ -52,7 +52,7 @@ In order to save the form, you must complete the following fields. The others ar
 | Estimated Taxes Fields \(all\) | [Currency](../../input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
 
-### Required Fields Not Page
+### Required Fields Not on Page
 
 | Name | Type |  |
 | :--- | :--- | :--- |
@@ -82,9 +82,7 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 {% endtab %}
 
 {% tab title="Actions" %}
-### Action
-
-
+### Actions
 
 ### Generate Final Statement Form
 
@@ -97,7 +95,15 @@ When pressed:
 {% endtab %}
 
 {% tab title="Error Handeling" %}
+Form validation errors occur when "Save" is pressed and the input displays an Inline Error. 
 
+* Lease type -&gt; Please select a lease type
+* Phone number -&gt; Please input a valid phone number
+
+Alert Badge
+
+* Documents - &gt; Please provide  "X" document
+* 
 {% endtab %}
 
 {% tab title="Code" %}
