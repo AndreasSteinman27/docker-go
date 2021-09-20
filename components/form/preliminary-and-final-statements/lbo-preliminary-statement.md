@@ -4,7 +4,7 @@ description: Variant
 
 # Preliminary Statement
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4766" %}
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=308%3A6033" %}
 
 {% tabs %}
 {% tab title="Usage" %}
