@@ -82,7 +82,18 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 {% endtab %}
 
 {% tab title="Actions" %}
+### Action
 
+
+
+### Generate Final Statement Form
+
+When pressed:
+
+* Creates a PDF report This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\) and name "Final Statement of Advance". 
+* Checks for required fields
+* Provides approiate error handling
+* Performs a Final Valuation Calculation
 {% endtab %}
 
 {% tab title="Error Handeling" %}
