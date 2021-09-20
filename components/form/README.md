@@ -25,6 +25,7 @@ High-performance form components make it easy for a user to submit information a
 * [Form Header Base](../header/)
 * Scrolls up and down
 * Back to Top Button 
+* Container for Form Columns
 {% endtab %}
 
 {% tab title="Code" %}
