@@ -9,6 +9,8 @@ description: Form Base Component
 {% tabs %}
 {% tab title="Usage" %}
 ### Usage
+
+High-performance form components make it easy for a user to submit information and understand feedback. Carputty's core product centers around forms.
 {% endtab %}
 
 {% tab title="Parent Object" %}
