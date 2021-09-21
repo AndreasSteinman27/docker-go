@@ -1,9 +1,13 @@
 # Odometer Image Drawer
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A37201" %}
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A37201" caption="Odometer Image" %}
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Usage" %}
+
+{% endtab %}
+
+{% tab title="Requirments" %}
 
 {% endtab %}
 
