@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Usage" %}
-
+### Usage
 {% endtab %}
 
 {% tab title="Requirements" %}
@@ -16,8 +16,8 @@
 | Autocheck | Autocheck Drawer must be clicked through, upload is optional |
 {% endtab %}
 
-{% tab title="" %}
-
+{% tab title="Connected Component" %}
+### Connected Component
 {% endtab %}
 {% endtabs %}
 
