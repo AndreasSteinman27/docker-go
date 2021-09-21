@@ -8,7 +8,7 @@
 {% endtab %}
 
 {% tab title="Requirements" %}
-### Requirements
+### Requirement
 {% endtab %}
 
 {% tab title="States" %}
