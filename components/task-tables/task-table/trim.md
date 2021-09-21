@@ -14,10 +14,10 @@ This form is used to manage uploaded documents for Autocheck and Monroney Labels
 
 Fields marked as Required must be completed and validated to submit the form attached to this table.
 
-| Name | Required |
-| :--- | :--- |
-| Autocheck | **Yes** |
-| Monroney Label | **Yes** |
+| Name | Image Required | Verification Required |
+| :--- | :--- | :--- |
+| Autocheck | **Yes** | Yes |
+| Monroney Label | **Yes** | Yes |
 {% endtab %}
 
 {% tab title="Interaction" %}
@@ -35,11 +35,13 @@ Fields marked as Required must be completed and validated to submit the form att
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=851%3A25917" %}
 
-### **Task Completion / Edit**
+### **Image Uploaded & Needs to be Verified**
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2138%3A16035" %}
+
+### Complete Status
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=876%3A25901" %}
-
-\*\*\*\*
 {% endtab %}
 
 {% tab title="Code" %}
