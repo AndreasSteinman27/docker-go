@@ -34,4 +34,9 @@
 | Driver's License Back | [Direct Lease Documents](../../task-tables/task-table/direct-lease-documents.md) |
 | Proof of Insurance | [Direct Lease Documents](../../task-tables/task-table/direct-lease-documents.md) |
 | Notarized Attorney | [Direct Lease Documents](../../task-tables/task-table/direct-lease-documents.md) |
+| Bill of Sale | [Disbursement](../../task-tables/task-table/disbursement.md) |
+| Title Application | [Disbursement](../../task-tables/task-table/disbursement.md) |
+| Insurance Coverage Verification | [Disbursement](../../task-tables/task-table/disbursement.md) |
+| Insurance Loss Payee Verification | [Disbursement](../../task-tables/task-table/disbursement.md) |
+| Engagement Letter | [Disbursement](../../task-tables/task-table/disbursement.md) |
 
