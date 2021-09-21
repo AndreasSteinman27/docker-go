@@ -22,18 +22,17 @@ Below is the roadmap for functional requirements and designs for Axle components
 | :--- | :---: | :---: | :---: | :--- |
 | [Form](../components/form/) | Base  | **Done** | **Done** |  |
 | [Form Header](../components/header/) | Base  | **Done** | **Done** | **Done** |
-| [Statement Input Form](../components/form/preliminary-and-final-statements/) | [Form](../components/form/) |  |  |  |
+| [Statement Input Form](../components/form/preliminary-and-final-statements/) | [Form](../components/form/) | **Done** | **Done** |  |
 | [Preliminary Statement](../components/form/preliminary-and-final-statements/lbo-preliminary-statement.md) | [Statement Input Form](../components/form/preliminary-and-final-statements/) | **Done** | **Done** | **Done** |
 | [Final Statement](../components/form/preliminary-and-final-statements/final-statement.md) | [Statement Input Form](../components/form/preliminary-and-final-statements/) | **Done** | **Done** |  |
 | [Table](../components/task-tables/) | Base | **Done** | **Done** |  |
-| Tags | Base |  |  |  |
 | [Task Table](../components/task-tables/task-table/) | [Table](../components/task-tables/) | **Done** | **Done** |  |
 | [Object Table](../components/task-tables/object-table/) | [Table](../components/task-tables/) |  |  |  |
 | [Contact Table](../components/task-tables/contact-table/) | [Table](../components/task-tables/) |  |  |  |
-| [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | Refactoring |
-| [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | Refactoring |
-| [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | Refactoring |
-| [Disbursement](../components/task-tables/task-table/disbursement.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | Refactoring |
+| [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
+| [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
+| [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
+| [Disbursement](../components/task-tables/task-table/disbursement.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
 | [Document Archive](../components/task-tables/object-table/archive.md) | [Object Table](../components/task-tables/object-table/) |  | **Done** |  |
 | [Retail Lease Contact Info](../components/task-tables/contact-table/retail-lease-contact-info.md) | [Contact Table](../components/task-tables/contact-table/) |  | **Done** |  |
 
@@ -44,10 +43,6 @@ Below is the roadmap for functional requirements and designs for Axle components
 | Radio Button | Base |  |  |
 | Skelton Loading | Component |  |  |
 | Loading | Component |  |  |
-| Side Drawer | Component |  |  |
-| Drawer - Upload | Variant |  |  |
-| Drawer - Autocheck | Variant |  |  |
-| Drawer - Maroney Label | Variant |  |  |
 
 ### Release 4
 
