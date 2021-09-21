@@ -1,3 +1,7 @@
+---
+description: Variant
+---
+
 # Disbursement
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A24574" %}
@@ -5,6 +9,12 @@
 {% tabs %}
 {% tab title="Usage" %}
 ### Usage
+
+Disbursment is the final section for the lease-buyout flow and signfies to OPS that the application is done. 
+{% endtab %}
+
+{% tab title="Requirements" %}
+
 {% endtab %}
 
 {% tab title="States" %}
