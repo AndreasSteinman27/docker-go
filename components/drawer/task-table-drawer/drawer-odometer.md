@@ -20,11 +20,17 @@
 
 **Pass**
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1418%3A26753" %}
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1971%3A15898" %}
 
 **Fail Mileage**
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1195%3A35308" %}
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1418%3A26802" %}
+
+### **Fail Image**
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1195%3A35228" %}
+
+\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
