@@ -16,7 +16,7 @@ A generic text field that can be used as a base for different types of inputs. D
 {% endtab %}
 
 {% tab title="Requirements" %}
-**Requirements**
+### **Requirements**
 
 * Must take any character entered in
 * Must respond to empty, focus, hover, error, and disabled states
