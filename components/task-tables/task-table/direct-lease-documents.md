@@ -1,3 +1,7 @@
+---
+description: Variant
+---
+
 # Direct Lease Documents
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A23893" %}
@@ -39,7 +43,7 @@ Fields marked as Required must be completed and validated to submit the form att
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A23893" %}
 
-### Status Change when task are complete
+### Status Change when tasks are complete
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1971%3A15710" %}
 

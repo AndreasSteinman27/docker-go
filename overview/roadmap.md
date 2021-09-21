@@ -30,7 +30,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Task Table](../components/task-tables/task-table/) | [Table](../components/task-tables/) | **Done** |  |  |
 | [Object Table](../components/task-tables/object-table/) | [Table](../components/task-tables/) |  |  |  |
 | [Contact Table](../components/task-tables/contact-table/) | [Table](../components/task-tables/) |  |  |  |
-| [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | \*\*\*\* |  |
+| [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | Pending |
 | [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** |  |  |
 | [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** |  |  |
 | [Disbursement](../components/task-tables/task-table/disbursement.md) | [Task Table](../components/task-tables/task-table/) |  |  |  |
