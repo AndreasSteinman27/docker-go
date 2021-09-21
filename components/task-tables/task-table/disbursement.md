@@ -17,6 +17,12 @@ Disbursment is the final section for the lease-buyout flow and signfies to OPS t
 
 {% endtab %}
 
+{% tab title="Action" %}
+### Complete Application
+
+* Complete applicaiton changes the status in the table that this application is ready for Disbrusement.
+{% endtab %}
+
 {% tab title="States" %}
 ### States
 
