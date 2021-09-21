@@ -24,8 +24,8 @@
 
 | Name | Task Table |
 | :--- | :--- |
-| Driver's License Front | Direct Lease  |
-| Driver's License Back |  |
-| Proof of Insurance |  |
-| Notarized Attorney |  |
+| Driver's License Front | [Direct Lease Documents](../../task-tables/task-table/direct-lease-documents.md) |
+| Driver's License Back | [Direct Lease Documents](../../task-tables/task-table/direct-lease-documents.md) |
+| Proof of Insurance | [Direct Lease Documents](../../task-tables/task-table/direct-lease-documents.md) |
+| Notarized Attorney | [Direct Lease Documents](../../task-tables/task-table/direct-lease-documents.md) |
 
