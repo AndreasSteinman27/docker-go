@@ -4,11 +4,11 @@
 
 {% tabs %}
 {% tab title="Usage" %}
-
+### Usage
 {% endtab %}
 
 {% tab title="Requirements" %}
-
+### Requirements
 {% endtab %}
 
 {% tab title="States" %}
@@ -22,7 +22,7 @@
 {% endtab %}
 
 {% tab title="Interactions" %}
-
+### Interactions
 {% endtab %}
 {% endtabs %}
 
