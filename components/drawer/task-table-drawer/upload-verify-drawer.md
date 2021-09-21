@@ -12,7 +12,13 @@
 {% endtab %}
 
 {% tab title="States" %}
+### On-load
 
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A37201" %}
+
+### Fail
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1971%3A15994" %}
 {% endtab %}
 
 {% tab title="Interactions" %}
