@@ -10,10 +10,9 @@
 {% tab title="Requirements" %}
 ### Requirements
 
-| **Data Field** | **Required/Optional** |
-| :--- | :--- |
-| Monroney Label | Monroney Label Side Drawer must be clicked through, upload is optional |
-| Autocheck | Autocheck Drawer must be clicked through, upload is optional |
+* Yes, is selected on load for the radial selection
+* When save is clicked, Trim Table status for this task becomes complete.
+* When discard is clicked, no changes take place
 {% endtab %}
 
 {% tab title="Connected Component" %}
