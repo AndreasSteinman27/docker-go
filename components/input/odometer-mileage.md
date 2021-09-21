@@ -30,7 +30,7 @@ This component only passes numerical values to the backend.
 {% endtab %}
 
 {% tab title="Error Handling" %}
-Inline Error Handeling 
+Inline Error Handling 
 
 On Submit
 
@@ -38,7 +38,7 @@ On Submit
 
 OnChange
 
-* Vehicles with over 85,000 miles are not supported
+* The max limit is 85,000 miles
 {% endtab %}
 
 {% tab title="Code" %}
