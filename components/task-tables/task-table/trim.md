@@ -18,6 +18,13 @@ Fields marked as Required must be completed and validated to submit the form att
 | :--- | :--- | :--- |
 | Autocheck | **Yes** | Yes |
 | Monroney Label | **Yes** | Yes |
+
+### Related Components
+
+| Component |
+| :--- |
+| [Autocheck Side Drawer](../../drawer/task-table-drawer/upload-verify-drawer/untitled.md) |
+| [Maroney Label Drawer](../../drawer/task-table-drawer/upload-verify-drawer/drawer-trim.md) |
 {% endtab %}
 
 {% tab title="Interaction" %}
@@ -48,6 +55,8 @@ Fields marked as Required must be completed and validated to submit the form att
 \*\*\*\*
 {% endtab %}
 {% endtabs %}
+
+
 
 \*\*\*\*
 
