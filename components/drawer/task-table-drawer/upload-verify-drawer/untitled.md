@@ -1,8 +1,8 @@
 ---
-description: Varaint
+description: Variant
 ---
 
-# Autocheck Drawer
+# Verification Drawer
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A28114" %}
 
@@ -18,11 +18,10 @@ description: Varaint
 * Save button is clicked, Trim Table status for this task becomes complete.
 * Discard button is clicked, no changes take place
 {% endtab %}
-
-{% tab title="Connected Component" %}
-### Connected Component
-{% endtab %}
 {% endtabs %}
 
-
+| Name | Table |
+| :--- | :--- |
+| Autocheck | [Trim](../../../task-tables/task-table/trim.md) |
+| Verbal Insurance Policy Check | [Disbursement](../../../task-tables/task-table/disbursement.md) |
 

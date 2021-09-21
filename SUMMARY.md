@@ -24,7 +24,7 @@
   * [Task Table Drawer](components/drawer/task-table-drawer/README.md)
     * [Upload/Verify Drawer](components/drawer/task-table-drawer/upload-verify-drawer/README.md)
       * [Maroney Label Drawer](components/drawer/task-table-drawer/upload-verify-drawer/drawer-trim.md)
-      * [Autocheck Drawer](components/drawer/task-table-drawer/upload-verify-drawer/untitled.md)
+      * [Verification Drawer](components/drawer/task-table-drawer/upload-verify-drawer/untitled.md)
       * [Odometer Image Drawer](components/drawer/task-table-drawer/upload-verify-drawer/drawer-odometer.md)
 * [Dropdown](components/dropdown.md)
 * [Form](components/form/README.md)
