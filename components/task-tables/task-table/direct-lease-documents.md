@@ -28,8 +28,24 @@ Fields marked as Required must be completed and validated to submit the form att
 {% tab title="Interaction" %}
 ### Interaction
 
-* Upload brings up the Side Drawer - Upload
-  * Once task is complete the button link turns to Edit and the Status changes to Complete \(green\)
+* Upload button is clicked it brings up the [Side Drawer - Upload](../../drawer/upload.md)
+  * When a file is uploaded sucessfully the Upload status and Icon appears
+  * When a task is complete, the badge becomes complete
+  * 
+{% endtab %}
+
+{% tab title="States" %}
+### On-Loading
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A23893" %}
+
+### Status Change when task are complete
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1971%3A15710" %}
+
+### Complete
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=876%3A26057" %}
 {% endtab %}
 
 {% tab title="Code" %}
