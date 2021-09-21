@@ -3,12 +3,10 @@
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=851%3A25917" %}
 
 {% tabs %}
-{% tab title="Usage" %}
-
-{% endtab %}
-
 {% tab title="Requirements" %}
+### Usage
 
+This form is used to manage uploaded documents for Autocheck and Monroney Labels. 
 {% endtab %}
 
 {% tab title="Interaction" %}
@@ -17,26 +15,37 @@
 * Upload brings up the Side Drawer - Upload
 * Start brings up Modal - Trim Tasks
   * Once task is complete the button link turns to Edit
+
+#### Fields
+
+Fields marked as Required must be completed and validated to submit the form attached to this table.
+
+| Name | Required |
+| :--- | :--- |
+| Autocheck | **Yes** |
+| Monroney Label | **Yes** |
 {% endtab %}
 
 {% tab title="States" %}
-### States
+### **States**
 
-### On Load
+### **On Load**
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=851%3A25917" %}
 
-### Task Completion / Edit
+### **Task Completion / Edit**
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=876%3A25901" %}
+
+\*\*\*\*
 {% endtab %}
 
 {% tab title="Code" %}
-
+\*\*\*\*
 {% endtab %}
 {% endtabs %}
 
-
+\*\*\*\*
 
 
 

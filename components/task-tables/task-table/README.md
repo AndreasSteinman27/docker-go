@@ -6,7 +6,7 @@
 {% tab title="Usage" %}
 ### Usage
 
-The task table is to provides a central view for MSA's to see what task needs to be completed.
+The task table provides a central view for related MSA tasks.
 {% endtab %}
 
 {% tab title="Parent Object" %}
@@ -14,7 +14,9 @@ The task table is to provides a central view for MSA's to see what task needs to
 {% endtab %}
 
 {% tab title="Requirements" %}
-
+* The task name, status, verification button, and upload button should all be present for a given task.
+* [Link buttons](../../button/link-button.md) should be used for the verification and upload buttons
+* Tasks that are not complete and are marked as required should show an error if the user attempts to progress the stage forward.
 {% endtab %}
 
 {% tab title="Interaction" %}
