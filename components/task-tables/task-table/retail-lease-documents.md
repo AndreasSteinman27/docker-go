@@ -28,10 +28,28 @@ Fields marked as Required must be completed and validated to submit the form att
   * Once task is complete the button link turns to Edit and the Status changes to Complete \(green\)
 {% endtab %}
 
+{% tab title="States" %}
+### States
+
+### On-Loading
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2138%3A16231" %}
+
+### Status Changing
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=640%3A25536" %}
+
+### Complete 
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2138%3A16123" %}
+{% endtab %}
+
 {% tab title="Code" %}
 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
