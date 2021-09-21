@@ -23,7 +23,6 @@
   * [Task Table Drawer](components/drawer/task-table-drawer/README.md)
     * [Autocheck Drawer](components/drawer/task-table-drawer/untitled.md)
     * [Maroney Label Drawer](components/drawer/task-table-drawer/drawer-trim.md)
-    * [Untitled](components/drawer/task-table-drawer/untitled-1.md)
     * [Odometer Image Drawer](components/drawer/task-table-drawer/drawer-odometer.md)
   * [Upload Drawer](components/drawer/upload.md)
 * [Dropdown](components/dropdown.md)
