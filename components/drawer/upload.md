@@ -23,6 +23,7 @@
 ### Requirements
 
 * When object are dragged in they are uploaded
+* If an object is already uploaded. Replace the current image with the new one.
 {% endtab %}
 
 {% tab title="States" %}
