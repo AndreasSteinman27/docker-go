@@ -11,8 +11,8 @@
 ### Requirements
 
 * Yes, is selected on load for the radial selection
-* When save is clicked, Trim Table status for this task becomes complete.
-* When discard is clicked, no changes take place
+* Save button is clicked, Trim Table status for this task becomes complete.
+* Discard button is clicked, no changes take place
 {% endtab %}
 
 {% tab title="Connected Component" %}
