@@ -21,6 +21,7 @@
   * [Text Button](components/button/text-button.md)
 * [Drawer](components/drawer/README.md)
   * [Task Table Drawer](components/drawer/task-table-drawer/README.md)
+    * [Upload/Verify Drawer](components/drawer/task-table-drawer/upload-verify-drawer.md)
     * [Odometer Image Drawer](components/drawer/task-table-drawer/drawer-odometer.md)
     * [Autocheck Drawer](components/drawer/task-table-drawer/untitled.md)
     * [Maroney Label Drawer](components/drawer/task-table-drawer/drawer-trim.md)
