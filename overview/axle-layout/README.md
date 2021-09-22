@@ -75,3 +75,7 @@ Reference page: [https://carputty.atlassian.net/l/c/0Lcuwb8b](https://carputty.a
 | Loan Origination System \(LOS\) | A process by which a borrower applies for a new loan, and a lender processes that application. |
 | Manheim Market Report \(MMR\) | A third-party data provider of wholesale vehicle valuations. Also sources vehicle aspects data \(year/make/model/trims\). |
 
+## Framework
+
+The Axle system uses the ANT framework for its front-end components. Additional Document can be found at [https://ant.design/docs/react/introduce](https://ant.design/docs/react/introduce).
+
