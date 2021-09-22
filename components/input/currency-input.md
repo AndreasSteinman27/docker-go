@@ -1,5 +1,5 @@
 ---
-description: Used for currency and monetary values.
+description: Variant
 ---
 
 # Currency
