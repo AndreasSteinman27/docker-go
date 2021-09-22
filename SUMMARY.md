@@ -35,6 +35,8 @@
   * [No Button Form Header](components/header/no-button-form-header.md)
   * [Save/Edit Form Header](components/header/2-button-form-header.md)
 * [Input](components/input/README.md)
+  * [Password](components/input/password.md)
+  * [Social Security](components/input/social-security.md)
   * [Odometer Reading](components/input/odometer-mileage.md)
   * [Currency](components/input/currency-input.md)
   * [Phone Number](components/input/phone-number.md)
@@ -66,7 +68,5 @@
 
 ---
 
-* [Archive - Do not look](archive-do-not-look/README.md)
-  * [Social Security](archive-do-not-look/social-security.md)
-  * [Password](archive-do-not-look/password.md)
+* [Archive - Do not look](archive-do-not-look.md)
 
