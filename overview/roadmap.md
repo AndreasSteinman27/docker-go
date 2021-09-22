@@ -27,7 +27,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Final Statement](../components/form/preliminary-and-final-statements/final-statement.md) | [Statement Input Form](../components/form/preliminary-and-final-statements/) | **Done** | **Done** |  |
 | [Table](../components/task-tables/) | Base | **Done** | **Done** |  |
 | [Task Table](../components/task-tables/task-table/) | [Table](../components/task-tables/) | **Done** | **Done** |  |
-| [Object Table](../components/task-tables/object-table/) | [Table](../components/task-tables/) |  | Done |  |
+| [Object Table](../components/task-tables/object-table/) | [Table](../components/task-tables/) |  | **Done** |  |
 | [Contact Table](../components/task-tables/contact-table/) | [Table](../components/task-tables/) |  |  |  |
 | [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
 | [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
