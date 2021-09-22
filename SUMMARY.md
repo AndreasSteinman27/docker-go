@@ -64,9 +64,3 @@
 
 * [Existing Error Messages](alerts-and-errors/existing-error-messages.md)
 
-## Archived <a id="archive"></a>
-
----
-
-* [Archive - Do not look](archive-do-not-look.md)
-
