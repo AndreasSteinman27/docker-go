@@ -1,4 +1,4 @@
-# Document Archive
+# Document Table
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2343%3A17259" caption="Onload Documents" %}
 
