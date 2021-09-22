@@ -1,36 +1,16 @@
 # Table
 
-Base Table
+| Names | Description |
+| :--- | :--- |
+| Task Table | A table in which an MSA does tasks. Connected to a Side Drawer |
+| Document Table | A table in which objects or documents can be downloaded |
+| 2 Column Table | A table in which results or user data is able to be viewed. |
 
 
 
 ### 
 
 
-
-{% tabs %}
-{% tab title="Usage" %}
-### 
-{% endtab %}
-
-{% tab title="Parent Objects " %}
-### Parent Objects
-
-[https://ant.design/components/table/](https://ant.design/components/table/)
-{% endtab %}
-
-{% tab title="Requirements" %}
-### Requirements
-{% endtab %}
-
-{% tab title="Error Handling" %}
-### Error Handling
-{% endtab %}
-
-{% tab title="Code" %}
-### Code
-{% endtab %}
-{% endtabs %}
 
 
 
