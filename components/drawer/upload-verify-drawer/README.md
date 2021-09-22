@@ -9,6 +9,9 @@
 
 {% tab title="Requirements" %}
 ### Requirement
+
+* When user saves on Pass. Task Table Tagbecomes Complete.
+* When user saves on Fail. Task Table Tag becomes Fail.
 {% endtab %}
 
 {% tab title="States" %}
