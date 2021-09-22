@@ -22,6 +22,6 @@ description: Variant
 
 | Name | Table |
 | :--- | :--- |
-| Autocheck | [Trim](../../../task-tables/task-table/trim.md) |
-| Verbal Insurance Policy Check | [Disbursement](../../../task-tables/task-table/disbursement.md) |
+| Autocheck | [Trim](../../task-tables/task-table/trim.md) |
+| Verbal Insurance Policy Check | [Disbursement](../../task-tables/task-table/disbursement.md) |
 
