@@ -29,10 +29,10 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Task Table](../components/task-tables/task-table/) | [Table](../components/task-tables/) | **Done** | **Done** |  |
 | [Object Table](../components/task-tables/object-table/) | [Table](../components/task-tables/) |  | **Done** |  |
 | [Contact Table](../components/task-tables/contact-table/) | [Table](../components/task-tables/) |  |  |  |
-| [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
-| [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
-| [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
-| [Disbursement](../components/task-tables/task-table/disbursement.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | **Refactor** |
+| [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
+| [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
+| [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
+| [Disbursement](../components/task-tables/task-table/disbursement.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
 | [Document Archive](../components/task-tables/object-table/archive.md) | [Object Table](../components/task-tables/object-table/) |  | **Done** |  |
 | [Retail Lease Contact Info](../components/task-tables/contact-table/retail-lease-contact-info.md) | [Contact Table](../components/task-tables/contact-table/) |  | **Done** |  |
 
