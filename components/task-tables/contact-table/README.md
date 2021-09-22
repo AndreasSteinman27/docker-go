@@ -1,2 +1,2 @@
-# Column Table
+# 2 Column Table
 
