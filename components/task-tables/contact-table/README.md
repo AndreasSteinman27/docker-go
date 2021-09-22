@@ -1,2 +1,2 @@
-# Contact Table
+# Column Table
 

@@ -52,7 +52,7 @@
     * [Disbursement](components/task-tables/task-table/disbursement.md)
   * [Object Table](components/task-tables/object-table/README.md)
     * [Document Archive](components/task-tables/object-table/archive.md)
-  * [Contact Table](components/task-tables/contact-table/README.md)
+  * [Column Table](components/task-tables/contact-table/README.md)
     * [Retail Lease Contact Info](components/task-tables/contact-table/retail-lease-contact-info.md)
 
 ## Global Components <a id="global-component"></a>
