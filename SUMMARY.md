@@ -55,7 +55,7 @@
     * [Disbursement](components/task-tables/task-table/disbursement.md)
   * [Object Table](components/task-tables/object-table/README.md)
     * [Document Table](components/task-tables/object-table/archive.md)
-  * [2 Column Table](components/task-tables/contact-table/README.md)
+  * [2-Column Table](components/task-tables/contact-table/README.md)
     * [Retailer Contact Information](components/task-tables/contact-table/retail-lease-contact-info.md)
 
 ## Alerts & Errors
