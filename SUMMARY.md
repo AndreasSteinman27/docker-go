@@ -31,9 +31,11 @@
   * [Statement Input Form](components/form/preliminary-and-final-statements/README.md)
     * [Final Statement](components/form/preliminary-and-final-statements/final-statement.md)
     * [Preliminary Statement](components/form/preliminary-and-final-statements/lbo-preliminary-statement.md)
-* [Form Header](components/header/README.md)
-  * [No Button Form Header](components/header/no-button-form-header.md)
-  * [Save/Edit Form Header](components/header/2-button-form-header.md)
+* [Headers](components/headers/README.md)
+  * [Form Header](components/headers/header/README.md)
+    * [No Button Form Header](components/headers/header/no-button-form-header.md)
+    * [Save/Edit Form Header](components/headers/header/2-button-form-header.md)
+  * [Global Header](components/headers/global-header.md)
 * [Input](components/input/README.md)
   * [Password](components/input/password.md)
   * [Social Security](components/input/social-security.md)
@@ -43,6 +45,7 @@
   * [Zipcode](components/input/zipcode.md)
   * [City](components/input/city.md)
 * [Menu](components/top-navigation-menu/README.md)
+  * [Inline Menu](components/top-navigation-menu/left-nav-bar.md)
   * [Lease Buyout - Transaction](components/top-navigation-menu/top-navigation.md)
 * [Table](components/task-tables/README.md)
   * [Task Table](components/task-tables/task-table/README.md)
@@ -54,11 +57,6 @@
     * [Document Archive](components/task-tables/object-table/archive.md)
   * [2 Column Table](components/task-tables/contact-table/README.md)
     * [Retailer Contact Information](components/task-tables/contact-table/retail-lease-contact-info.md)
-
-## Global Components <a id="global-component"></a>
-
-* [Inline Menu](global-component/left-nav-bar.md)
-* [Global Header](global-component/global-header.md)
 
 ## Alerts & Errors
 
