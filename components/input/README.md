@@ -1,6 +1,6 @@
 # Input
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1%3A3" %}
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1%3A3" caption="Axle Inputs" %}
 
 {% tabs %}
 {% tab title="Usage" %}
