@@ -56,12 +56,9 @@
     * [Document Table](components/task-tables/object-table/archive.md)
   * [2-Column Table](components/task-tables/contact-table/README.md)
     * [Retailer Contact Information](components/task-tables/contact-table/retail-lease-contact-info.md)
+* [Right Side Bar](components/right-side-bar.md)
 
 ## Alerts & Errors
 
 * [Existing Error Messages](alerts-and-errors/existing-error-messages.md)
-
----
-
-* [Right Side Bar](right-side-bar.md)
 
