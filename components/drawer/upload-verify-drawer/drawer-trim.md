@@ -16,11 +16,33 @@ description: Varaint
 {% endtab %}
 
 {% tab title="Requirements" %}
-
+### Requirements
 {% endtab %}
 
-{% tab title="" %}
+{% tab title="States" %}
+## States
 
+### Trim Task Table
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=851%3A25917" %}
+
+### Upload Maroney Image
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A31813" %}
+
+### Verifcation Drawer
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A28082" %}
+
+### Final
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=876%3A25901" %}
+{% endtab %}
+
+{% tab title="Code" %}
+### 
 {% endtab %}
 {% endtabs %}
+
+
 
