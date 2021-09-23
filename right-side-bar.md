@@ -76,13 +76,41 @@ description: Custom Axle Component
 {% endtab %}
 
 {% tab title="States" %}
+### States
 
+### On-Load
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2628%3A23288" %}
+
+### Trim
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2628%3A29148" %}
+
+### Preliminary Statement
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2628%3A24460" %}
+
+### Documents
+
+### Final Statment
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2628%3A26804" %}
+
+### Disbursement
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/Axle-Components?node-id=2628%3A27977" %}
 {% endtab %}
 
 {% tab title="" %}
 
 {% endtab %}
 {% endtabs %}
+
+
+
+
+
+
 
 
 
