@@ -4,9 +4,7 @@ description: Base Component
 
 # Form
 
-![Top of the Form component](../../.gitbook/assets/screen-shot-2021-09-23-at-1.15.25-pm.png)
-
-![Bottom of the Form component](../../.gitbook/assets/screen-shot-2021-09-23-at-1.16.21-pm.png)
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=413%3A23311" %}
 
 {% tabs %}
 {% tab title="Usage" %}
