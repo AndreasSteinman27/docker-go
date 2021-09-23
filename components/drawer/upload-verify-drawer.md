@@ -10,8 +10,10 @@
 {% tab title="Requirements" %}
 ### Requirement
 
-* When user saves on Pass. Task Table Tagbecomes Complete.
-* When user saves on Fail. Task Table Tag becomes Fail.
+* When user saves Pass. Task Table Tag becomes Complete.
+* When user select Fail. Task Table Tag becomes Fail.
+* Update overides the saved photo \(for this version\).
+* 
 {% endtab %}
 
 {% tab title="States" %}
