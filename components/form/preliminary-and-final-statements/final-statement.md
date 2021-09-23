@@ -75,14 +75,34 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 {% tab title="Actions" %}
 ### Actions
 
-### Generate Final Statement Form
+### Generate Final Statement Button
 
 When pressed:
 
-* Creates a PDF report This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\) and name "Final Statement of Advance". 
-* Checks for required fields
-* Provides appropriate error handling
-* Performs a Final Valuation Calculation
+* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\) named "Final Advance Statement". 
+* Sets the Asset status to final-advance-review.
+
+### Edit Button
+
+* Appears in the Saved state, which is when information was previously entered, but fields were grayed out.
+* Clicking it makes the fields editable, make the button disappear, and make the Discard and Save buttons appear
+
+### Save Button
+
+* Appears in the Edit state and in the on first load states.
+* When clicked, runs form validation
+  * Any errors should cause the form to display the error state for the affected field, and for processing to stop.
+* If validation proceeds without issue, then the data should be saved to the database, and the fields should be grayed out and made uneditable.
+* The sidebar should be updated with the final fee total.
+* The sidebar should be updated with the Lease Buy Out Amount, the Maximum Allowed, the Advance Amount, the Transaction Total, and the Minimum Down Payment. 
+  * These values must be calculated as well.
+  * No valuations should be run, the final vehicle valuation should have been run when the odometer image was verified in the documents upload stage \([Odometer Image Drawer](../../drawer/drawer-odometer.md)\).
+* The save button should then disappear and be replaced by the Edit button and the Generate Preliminary Statement button.
+
+### Discard Button
+
+* Appears in the Edit state
+* When clicked, discards any changes made and returns all fields back to their previous values. The fields should then be grayed out and uneditable
 {% endtab %}
 
 {% tab title="Error Handeling" %}
