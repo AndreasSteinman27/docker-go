@@ -16,7 +16,7 @@ Disbursment is the final section for the lease-buyout flow and signfies to OPS t
 {% tab title="Requirements" %}
 ### Requirements
 
-* Title Application, Bill of Sales, Insurance Loss Payee Verification, Insurance Coverage Verification, Engagment Letter uses [Upload/Verify Side Drawer](../../drawer/upload-verify-drawer/).
+* Title Application, Bill of Sales, Insurance Loss Payee Verification, Insurance Coverage Verification, Engagment Letter uses [Upload/Verify Side Drawer](../../drawer/upload-verify-drawer.md).
 * Verbal Insurance Policy uses
 {% endtab %}
 
