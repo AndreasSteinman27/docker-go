@@ -61,3 +61,7 @@
 
 * [Existing Error Messages](alerts-and-errors/existing-error-messages.md)
 
+---
+
+* [Right Side Bar](right-side-bar.md)
+
