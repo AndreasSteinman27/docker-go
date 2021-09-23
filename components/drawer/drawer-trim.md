@@ -43,6 +43,26 @@ description: Varaint
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A31813" %}
 {% endtab %}
 
+{% tab title="Actions" %}
+### Save button
+
+* Should be grayed out if nothing has been selected
+* When clicked, a Valuation should be run, the database should be updated with this valuation as the preliminary valuation, and both the Current Valuation and Preliminary Valuation should be updated in the Sidebar.
+* The Transaction numbers should also be recalculated and shown in the sidebar/saved in the database.
+
+### Discard button
+
+* Always available/clickable
+* Should discard any input values and close the drawer, with no modifications made.
+* Functionally Identical to the Close button.
+
+### Close button
+
+* Always available/clickable
+* Should discard any input values and close the drawer, with no modifications made.
+* Functionally Identical to the Discard button
+{% endtab %}
+
 {% tab title="Error Handeling" %}
 ### Error Handeling
 
