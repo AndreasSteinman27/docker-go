@@ -71,16 +71,32 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1306%3A26568" %}
 
-### Generate Preliminary Form
+### Generate Preliminary Statement Button
 
 When pressed:
 
-* Creates a PDF report This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\) and name "Final Statement of Advance". 
-* Checks for required fields
-* Provides appropriate error handling
-* Performs a Prelim Valuation Calculation
+* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\) named "Preliminary Advance Statement". 
+* Sets the Asset status to prelim-advance-review.
 
-Creates a PDF report and a valuation calculation that is needed to Create a preliminary and Final Valuation. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../task-tables/object-table/)\).
+### Edit Button
+
+* Appears in the Saved state, which is when information was previously entered, but fields were grayed out.
+* Clicking it makes the fields editable, make the button disappear, and make the Discard and Save buttons appear
+
+### Save Button
+
+* Appears in the Edit state and in the on first load states.
+* When clicked, runs form validation
+  * Any errors should cause the form to display the error state for the affected field, and for processing to stop.
+* If validation proceeds without issue, then the data should be saved to the database, and the fields should be grayed out and made uneditable.
+* The sidebar should be updated with the estimated fees, and the other transaction fields should be recalculated \(Advance Amount, Transaction Total, and Minimum Down Payment\).
+* The sidebar should be updated with the Lessor Details entered.
+* The save button should then disappear and be replaced by the Edit button and the Generate Preliminary Statement button.
+
+### Discard Button
+
+* Appears in the Edit state
+* When clicked, discards any changes made and returns all fields back to their previous values. The fields should then be grayed out and uneditable.
 {% endtab %}
 
 {% tab title="Flow" %}
