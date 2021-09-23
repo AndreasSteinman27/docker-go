@@ -28,20 +28,19 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Table](../components/task-tables/) | Base | **Done** | **Done** |  |
 | [Task Table](../components/task-tables/task-table/) | [Table](../components/task-tables/) | **Done** | **Done** |  |
 | [Object Table](../components/task-tables/object-table/) | [Table](../components/task-tables/) |  | **Done** |  |
-| [Contact Table](../components/task-tables/contact-table/) | [Table](../components/task-tables/) |  |  |  |
+| [2-Column Table](../components/task-tables/contact-table/) | [Table](../components/task-tables/) |  |  |  |
 | [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
 | [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
 | [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
 | [Disbursement](../components/task-tables/task-table/disbursement.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
 | [Document Archive](../components/task-tables/object-table/archive.md) | [Object Table](../components/task-tables/object-table/) |  | **Done** |  |
-| [Retail Lease Contact Info](../components/task-tables/contact-table/retail-lease-contact-info.md) | [Contact Table](../components/task-tables/contact-table/) |  | **Done** |  |
+| [Retail Lease Contact Info](../components/task-tables/contact-table/retail-lease-contact-info.md) | [2-column Table](../components/task-tables/contact-table/) |  | **Done** |  |
 
 ### Release 3 - Loading States, Upload, & Side - Drawers
 
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :--- |
-| Radio Button | Base |  |  |
-| Skelton Loading | Component |  |  |
+| Skeleton Loading | Component |  |  |
 | Loading | Component |  |  |
 | Personal Information | Contact Table |  |  |
 
