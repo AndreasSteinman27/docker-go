@@ -32,9 +32,9 @@ description: Custom Axle Component
 | Field |  |
 | :--- | :--- |
 | 2019 Chevrolete Cayoner | Member Input |
-| Mileage |  |
-| Current Valuation |  |
-| Remaining Payment |  |
+| Mileage | Member Input |
+| Current Valuation | Back-end Calculation |
+| Remaining Payment | Back-end Calculation |
 
 #### Transaction
 
