@@ -10,7 +10,7 @@ description: Custom Axle Component
 
 {% tabs %}
 {% tab title="Usage" %}
-
+### Usage
 {% endtab %}
 
 {% tab title="Requirements" %}
@@ -50,9 +50,24 @@ description: Custom Axle Component
 
 | Field | Source |
 | :--- | :--- |
-|  |  |
-|  |  |
-|  |  |
+| Preliminary Valuation |  |
+| Final Valuation |  |
+
+### Fee Total
+
+| Field | Source |
+| :--- | :--- |
+| Estimated |  |
+| Final |  |
+
+### Lessor
+
+| Field | Source |
+| :--- | :--- |
+| Lease Account \# |  |
+| Type |  |
+| Phone |  |
+| Address |  |
 {% endtab %}
 
 {% tab title="Interactions" %}
