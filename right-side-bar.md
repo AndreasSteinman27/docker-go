@@ -71,8 +71,10 @@ description: Custom Axle Component
 {% endtab %}
 
 {% tab title="Interactions" %}
-* Jonthan Customer name is a link to the members profile page
-* Personal information is a link to the members profile page
+* Jonathan Customer name is a link to the member's profile page
+* Personal information is a link to the member's profile page
+
+![](.gitbook/assets/interaction.png)
 {% endtab %}
 
 {% tab title="States" %}
