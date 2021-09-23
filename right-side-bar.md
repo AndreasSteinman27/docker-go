@@ -24,23 +24,32 @@ description: Custom Axle Component
 | :--- | :--- |
 | Email | Member Input |
 | Phone | Member Input |
-| Used/Line | Back-end Calculation |
-| Interest Rate | Back-end Calculation |
+| Used/Line |  |
+| Interest Rate |  |
 
 #### Asset Name
 
-| Field |  |
+| Field | Source |
 | :--- | :--- |
 | 2019 Chevrolete Cayoner | Member Input |
 | Mileage | Member Input |
-| Current Valuation | Back-end Calculation |
-| Remaining Payment | Back-end Calculation |
+| Current Valuation |  |
+| Remaining Payment |  |
 
 #### Transaction
 
-|  |  |
+| Field | Source |
 | :--- | :--- |
-|  |  |
+| Residual Amount |  |
+| Maximum Allowed |  |
+| Advance Amount |  |
+| Transaction Total |  |
+| Minimum Down Payment |  |
+
+#### Valuation
+
+| Field | Source |
+| :--- | :--- |
 |  |  |
 |  |  |
 |  |  |
