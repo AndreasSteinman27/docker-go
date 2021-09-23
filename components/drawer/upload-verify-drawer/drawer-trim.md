@@ -8,11 +8,7 @@ description: Varaint
 
 {% tabs %}
 {% tab title="Usage" %}
-
-{% endtab %}
-
-{% tab title="Parent Object" %}
-
+### Usage
 {% endtab %}
 
 {% tab title="Requirements" %}
