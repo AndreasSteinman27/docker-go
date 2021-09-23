@@ -41,7 +41,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | Feature | Type | Requirements | Design |
 | :--- | :---: | :---: | :--- |
 | Skeleton Loading | Component |  |  |
-| Loading | Component |  |  |
+| Loading States | Component |  |  |
 | Personal Information | Contact Table |  |  |
 
 ### Release 4
