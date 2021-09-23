@@ -23,7 +23,7 @@ Fields marked as Required must be completed and validated to submit the form att
 
 | Component |
 | :--- |
-| [Autocheck Side Drawer](../../drawer/upload-verify-drawer/untitled.md) |
+| [Autocheck Side Drawer](../../drawer/untitled.md) |
 | [Maroney Label Drawer](../../drawer/upload-verify-drawer/drawer-trim.md) |
 {% endtab %}
 
