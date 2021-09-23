@@ -16,7 +16,34 @@ description: Custom Axle Component
 {% tab title="Requirements" %}
 ### Requirements
 
-### Calculation
+### Data Mappings
+
+#### Personal Information
+
+| Field | Source |
+| :--- | :--- |
+| Email | Member Input |
+| Phone | Member Input |
+| Used/Line | Back-end Calculation |
+| Interest Rate | Back-end Calculation |
+
+#### Asset Name
+
+| Field |  |
+| :--- | :--- |
+| 2019 Chevrolete Cayoner | Member Input |
+| Mileage |  |
+| Current Valuation |  |
+| Remaining Payment |  |
+
+#### Transaction
+
+|  |  |
+| :--- | :--- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
 {% endtab %}
 
 {% tab title="Interactions" %}
@@ -32,4 +59,6 @@ description: Custom Axle Component
 
 {% endtab %}
 {% endtabs %}
+
+
 
