@@ -19,6 +19,11 @@ description: Custom Axle Component
 ### Calculation
 {% endtab %}
 
+{% tab title="Interactions" %}
+* Jonthan Customer name is a link to the members profile page
+* Personal information is a link to the members profile page
+{% endtab %}
+
 {% tab title="States" %}
 
 {% endtab %}
