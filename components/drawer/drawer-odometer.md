@@ -52,6 +52,12 @@ description: Varaint
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A31813" %}
 {% endtab %}
+
+{% tab title="Error Handeling" %}
+### Error Handeling
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1119%3A26459" %}
+{% endtab %}
 {% endtabs %}
 
 
