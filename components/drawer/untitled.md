@@ -18,7 +18,21 @@ description: Variant
 * Save button is clicked, Trim Table status for this task becomes complete.
 * Discard button is clicked, no changes take place
 {% endtab %}
+
+{% tab title="States" %}
+### States
+
+### Onload
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A28114" %}
+
+### Completed
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=3001%3A37879" %}
+{% endtab %}
 {% endtabs %}
+
+
 
 | Task | Table Componet |
 | :--- | :--- |
