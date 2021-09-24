@@ -29,7 +29,7 @@
 
 ![](../../.gitbook/assets/side-drawer-upload-complete.png)
 
-#### Upload/Verifiy Side Drawer Appears OnLoad
+#### Upload/Verify Side Drawer Appears OnLoad
 
 ![](../../.gitbook/assets/verfiy-onload.png)
 
