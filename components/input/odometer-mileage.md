@@ -25,6 +25,7 @@ This field is intended to be used for Odometer readings.
 * Accept numbers
 * No letters 
 * No !@\#$%^&\*\(\)
+* Optional error handling for odometer values of over 85,000 miles
 {% endtab %}
 
 {% tab title="Attributes Format" %}
