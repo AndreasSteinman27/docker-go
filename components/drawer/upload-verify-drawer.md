@@ -49,8 +49,18 @@ The Upload/Verify Drawer is used for components that require MSA verification of
 {% tab title="Interactions" %}
 ### Interactions
 
+### No File Present
+
+* If no File is present, the drawer will display the [upload file dialog](https://ant.design/components/upload/#header). The Visual Inspection field will not be visible until a file is uploaded, and the Save button will be inactive.
+
+### File Present
+
+* If a File is present, the image should be displayed, and the Visual Inspection field should be visible. 
+  * This is regardless of the source of the image, if a member uploads an image, it should appear the same as if an MSA uploads an image.
+
 ### Visual Inspection
 
+* If the Visual Inspection dropdown is null, the Save button should be inactive.
 * If the MSA selects Pass on the Visual Inspection dropdown, the Save button should be activated.
 * If the MSA selects Fail on the Visual Inspection dropdown, the Save button should be activated. 
 
