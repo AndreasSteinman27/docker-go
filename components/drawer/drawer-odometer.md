@@ -30,15 +30,15 @@ description: Varaint
 
 #### Odometer Pass
 
-
+![](../../.gitbook/assets/odometer-pass.png)
 
 **Fail Mileage**
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1418%3A26802" %}
+![](../../.gitbook/assets/odometer-fail-mileage.png)
 
-### **Fail Image**
+### Fail Bad Image
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1195%3A35228" %}
+![](../../.gitbook/assets/odometer-fail.png)
 
 ### Complete
 
