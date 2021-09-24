@@ -12,49 +12,50 @@ This drawer is used by MSAs to verify the Odometer value of a vehicle. Data ente
 {% tab title="Requirements" %}
 ### Requirements
 
-* The uploaded image must be viewable in the upper section
-* The MSA must be able to mark the image pass/fail
+* If no image is uploaded by the member, the MSA must upload an image to verify the Odometer. Then, they will they see this screen to verify the image.
+* Discard and X will close the modal, changes will not be saved, image will have to be reuploaded.
+* The MSA must be able to mark the image pass/fail to Save
 * If the image passes the visual inspection, the MSA must be able to enter in the odometer reading from the image. 
-  * If the odometer reading is over 85,000 miles, then the MSA should mark the image as failed.
-* A valuation must be run when valid information is entered and saved. This valuation should then be used for the Final Advance Statement.
+  * If the odometer reading is over 85,000 miles, then the MSA should mark the image as failed and an error state is shown.
+* The Odometer Input is passed towards the Final Advance Valuation. 
 {% endtab %}
 
 {% tab title="Steps" %}
 ### Steps
 
-#### Direct Lease Documents - Member Clicks Upload
+#### Step 1: Direct Lease Documents - Member Clicks Upload
 
 ![](../../.gitbook/assets/direct-lease-documents-onload.png)
 
-#### Upload Side Drawer
+#### Step 2: Upload Side Drawer
 
 ![](../../.gitbook/assets/side-drawer-upload-onload.png)
 
-#### Upload Images
+#### Step 3: Upload Images
 
 ![](../../.gitbook/assets/side-drawer-upload-loading.png)
 
-#### Upload Complete
+#### Step 4: Upload Complete
 
 ![](../../.gitbook/assets/side-drawer-upload-complete.png)
 
-#### Odometer Sidedrawer OnLoad
+#### Step 5: Odometer Sidedrawer OnLoad \(actual component\)
 
 ![](../../.gitbook/assets/odometer-onload.png)
 
-#### Odometer Pass
+#### State: Pass
 
 ![](../../.gitbook/assets/odometer-pass.png)
 
-**Pass - Mileage Input Error Messaging**
+**State Pass - Mileage Input Error Messaging**
 
 ![](../../.gitbook/assets/odometer-fail-mileage.png)
 
-#### Fail - Bad Image
+#### State: Fail - Bad Image
 
 ![](../../.gitbook/assets/odometer-fail.png)
 
-#### Final State 
+#### Step 6: Task Complete
 
 ![](../../.gitbook/assets/direct-lease-documents-complete.png)
 {% endtab %}
