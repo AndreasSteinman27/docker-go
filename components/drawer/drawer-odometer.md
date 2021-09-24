@@ -12,8 +12,6 @@ This drawer is used by MSAs to verify the Odometer value of a vehicle. Data ente
 {% tab title="Requirements" %}
 ### Requirements
 
-* If no image is uploaded by the member, the MSA must upload an image to verify the Odometer. Then, they will they see this screen to verify the image.
-* Discard and X will close the modal, changes will not be saved, image will have to be reuploaded.
 * The MSA must be able to mark the image pass/fail to Save
 * If the image passes the visual inspection, the MSA must be able to enter in the odometer reading from the image. 
   * If the odometer reading is over 85,000 miles, then the MSA should mark the image as failed and an error state is shown.
