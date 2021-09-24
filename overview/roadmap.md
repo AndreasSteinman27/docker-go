@@ -28,7 +28,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Table](../components/task-tables/) | Base | **Done** | **Done** | **Not Needed** |
 | [Task Table](../components/task-tables/task-table/) | Base | **Done** | **Done** |  |
 | [Object Table](../components/task-tables/object-table/) | Base |  | **Done** |  |
-| [2-Column Table](../components/task-tables/contact-table/) | Base |  |  |  |
+| [2-Column Table](../components/task-tables/contact-table/) | Base |  | **Done** |  |
 | [Trim Table](../components/task-tables/task-table/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
 | [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
 | [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
