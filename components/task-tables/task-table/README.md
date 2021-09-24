@@ -17,7 +17,6 @@ The task table provides a central view for related MSA tasks.
 * The task name, status, verification button, and upload button should all be present for a given task.
 * [Link buttons](../../button/link-button.md) should be used for the verification and upload buttons
 * Tasks that are not complete and are marked as required should show an error if the user attempts to progress the stage forward.
-* I
 {% endtab %}
 
 {% tab title="Interaction" %}
@@ -26,8 +25,6 @@ The task table provides a central view for related MSA tasks.
 * Upload brings up the Side Drawer - Upload
 * Start brings up Modal - Tasks
   * Once task is complete the button link turns to Edit
-* If not image is uploaded, bring up upload Side Drawer
-* 
 {% endtab %}
 {% endtabs %}
 

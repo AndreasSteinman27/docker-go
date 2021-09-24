@@ -57,6 +57,7 @@ The Upload/Verify Drawer is used for components that require MSA verification of
 
 * If a File is present, the image should be displayed, and the Visual Inspection field should be visible. 
   * This is regardless of the source of the image, if a member uploads an image, it should appear the same as if an MSA uploads an image.
+* If the MSA drags a new file to the upload drawer, then the Visual Inspection field should be set to null.
 
 ### Visual Inspection
 
@@ -71,6 +72,8 @@ The Upload/Verify Drawer is used for components that require MSA verification of
 * If the Save Button is clicked while active, the associated document should be updated with the appropriate status, and the drawer should close:
   * Verified if the Visual Inspection is Pass
   * Failed if the Visual Inspection is Fail
+* If a new file was uploaded as a part of the interaction, then the newest file should be uploaded and stored as the document type selected, replacing the previously uploaded file in both the LOS and the member dashboard.
+  * The Previously uploaded file will be archived and hidden from view.
 
 ### Discard and Close Buttons:
 
