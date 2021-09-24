@@ -34,7 +34,7 @@ description: Variant
 
 
 
-| Task | Table Componet |
+| Task | Table Component |
 | :--- | :--- |
 | Autocheck | [Trim](../task-tables/task-table/trim.md) |
 | Verbal Insurance Policy Check | [Disbursement](../task-tables/task-table/disbursement.md) |
