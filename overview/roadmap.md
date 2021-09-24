@@ -39,11 +39,12 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 ### Release 3 - Loading States, Upload, & Side - Drawers
 
-| Feature | Type | Requirements | Design |
-| :--- | :---: | :---: | :--- |
-| Skeleton Loading |  |  |  |
-| Loading States |  |  |  |
-| Personal Information | Contact Table |  |  |
+| Feature | Type | Requirements | Design | Code |
+| :--- | :---: | :---: | :--- | :---: |
+| Skeleton Loading |  |  |  |  |
+| Loading States |  |  |  |  |
+| Personal Information | Contact Table |  |  |  |
+| QA Test Pages |  |  |  |  |
 
 ### Release 4
 
