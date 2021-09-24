@@ -26,14 +26,24 @@
 * If an object is already uploaded. Replace the current image with the new one.
 {% endtab %}
 
-{% tab title="States" %}
-### Upload Button Link is Pressed
+{% tab title="States & Steps" %}
+### States & Steps
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=692%3A25322" %}
+#### Upload Drawer OnLoad
 
-### Hover
+![](../../.gitbook/assets/side-drawer-upload-onload.png)
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1143%3A27276" %}
+#### Hover
+
+![](../../.gitbook/assets/side-drawer-hover.png)
+
+#### Loading
+
+![](../../.gitbook/assets/side-drawer-upload-loading.png)
+
+### Complete
+
+![](../../.gitbook/assets/side-drawer-upload-complete.png)
 {% endtab %}
 
 {% tab title="Error Handeling" %}
@@ -42,6 +52,10 @@
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1119%3A26459" %}
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 

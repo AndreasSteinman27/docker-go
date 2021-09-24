@@ -26,7 +26,7 @@ description: Varaint
 
 #### Upload Side Drawer
 
-![](../../.gitbook/assets/side-drawer-upload.png)
+![](../../.gitbook/assets/side-drawer-upload-onload.png)
 
 #### Upload Images
 
