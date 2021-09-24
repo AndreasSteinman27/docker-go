@@ -64,5 +64,6 @@
 
 ## Layouts
 
+* [Members Page](layouts/members-page.md)
 * [Transactions](layouts/transactions.md)
 
