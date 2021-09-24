@@ -35,11 +35,11 @@ This drawer is used to verify trims and packages for a vehicle, and triggers the
 
 ![](../../.gitbook/assets/side-drawer-upload-complete.png)
 
-### Verification Drawer
+#### Maroney Label Drawer
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A28082" %}
 
-### Final
+#### Final Trim Table
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=876%3A25901" %}
 
