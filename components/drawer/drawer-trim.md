@@ -31,7 +31,9 @@ This drawer is used to verify trims and packages for a vehicle, and triggers the
 
 ### Upload Maroney Image
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A31813" %}
+![](../../.gitbook/assets/side-drawer-upload-loading.png)
+
+![](../../.gitbook/assets/side-drawer-upload-complete.png)
 
 ### Verification Drawer
 
