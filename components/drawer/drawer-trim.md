@@ -35,9 +35,13 @@ This drawer is used to verify trims and packages for a vehicle, and triggers the
 
 ![](../../.gitbook/assets/side-drawer-upload-complete.png)
 
-#### Maroney Label Drawer
+#### Maroney Label Drawer OnLoad
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A28082" %}
+![](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer.png)
+
+#### Maroney Label Complete
+
+![](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete.png)
 
 #### Final Trim Table
 
@@ -45,11 +49,7 @@ This drawer is used to verify trims and packages for a vehicle, and triggers the
 
 ### Edit
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A28082" %}
-
-### Update
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A31813" %}
+![](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete.png)
 {% endtab %}
 
 {% tab title="Actions" %}
