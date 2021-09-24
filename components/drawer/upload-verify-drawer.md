@@ -5,6 +5,8 @@
 {% tabs %}
 {% tab title="Usage" %}
 ### Usage
+
+The Upload/Verify Drawer is used for components that require MSA verification of an uploaded image.
 {% endtab %}
 
 {% tab title="Requirements" %}
