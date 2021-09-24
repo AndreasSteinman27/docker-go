@@ -23,10 +23,11 @@ This field is intended to be used for currency values
 **Requirements**
 
 * The input field only accepts numeric values
-*  A zero or a single decimal point can be accepted 
+  * A zero or a single decimal point can also be accepted 
 * Only two decimal points are allowed
 * A dollar sign should appear in the pre-tab of the input to indicate that it is a monetary value.
 * The field should not respond to arrow-key or scroll wheel interactions.
+* The field should be able to be set to blank.
 
 **Placeholder**
 
