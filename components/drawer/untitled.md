@@ -22,15 +22,17 @@ description: Variant
 {% tab title="States" %}
 ### States
 
-### Onload
+#### On-Load
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A28114" %}
+![](../../.gitbook/assets/side-drawer-verification-onload.png)
 
 ### Completed
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=3001%3A37879" %}
+![](../../.gitbook/assets/side-drawer-upload-verification-active.png)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
