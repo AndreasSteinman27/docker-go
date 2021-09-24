@@ -77,7 +77,7 @@ The Upload/Verify Drawer is used for components that require MSA verification of
 
 ### Discard and Close Buttons:
 
-* If Discard or Close is clicked, the drawer should close, and any entered values should be discarded.
+* If Discard or Close is clicked, the drawer should close, and any entered values or uploaded files should be discarded.
 {% endtab %}
 {% endtabs %}
 
