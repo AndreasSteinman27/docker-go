@@ -59,6 +59,30 @@ This drawer is used by MSAs to verify the Odometer value of a vehicle. Data ente
 ![](../../.gitbook/assets/direct-lease-documents-complete.png)
 {% endtab %}
 
+{% tab title="Actions" %}
+### Visual Inspection
+
+* If the MSA selects Pass on the Visual Inspection dropdown, the Odometer Reading field should appear.
+* If the MSA selects Fail on the Visual Inspection dropdown, the Save button should be activated. If the Odometer Reading is visible, changing the Inspection to Fail should hide the Odometer Reading.
+
+### Odometer Reading
+
+* If the Odometer reading is greater than 85,000 miles, an error should appear, instructing the user to change the Visual Inspection to Fail.
+* If a valid Odometer reading is entered, the Save button should be made accessible.
+
+### Save Button
+
+* If the Save button is active and clicked:
+  * If Visual inspection is Pass, then the document should be marked as verified. The Asset's stored odometer value should be updated with the entered Odometer reading and a valuation should be run with the odometer reading given. The value should be saved as the final valuation, and the sidebar should be updated with this value as the current valuation and the final valuation. The drawer should then close.
+  * If Visual inspection is Fail, then the document should be marked as failed, and the drawer should close.
+* If the Save button is inactive \(default state\):
+  * Nothing should happen if the button is clicked.
+
+### Discard and Close Buttons:
+
+* If Discard or Close is clicked, the drawer should close, and any entered values should be discarded.
+{% endtab %}
+
 {% tab title="Error Handeling" %}
 ### Error Handeling
 
