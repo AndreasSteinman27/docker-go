@@ -1,7 +1,3 @@
----
-description: Varaint
----
-
 # Odometer Image Drawer
 
 ![Odometer Image Side Drawer](../../.gitbook/assets/odometer-onload.png)
@@ -9,6 +5,8 @@ description: Varaint
 {% tabs %}
 {% tab title="Usage" %}
 ### Usage
+
+This drawer is used by MSAs to verify the Odometer value of a vehicle. Data entered into this drawer is used to run the valuation for the final statement of advance.
 {% endtab %}
 
 {% tab title="Requirments" %}
