@@ -44,6 +44,10 @@
 ### Complete
 
 ![](../../.gitbook/assets/side-drawer-upload-complete.png)
+
+#### Error State
+
+![](../../.gitbook/assets/side-drawer-upload-error-state.png)
 {% endtab %}
 
 {% tab title="Error Handeling" %}
