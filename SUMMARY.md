@@ -62,8 +62,8 @@
 
 * [Existing Error Messages](alerts-and-errors/existing-error-messages.md)
 
-## Layouts
+## Page
 
-* [Members Page](layouts/members-page.md)
-* [Transactions](layouts/transactions.md)
+* [Members](page/members.md)
+* [Transaction](page/transaction.md)
 
