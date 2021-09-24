@@ -1,5 +1,5 @@
 ---
-description: Member Page
+description: 'Location(s): Member Page'
 ---
 
 # Transaction
