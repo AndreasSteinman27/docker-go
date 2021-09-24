@@ -21,29 +21,29 @@
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=718%3A25252" %}
 
-### Upload
+#### Upload
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A31813" %}
+![](../../.gitbook/assets/side-drawer-upload-onload.png)
 
-### Pass
+#### Upload Complete, MSA saves Image
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A37201" %}
+![](../../.gitbook/assets/side-drawer-upload-complete.png)
 
-### Fail
+#### Upload/Verifiy Side Drawer Appears OnLoad
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1971%3A15994" %}
+![](../../.gitbook/assets/verfiy-onload.png)
+
+#### Pass
+
+![](../../.gitbook/assets/verfiy-pass-image.png)
+
+#### Fail
+
+![](../../.gitbook/assets/verfiy-fail-image.png)
 
 ### Complete
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A32068" %}
-
-### Edit
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A37201" %}
-
-### Update
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A31813" %}
 {% endtab %}
 
 {% tab title="Interactions" %}
