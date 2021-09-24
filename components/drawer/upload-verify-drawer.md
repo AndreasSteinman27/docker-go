@@ -12,10 +12,7 @@ The Upload/Verify Drawer is used for components that require MSA verification of
 {% tab title="Requirements" %}
 ### Requirement
 
-* When user saves Pass. Task Table Tag becomes Complete.
-* When user select Fail. Task Table Tag becomes Fail.
-* Update overides the saved photo \(for this version\).
-* 
+* The MSA must be able to mark the image pass/fail to Save
 {% endtab %}
 
 {% tab title="States" %}
@@ -50,6 +47,23 @@ The Upload/Verify Drawer is used for components that require MSA verification of
 
 {% tab title="Interactions" %}
 ### Interactions
+
+### Visual Inspection
+
+* If the MSA selects Pass on the Visual Inspection dropdown, the Save button should be activated.
+* If the MSA selects Fail on the Visual Inspection dropdown, the Save button should be activated. 
+
+### Save Button
+
+* The Save button's default state is inactive.
+  * If it is clicked while inactive, nothing should happen.
+* If the Save Button is clicked while active, the associated document should be updated with the appropriate status, and the drawer should close:
+  * Verified if the Visual Inspection is Pass
+  * Failed if the Visual Inspection is Fail
+
+### Discard and Close Buttons:
+
+* If Discard or Close is clicked, the drawer should close, and any entered values should be discarded.
 {% endtab %}
 {% endtabs %}
 
