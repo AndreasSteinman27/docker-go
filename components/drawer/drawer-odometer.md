@@ -4,7 +4,7 @@ description: Varaint
 
 # Odometer Image Drawer
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A37201" caption="Onload" %}
+![Odometer Image Side Drawer](../../.gitbook/assets/odometer-onload.png)
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -30,7 +30,7 @@ description: Varaint
 
 #### Odometer Pass
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1971%3A15898" %}
+
 
 **Fail Mileage**
 
