@@ -1,6 +1,6 @@
 # Upload Drawer
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=692%3A25322" %}
+![](../../.gitbook/assets/verfiy-onload.png)
 
 {% tabs %}
 {% tab title="Usage" %}
