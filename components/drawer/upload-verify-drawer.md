@@ -12,7 +12,8 @@ The Upload/Verify Drawer is used for components that require MSA verification of
 {% tab title="Requirements" %}
 ### Requirement
 
-* The MSA must be able to mark the image pass/fail to Save
+* The table should show the image in question.
+* The MSA must be able to mark the image as pass/fail to save the document status.
 {% endtab %}
 
 {% tab title="States" %}
