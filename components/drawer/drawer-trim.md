@@ -9,10 +9,17 @@ description: Varaint
 {% tabs %}
 {% tab title="Usage" %}
 ### Usage
+
+This drawer is used to verify trims and packages for a vehicle, and triggers the preliminary valuation. It's named the Monroney Label drawer because the MSA uses the Monroney Label to check these.
 {% endtab %}
 
 {% tab title="Requirements" %}
 ### Requirements
+
+* The available trims for a vehicle should be listed in a dropdown, with a null state as default if no trim has been previously selected
+* Available Packages should be listed as checkboxes, and multiple can be selected
+* A valuation should be run if the values are changed and the user clicks "Save".
+* Any changes should be discarded if the user clicks Discard or the Close button.
 {% endtab %}
 
 {% tab title="States" %}
@@ -46,7 +53,7 @@ description: Varaint
 {% tab title="Actions" %}
 ### Save button
 
-* Should be grayed out if nothing has been selected
+* Should be grayed out if the trim is null or if no changes have been made.
 * When clicked, a Valuation should be run, the database should be updated with this valuation as the preliminary valuation, and both the Current Valuation and Preliminary Valuation should be updated in the Sidebar.
 * The Transaction numbers should also be recalculated and shown in the sidebar/saved in the database.
 
