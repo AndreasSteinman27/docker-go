@@ -27,7 +27,6 @@ This field is intended to be used for currency values
 * Only two decimal points are allowed
 * A dollar sign should appear in the pre-tab of the input to indicate that it is a monetary value.
 * The field should not respond to arrow-key or scroll wheel interactions.
-* The field should be able to be set to blank.
 
 **Placeholder**
 
