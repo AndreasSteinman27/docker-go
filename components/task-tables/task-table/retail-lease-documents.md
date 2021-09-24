@@ -24,8 +24,10 @@ Fields marked as Required must be completed and validated to submit the form att
 {% tab title="Interaction" %}
 ### Interaction
 
-* Upload brings up the Side Drawer - Upload
-  * Once task is complete the button link turns to Edit and the Status changes to Complete \(green\)
+* When the Upload button is clicked it brings up the [Side Drawer - Upload](../../drawer/upload.md)
+
+  * When a file is uploaded sucessfully the Uploaded status and Icon appears \(see States\)
+  * When a task is complete, the badge is marked as complete
 {% endtab %}
 
 {% tab title="States" %}
