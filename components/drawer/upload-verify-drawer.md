@@ -6,14 +6,37 @@
 {% tab title="Usage" %}
 ### Usage
 
-The Upload/Verify Drawer is used for components that require MSA verification of an uploaded image.
+This component is used by MSAs to upload documents and verify existing documents.
+{% endtab %}
+
+{% tab title="Services/Components" %}
+### Components with Interactions:
+
+{% page-ref page="../task-tables/task-table/" %}
 {% endtab %}
 
 {% tab title="Requirements" %}
 ### Requirement
 
-* The table should show the image in question.
-* The MSA must be able to mark the image as pass/fail to save the document status.
+* The MSA should be able to upload an image.
+  * Files that are not images or PDFs are not accepted.
+  * Files over 5MB aren’t supported
+* If a file already exists, then it will be archived/hidden, and the new file will take its place as the type of document selected.
+* Upon an upload being initiated, the file should be validated.
+* The upload drawer can only accept one file at a time
+* The Save button should be inactive by default.
+* The MSA should be able to view the uploaded image
+* The MSA must be able to mark the image as pass or fail for verification purposes. The Save button should only be activated once pass or fail has been selected.
+* If the user clicks save, the uploaded file should be stored as the document type that it was uploaded for, and any existing files should be archived and hidden. The Verification status should be updated to match the image status given.
+* If discard or close is clicked, any uploads or verification changes should be discarded.
+{% endtab %}
+
+{% tab title="Steps" %}
+1. The drawer is opened
+2. A file is uploaded to the drawer
+3. The file is displayed in the drawer
+4. The verification status of the document is marked \(pass/fail\)
+5. The upload and verification status are saved.
 {% endtab %}
 
 {% tab title="States" %}
@@ -49,35 +72,42 @@ The Upload/Verify Drawer is used for components that require MSA verification of
 {% tab title="Interactions" %}
 ### Interactions
 
-### No File Present
 
-* If no File is present, the drawer will appear as an [Upload Drawer](upload.md). The Visual Inspection field will not be visible until a file is uploaded, and the Save button will be inactive.
 
-### File Present
+**Upload Component**
 
-* If a File is present, the image should be displayed, and the Visual Inspection field should be visible. 
-  * This is regardless of the source of the image, if a member uploads an image, it should appear the same as if an MSA uploads an image.
-* If the MSA drags a new file to the upload drawer, then the Visual Inspection field should be set to null.
+* If a valid file has already been uploaded, it should be displayed.
+* The upload component should accept uploads either from the system file picker or from drag/drop.
+  * If the user clicks the upload component, the system file picker should appear. Once a file is selected, an upload should be initiated with the selected file.
+  * If the user drags a file to the upload component, an upload should be initiated with the selected file.
+* Upon an upload being initiated, the file should be validated.
+  * File must be an image/PDF\(?\) and under XMB.
+* Once a successful upload is performed, the image should be displayed in the drawer, replacing any existing images if present.
+* If the user uploads a file when another file was already uploaded, the old upload should be discarded and the new upload should replace the existing upload upon save.
+  * The upload drawer can only accept one file at a time.
 
-### Visual Inspection
+**Visual Inspection**
 
 * If the Visual Inspection dropdown is null, the Save button should be inactive.
-* If the MSA selects Pass on the Visual Inspection dropdown, the Save button should be activated.
-* If the MSA selects Fail on the Visual Inspection dropdown, the Save button should be activated. 
+* If the MSA selects Pass or Fail on the Visual Inspection dropdown, the Save button should be activated.
 
-### Save Button
+**Save Button**
 
 * The Save button's default state is inactive.
   * If it is clicked while inactive, nothing should happen.
-* If the Save Button is clicked while active, the associated document should be updated with the appropriate status, and the drawer should close:
+* If the Save Button is clicked while active, the associated document should be updated with the appropriate status, any existing documents should be hidden/archived, the new document should replace the old document for the selected document type, and the drawer should close.
   * Verified if the Visual Inspection is Pass
   * Failed if the Visual Inspection is Fail
-* If a new file was uploaded as a part of the interaction, then the newest file should be uploaded and stored as the document type selected, replacing the previously uploaded file in both the LOS and the member dashboard.
-  * The Previously uploaded file will be archived and hidden from view.
 
-### Discard and Close Buttons:
+**Discard and Close Buttons**
 
-* If Discard or Close is clicked, the drawer should close, and any entered values or uploaded files should be discarded.
+* The Discard button should always be active. When clicked, it should discard any uploads or input received, and the drawer should close.
+  * The close button behaves identically.
+{% endtab %}
+
+{% tab title="Error Handling" %}
+1. If file validation fails, then an error should appear.
+2. If file validation passes, the upload should begin. A progress bar should be shown with the upload.
 {% endtab %}
 {% endtabs %}
 
