@@ -20,16 +20,12 @@
   * [Secondary Button](components/button/secondary-button.md)
   * [Text Button](components/button/text-button.md)
 * [Drawer](components/drawer/README.md)
-  * [Monroney Label Drawer](components/drawer/drawer-trim.md)
-  * [Odometer Image Drawer](components/drawer/drawer-odometer.md)
+  * [Upload/Verify Drawer](components/drawer/upload-verify-drawer.md)
   * [Upload Drawer](components/drawer/upload.md)
   * [Verification Drawer](components/drawer/untitled.md)
-  * [Upload/Verify Drawer](components/drawer/upload-verify-drawer.md)
 * [Dropdown](components/dropdown.md)
 * [Form](components/form/README.md)
-  * [Statement Input Form](components/form/preliminary-and-final-statements/README.md)
-    * [Final Statement](components/form/preliminary-and-final-statements/final-statement.md)
-    * [Preliminary Statement](components/form/preliminary-and-final-statements/lbo-preliminary-statement.md)
+  * [Statement Input Form](components/form/preliminary-and-final-statements.md)
 * [Headers](components/headers/README.md)
   * [Form Header](components/headers/header/README.md)
     * [No Button Form Header](components/headers/header/no-button-form-header.md)
@@ -64,8 +60,12 @@
 
 * [Existing Error Messages](alerts-and-errors/existing-error-messages.md)
 
-## Page
+## Templates
 
-* [Members](page/members.md)
-* [Transaction](page/transaction.md)
+* [Preliminary Statement](templates/lbo-preliminary-statement.md)
+* [Final Statement](templates/final-statement.md)
+* [Odometer Image Drawer](templates/drawer-odometer.md)
+* [Monroney Label Drawer](templates/drawer-trim.md)
+* [Members](templates/members.md)
+* [Transaction](templates/transaction.md)
 

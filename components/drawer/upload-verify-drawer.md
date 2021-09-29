@@ -1,22 +1,34 @@
 # Upload/Verify Drawer
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1149%3A37201" %}
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.07.13-pm.png)
 
 {% tabs %}
-{% tab title="Usage" %}
-### Usage
-
+{% tab title="Overview" %}
 This component is used by MSAs to upload documents and verify existing documents.
-{% endtab %}
 
-{% tab title="Services/Components" %}
 ### Components with Interactions:
 
 {% page-ref page="../task-tables/task-table/" %}
+
+
+
+### Tasks that use this Drawer Component <a id="tasks-that-use-this-drawer-component"></a>
+
+| Name | Task Table |
+| :--- | :--- |
+| Driver's License Front | ​[Direct Lease Documents](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/direct-lease-documents)​ |
+| Driver's License Back | ​[Direct Lease Documents](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/direct-lease-documents)​ |
+| Proof of Insurance | ​[Direct Lease Documents](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/direct-lease-documents)​ |
+| Notarized Attorney | ​[Direct Lease Documents](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/direct-lease-documents)​ |
+| Bill of Sale | ​[Disbursement](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/disbursement)​ |
+| Title Application | ​[Disbursement](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/disbursement)​ |
+| Insurance Coverage Verification | ​[Disbursement](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/disbursement)​ |
+| Insurance Loss Payee Verification | ​[Disbursement](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/disbursement)​ |
+| Engagement Letter | ​[Disbursement](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/disbursement)​ |
 {% endtab %}
 
-{% tab title="Requirements" %}
-### Requirement
+{% tab title="Functional Requirements" %}
+### **Requirements:**
 
 * The MSA should be able to upload an image.
   * Files that are not PDF, JPG, TIFF, PNG, or GIF are not supported.
@@ -29,50 +41,16 @@ This component is used by MSAs to upload documents and verify existing documents
 * The MSA must be able to mark the image as pass or fail for verification purposes. The Save button should only be activated once pass or fail has been selected.
 * If the user clicks save, the uploaded file should be stored as the document type that it was uploaded for. If an image was already submitted for this document type, it should be archived and hidden. The Verification status should be updated to match the verification status given.
 * If discard or close is clicked, any uploads or verification changes should be discarded.
-{% endtab %}
 
-{% tab title="Steps" %}
+### **Steps:**
+
 1. The drawer is opened
 2. A file is uploaded to the drawer
 3. The file is displayed in the drawer
 4. The verification status of the document is marked \(pass/fail\)
 5. The upload and verification status are saved.
-{% endtab %}
 
-{% tab title="States" %}
-### Onload Task Table
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=718%3A25252" %}
-
-#### Upload
-
-![](../../.gitbook/assets/side-drawer-upload-onload.png)
-
-#### Upload Complete, MSA saves Image
-
-![](../../.gitbook/assets/side-drawer-upload-complete.png)
-
-#### Upload/Verify Side Drawer Appears OnLoad
-
-![](../../.gitbook/assets/verfiy-onload.png)
-
-#### Pass
-
-![](../../.gitbook/assets/verfiy-pass-image.png)
-
-#### Fail
-
-![](../../.gitbook/assets/verfiy-fail-image.png)
-
-### Complete
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A32068" %}
-{% endtab %}
-
-{% tab title="Interactions" %}
-### Interactions
-
-
+### UI Interactions
 
 **Upload Component**
 
@@ -105,7 +83,37 @@ This component is used by MSAs to upload documents and verify existing documents
   * The close button behaves identically.
 {% endtab %}
 
-{% tab title="Error Handling" %}
+{% tab title="Designs" %}
+#### Task Table
+
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.11.00-pm.png)
+
+#### Drawer OnLoad
+
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.07.13-pm%20%281%29.png)
+
+#### Upload Complete
+
+![](../../.gitbook/assets/side-drawer-upload-complete.png)
+
+#### Upload/Verify Side Drawer Appears OnLoad
+
+![](../../.gitbook/assets/verfiy-onload.png)
+
+#### Pass
+
+![](../../.gitbook/assets/verfiy-pass-image.png)
+
+#### Fail
+
+![](../../.gitbook/assets/verfiy-fail-image.png)
+
+### Complete
+
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A32068" %}
+{% endtab %}
+
+{% tab title="Validation/Error Handling" %}
 1. If file validation fails, then an error should appear.
    1. File is over 10MB
    2. Invalid File Type
@@ -113,17 +121,5 @@ This component is used by MSAs to upload documents and verify existing documents
 {% endtab %}
 {% endtabs %}
 
-### Tasks that use this Drawer Component
-
-| Name | Task Table |
-| :--- | :--- |
-| Driver's License Front | [Direct Lease Documents](../task-tables/task-table/direct-lease-documents.md) |
-| Driver's License Back | [Direct Lease Documents](../task-tables/task-table/direct-lease-documents.md) |
-| Proof of Insurance | [Direct Lease Documents](../task-tables/task-table/direct-lease-documents.md) |
-| Notarized Attorney | [Direct Lease Documents](../task-tables/task-table/direct-lease-documents.md) |
-| Bill of Sale | [Disbursement](../task-tables/task-table/disbursement.md) |
-| Title Application | [Disbursement](../task-tables/task-table/disbursement.md) |
-| Insurance Coverage Verification | [Disbursement](../task-tables/task-table/disbursement.md) |
-| Insurance Loss Payee Verification | [Disbursement](../task-tables/task-table/disbursement.md) |
-| Engagement Letter | [Disbursement](../task-tables/task-table/disbursement.md) |
+### 
 
