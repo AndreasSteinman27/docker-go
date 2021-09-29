@@ -1,6 +1,6 @@
 # Upload/Verify Drawer
 
-![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.07.13-pm.png)
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.27.10-pm.png)
 
 {% tabs %}
 {% tab title="Overview" %}
@@ -25,6 +25,7 @@ This component is used by MSAs to upload documents and verify existing documents
 | Insurance Coverage Verification | ​[Disbursement](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/disbursement)​ |
 | Insurance Loss Payee Verification | ​[Disbursement](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/disbursement)​ |
 | Engagement Letter | ​[Disbursement](https://app.gitbook.com/@carputty/s/axle/~/drafts/-MknK5R5yIP9tXv-bbTE/components/task-tables/task-table/disbursement)​ |
+| Odometer Verification |  |
 {% endtab %}
 
 {% tab title="Functional Requirements" %}
@@ -83,41 +84,37 @@ This component is used by MSAs to upload documents and verify existing documents
   * The close button behaves identically.
 {% endtab %}
 
-{% tab title="Designs" %}
-#### Task Table
-
-![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.11.00-pm.png)
-
-#### Drawer OnLoad
-
-![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.07.13-pm%20%281%29.png)
-
-#### Upload Complete
-
-![](../../.gitbook/assets/side-drawer-upload-complete.png)
-
-#### Upload/Verify Side Drawer Appears OnLoad
-
-![](../../.gitbook/assets/verfiy-onload.png)
-
-#### Pass
-
-![](../../.gitbook/assets/verfiy-pass-image.png)
-
-#### Fail
-
-![](../../.gitbook/assets/verfiy-fail-image.png)
-
-### Complete
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2699%3A32068" %}
-{% endtab %}
-
 {% tab title="Validation/Error Handling" %}
 1. If file validation fails, then an error should appear.
    1. File is over 10MB
    2. Invalid File Type
 2. If file validation passes, the upload should begin. A progress bar should be shown with the upload.
+{% endtab %}
+
+{% tab title="Designs" %}
+#### Task Table
+
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.11.00-pm.png)
+
+#### Drawer OnLoad - Empty
+
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.23.12-pm.png)
+
+#### 
+
+#### Drawer OnLoad - Upload Exists
+
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.27.10-pm.png)
+
+#### ERROR STATE IMAGE TBD
+
+#### Complete
+
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.30.50-pm.png)
+{% endtab %}
+
+{% tab title="Code" %}
+
 {% endtab %}
 {% endtabs %}
 
