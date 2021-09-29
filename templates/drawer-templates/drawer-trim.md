@@ -31,17 +31,17 @@ This drawer is used to verify trims and packages for a vehicle, and triggers the
 
 ### Upload Maroney Image
 
-![](../.gitbook/assets/side-drawer-upload-loading.png)
+![](../../.gitbook/assets/side-drawer-upload-loading.png)
 
-![](../.gitbook/assets/side-drawer-upload-complete.png)
+![](../../.gitbook/assets/side-drawer-upload-complete.png)
 
 #### Maroney Label Drawer OnLoad
 
-![](../.gitbook/assets/side-drawer-upload-maroney-label-drawer.png)
+![](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer.png)
 
 #### Maroney Label Complete
 
-![](../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete.png)
+![](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete.png)
 
 #### Final Trim Table
 
@@ -49,7 +49,7 @@ This drawer is used to verify trims and packages for a vehicle, and triggers the
 
 ### Edit
 
-![](../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete.png)
+![](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete.png)
 {% endtab %}
 
 {% tab title="Actions" %}

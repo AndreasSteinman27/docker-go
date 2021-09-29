@@ -1,6 +1,6 @@
 # Odometer Image Drawer
 
-![Odometer Image Side Drawer](../.gitbook/assets/odometer-onload.png)
+![Odometer Image Side Drawer](../../.gitbook/assets/odometer-onload.png)
 
 {% tabs %}
 {% tab title="Overview" %}
@@ -10,9 +10,9 @@ This drawer is used by MSAs to verify the Odometer value of a vehicle. Data ente
 
 Components included:
 
-{% page-ref page="../components/drawer/upload-verify-drawer.md" %}
+{% page-ref page="../../components/drawer/upload-verify-drawer.md" %}
 
-{% page-ref page="../components/input/odometer-mileage.md" %}
+{% page-ref page="../../components/input/odometer-mileage.md" %}
 {% endtab %}
 
 {% tab title="Functional Requirements" %}
@@ -97,31 +97,31 @@ Error message \(onEntry\)
 
 #### Documents - MSA Clicks Upload
 
-![](../.gitbook/assets/direct-lease-documents-onload.png)
+![](../../.gitbook/assets/direct-lease-documents-onload.png)
 
 #### Upload Side Drawer
 
-![](../.gitbook/assets/screen-shot-2021-09-29-at-4.23.12-pm%20%281%29.png)
+![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.23.12-pm%20%281%29.png)
 
 #### Upload Complete
 
-![](../.gitbook/assets/odometer-onload.png)
+![](../../.gitbook/assets/odometer-onload.png)
 
 #### State: Pass
 
-![](../.gitbook/assets/odometer-pass.png)
+![](../../.gitbook/assets/odometer-pass.png)
 
 **State Pass - Mileage Input Error Messaging**
 
-![](../.gitbook/assets/odometer-fail-mileage.png)
+![](../../.gitbook/assets/odometer-fail-mileage.png)
 
 #### Fail - Bad Image
 
-![](../.gitbook/assets/odometer-fail.png)
+![](../../.gitbook/assets/odometer-fail.png)
 
 #### Task Complete
 
-![](../.gitbook/assets/direct-lease-documents-complete.png)
+![](../../.gitbook/assets/direct-lease-documents-complete.png)
 {% endtab %}
 
 {% tab title="Code" %}

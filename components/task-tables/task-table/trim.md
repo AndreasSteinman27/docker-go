@@ -24,7 +24,7 @@ Fields marked as Required must be completed and validated to submit the form att
 | Component |
 | :--- |
 | [Autocheck Side Drawer](../../drawer/untitled.md) |
-| [Maroney Label Drawer](../../../templates/drawer-trim.md) |
+| [Maroney Label Drawer](../../../templates/drawer-templates/drawer-trim.md) |
 {% endtab %}
 
 {% tab title="Actions" %}
@@ -36,7 +36,7 @@ Fields marked as Required must be completed and validated to submit the form att
 ### Monroney Label
 
 * Upload opens the [Upload Drawer](../../drawer/upload.md). If the upload was successful, the Verify link should appear to the left of the Upload link.
-* The Verify link opens the [Monroney Label Drawer](../../../templates/drawer-trim.md). Once the trim has been verified, the status should change from Incomplete to Complete
+* The Verify link opens the [Monroney Label Drawer](../../../templates/drawer-templates/drawer-trim.md). Once the trim has been verified, the status should change from Incomplete to Complete
   * It is impossible to "fail" a Monroney Label.
 {% endtab %}
 

@@ -62,10 +62,11 @@
 
 ## Templates
 
+* [Drawer Templates](templates/drawer-templates/README.md)
+  * [Monroney Label Drawer](templates/drawer-templates/drawer-trim.md)
+  * [Odometer Image Drawer](templates/drawer-templates/drawer-odometer.md)
 * [Preliminary Statement](templates/lbo-preliminary-statement.md)
 * [Final Statement](templates/final-statement.md)
-* [Odometer Image Drawer](templates/drawer-odometer.md)
-* [Monroney Label Drawer](templates/drawer-trim.md)
 * [Members](templates/members.md)
 * [Transaction](templates/transaction.md)
 

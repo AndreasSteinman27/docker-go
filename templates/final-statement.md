@@ -96,7 +96,7 @@ When pressed:
 * The sidebar should be updated with the final fee total.
 * The sidebar should be updated with the Lease Buy Out Amount, the Maximum Allowed, the Advance Amount, the Transaction Total, and the Minimum Down Payment. 
   * These values must be calculated as well.
-  * No valuations should be run, the final vehicle valuation should have been run when the odometer image was verified in the documents upload stage \([Odometer Image Drawer](drawer-odometer.md)\).
+  * No valuations should be run, the final vehicle valuation should have been run when the odometer image was verified in the documents upload stage \([Odometer Image Drawer](drawer-templates/drawer-odometer.md)\).
 * The save button should then disappear and be replaced by the Edit button and the Generate Preliminary Statement button.
 
 ### Discard Button
