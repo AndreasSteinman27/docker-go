@@ -8,7 +8,7 @@ This component is used by MSAs to upload documents and verify existing documents
 
 ### Components with Interactions:
 
-{% page-ref page="../task-tables/task-table/" %}
+{% page-ref page="../../components/task-tables/task-table/" %}
 
 
 

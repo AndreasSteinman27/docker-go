@@ -20,7 +20,6 @@
   * [Secondary Button](components/button/secondary-button.md)
   * [Text Button](components/button/text-button.md)
 * [Drawer](components/drawer/README.md)
-  * [Upload/Verify Drawer](components/drawer/upload-verify-drawer.md)
   * [Upload Drawer](components/drawer/upload.md)
   * [Verification Drawer](components/drawer/untitled.md)
 * [Dropdown](components/dropdown.md)
@@ -63,6 +62,7 @@
 ## Templates
 
 * [Drawer Templates](templates/drawer-templates/README.md)
+  * [Upload/Verify Drawer](templates/drawer-templates/upload-verify-drawer.md)
   * [Monroney Label Drawer](templates/drawer-templates/drawer-trim.md)
   * [Odometer Image Drawer](templates/drawer-templates/drawer-odometer.md)
 * [Preliminary Statement](templates/lbo-preliminary-statement.md)

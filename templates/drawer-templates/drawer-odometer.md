@@ -10,7 +10,7 @@ This drawer is used by MSAs to verify the Odometer value of a vehicle. Data ente
 
 Components included:
 
-{% page-ref page="../../components/drawer/upload-verify-drawer.md" %}
+{% page-ref page="upload-verify-drawer.md" %}
 
 {% page-ref page="../../components/input/odometer-mileage.md" %}
 {% endtab %}
