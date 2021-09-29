@@ -85,10 +85,14 @@ This component is used by MSAs to upload documents and verify existing documents
 {% endtab %}
 
 {% tab title="Validation/Error Handling" %}
-1. If file validation fails, then an error should appear.
-   1. File is over 10MB
-   2. Invalid File Type
-2. If file validation passes, the upload should begin. A progress bar should be shown with the upload.
+Error message \(onUpload\)
+
+* IF image is not valid image type then error is shown:
+  * Invalid File Type
+* IF image is too large then error is shown:
+  * File is over 10MB
+
+If file validation passes, the upload should begin. A progress bar should be shown with the upload.
 {% endtab %}
 
 {% tab title="Designs" %}
