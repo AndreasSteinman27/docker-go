@@ -42,9 +42,14 @@
       <td style="text-align:left">Taxes, Tag Fee, Fee&apos;s</td>
     </tr>
     <tr>
-      <td style="text-align:left">Subtotal of</td>
-      <td style="text-align:center"></td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">Subtotal of Other</td>
+      <td style="text-align:center">Sum Of</td>
+      <td style="text-align:left">Gap Insurance, Extended Contract, Roadside</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Total Advance Amount</td>
+      <td style="text-align:center">Sum Of</td>
+      <td style="text-align:left">Requested Amount, Subtotal Taxes, Subtotal of Other</td>
     </tr>
   </tbody>
 </table>
