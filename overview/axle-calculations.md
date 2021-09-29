@@ -1,9 +1,5 @@
 # Rate Calculations
 
-### Dashboard Reference
-
-[Link to Source of Truth Calculations ](https://docs.google.com/spreadsheets/d/1mtJMBA50bzL4TogyS_GRi-ZxKpGLuH9nrp0bEi-WGMM/edit?usp=sharing)
-
 <table>
   <thead>
     <tr>
@@ -97,8 +93,6 @@
 
 * Total Advance/loan amount cannot exceed the maximum line amount
 * Initial payoff or request cannot exceed maximum vehicle amount
-
-
 
 
 
