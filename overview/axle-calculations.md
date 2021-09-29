@@ -86,7 +86,9 @@
         <p></p>
         <p>Advance Amount</p>
       </td>
-      <td style="text-align:left"></td>
+      <td style="text-align:left">The amount Carputty will advance towards a vehicle. For a Refi is known
+        as the &quot;payoff&quot;. Retail and Lease-buyout is equal to vehicle
+        price.</td>
     </tr>
   </tbody>
 </table>
