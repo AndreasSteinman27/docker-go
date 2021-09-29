@@ -5,8 +5,8 @@
 ## Overview
 
 * [Roadmap](overview/roadmap.md)
+* [Rate Calculations](overview/axle-calculations.md)
 * [System Architecture](overview/axle-layout/README.md)
-  * [Calculations](overview/axle-layout/axle-calculations.md)
   * [Attributes Formats](overview/axle-layout/back-end.md)
 * [API Documentation](overview/api-documentation.md)
 * [Additional Resources](overview/resource-page.md)
