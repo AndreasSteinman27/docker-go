@@ -19,15 +19,15 @@ This component is used by MSAs to upload documents and verify existing documents
 ### Requirement
 
 * The MSA should be able to upload an image.
-  * Files that are not images or PDFs are not accepted.
-  * Files over 5MB aren’t supported
-* If a file already exists, then it will be archived/hidden, and the new file will take its place as the type of document selected.
+  * Files that are not PDF, JPG, TIFF, PNG, or GIF are not supported.
+  * Files over 10MB aren’t supported
+* If an image has already been uploaded, and a new image is uploaded to replace it, the old image should be archived/hidden, and the new image will replace the old given the type of document selected.
 * Upon an upload being initiated, the file should be validated.
 * The upload drawer can only accept one file at a time
 * The Save button should be inactive by default.
 * The MSA should be able to view the uploaded image
 * The MSA must be able to mark the image as pass or fail for verification purposes. The Save button should only be activated once pass or fail has been selected.
-* If the user clicks save, the uploaded file should be stored as the document type that it was uploaded for, and any existing files should be archived and hidden. The Verification status should be updated to match the image status given.
+* If the user clicks save, the uploaded file should be stored as the document type that it was uploaded for. If an image was already submitted for this document type, it should be archived and hidden. The Verification status should be updated to match the verification status given.
 * If discard or close is clicked, any uploads or verification changes should be discarded.
 {% endtab %}
 
@@ -81,7 +81,7 @@ This component is used by MSAs to upload documents and verify existing documents
   * If the user clicks the upload component, the system file picker should appear. Once a file is selected, an upload should be initiated with the selected file.
   * If the user drags a file to the upload component, an upload should be initiated with the selected file.
 * Upon an upload being initiated, the file should be validated.
-  * File must be an image/PDF\(?\) and under XMB.
+  * File must be PDF, JPG, TIFF, PNG, or GIF and under 10MB.
 * Once a successful upload is performed, the image should be displayed in the drawer, replacing any existing images if present.
 * If the user uploads a file when another file was already uploaded, the old upload should be discarded and the new upload should replace the existing upload upon save.
   * The upload drawer can only accept one file at a time.
@@ -95,7 +95,7 @@ This component is used by MSAs to upload documents and verify existing documents
 
 * The Save button's default state is inactive.
   * If it is clicked while inactive, nothing should happen.
-* If the Save Button is clicked while active, the associated document should be updated with the appropriate status, any existing documents should be hidden/archived, the new document should replace the old document for the selected document type, and the drawer should close.
+* If the Save Button is clicked while active, the associated document should be updated with the appropriate status, the previously uploaded image \(if applicable\) should be hidden/archived, the new document should replace the old document for the selected document type, and the drawer should close.
   * Verified if the Visual Inspection is Pass
   * Failed if the Visual Inspection is Fail
 
@@ -107,6 +107,8 @@ This component is used by MSAs to upload documents and verify existing documents
 
 {% tab title="Error Handling" %}
 1. If file validation fails, then an error should appear.
+   1. File is over 10MB
+   2. Invalid File Type
 2. If file validation passes, the upload should begin. A progress bar should be shown with the upload.
 {% endtab %}
 {% endtabs %}
