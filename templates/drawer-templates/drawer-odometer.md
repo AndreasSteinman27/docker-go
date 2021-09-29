@@ -89,7 +89,7 @@ Error message \(onUpload\)
 Error message \(onEntry\)
 
 * IF odometer entered is higher than 85,000 then error is shown:
-  * ERROR TBD
+  * "Vehicles with over 85,000 miles are not supported. If the vehicle has over 85,000 miles, mark the Visual Inspection as Failed."
 {% endtab %}
 
 {% tab title="Designs" %}
