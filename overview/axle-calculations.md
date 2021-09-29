@@ -95,7 +95,10 @@
 
 ### Rules
 
-Total Advance/loan amount cannot exceed the maximum line amount
+* Total Advance/loan amount cannot exceed the maximum line amount
+* Initial payoff or request cannot exceed maximum vehicle amount
+
+
 
 
 
