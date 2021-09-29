@@ -8,7 +8,7 @@
   <thead>
     <tr>
       <th style="text-align:left">Name</th>
-      <th style="text-align:left">Description</th>
+      <th style="text-align:left">Calculation</th>
     </tr>
   </thead>
   <tbody>
@@ -51,8 +51,41 @@
       <td style="text-align:left">Total Loan (amount financed)</td>
       <td style="text-align:left">Asset Acquisition Fee 1% + Total Advance Amount</td>
     </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
     <tr>
-      <td style="text-align:left">Approved Line</td>
+      <th style="text-align:left">Name</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>Line Amount</p>
+      </td>
+      <td style="text-align:left">
+        <p></p>
+        <p>Is the amount a member is approved for a transaction that ranges from
+          $30,000 to $250,000.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">CP Value (Carputty Value)</td>
+      <td style="text-align:left">
+        <p></p>
+        <p>The value Carputty assigns a vehicle that takes into account the year
+          and mileage.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p></p>
+        <p>Advance Amount</p>
+      </td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
