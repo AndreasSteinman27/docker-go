@@ -65,8 +65,9 @@
   * [Upload/Verify Drawer](templates/drawer-templates/upload-verify-drawer.md)
   * [Monroney Label Drawer](templates/drawer-templates/drawer-trim.md)
   * [Odometer Image Drawer](templates/drawer-templates/drawer-odometer.md)
-* [Preliminary Statement](templates/lbo-preliminary-statement.md)
-* [Final Statement](templates/final-statement.md)
+* [Form Templates](templates/form-templates/README.md)
+  * [Final Statement](templates/form-templates/final-statement.md)
+  * [Preliminary Statement](templates/form-templates/lbo-preliminary-statement.md)
 * [Members](templates/members.md)
 * [Transaction](templates/transaction.md)
 

@@ -45,8 +45,8 @@ In order to save the form, you must complete the following fields. The others ar
 
 | Name | Type | Required | Backend |
 | :--- | :--- | :--- | :---: |
-| Lease Buyout Amount | [Currency](../components/input/currency-input.md) | **Yes** | \*\*\*\* |
-| All Tax Fields  | [Currency](../components/input/currency-input.md) |  |  |
+| Lease Buyout Amount | [Currency](../../components/input/currency-input.md) | **Yes** | \*\*\*\* |
+| All Tax Fields  | [Currency](../../components/input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
 {% endtab %}
 
@@ -79,7 +79,7 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 When pressed:
 
-* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../components/task-tables/object-table/)\) named "Final Advance Statement". 
+* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../components/task-tables/object-table/)\) named "Final Advance Statement". 
 * Sets the Asset status to final-advance-review.
 
 ### Edit Button
@@ -96,7 +96,7 @@ When pressed:
 * The sidebar should be updated with the final fee total.
 * The sidebar should be updated with the Lease Buy Out Amount, the Maximum Allowed, the Advance Amount, the Transaction Total, and the Minimum Down Payment. 
   * These values must be calculated as well.
-  * No valuations should be run, the final vehicle valuation should have been run when the odometer image was verified in the documents upload stage \([Odometer Image Drawer](drawer-templates/drawer-odometer.md)\).
+  * No valuations should be run, the final vehicle valuation should have been run when the odometer image was verified in the documents upload stage \([Odometer Image Drawer](../drawer-templates/drawer-odometer.md)\).
 * The save button should then disappear and be replaced by the Edit button and the Generate Preliminary Statement button.
 
 ### Discard Button
