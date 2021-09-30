@@ -7,6 +7,10 @@
 ### Usage
 
 This form is used to manage uploaded documents for Autocheck and Monroney Labels. 
+
+### Primary Component
+
+{% page-ref page="../../components/task-tables/task-table/" %}
 {% endtab %}
 
 {% tab title="Requirements" %}
@@ -23,18 +27,18 @@ Fields marked as Required must be completed and validated to submit the form att
 
 | Component |
 | :--- |
-| [Autocheck Side Drawer](../../drawer/untitled.md) |
-| [Maroney Label Drawer](../../../templates/drawer-templates/drawer-trim.md) |
+| [Autocheck Side Drawer](../../components/drawer/untitled.md) |
+| [Maroney Label Drawer](../drawer-templates/drawer-trim.md) |
 {% endtab %}
 
 {% tab title="Actions" %}
 ### Autocheck
 
-* The View/Edit link opens the [Upload/Verify Drawer](../../../templates/drawer-templates/upload-verify-drawer.md). If upload is marked as verified, the Autocheck status should be updated to Complete. If upload is marked as failed, the Autocheck status should be updated to Failed.
+* The View/Edit link opens the [Upload/Verify Drawer](../drawer-templates/upload-verify-drawer.md). If upload is marked as verified, the Autocheck status should be updated to Complete. If upload is marked as failed, the Autocheck status should be updated to Failed.
 
 ### Monroney Label
 
-* The Verify link opens the [Monroney Label Drawer](../../../templates/drawer-templates/drawer-trim.md). Once the trim has been verified, the status should change from Incomplete to Complete
+* The Verify link opens the [Monroney Label Drawer](../drawer-templates/drawer-trim.md). Once the trim has been verified, the status should change from Incomplete to Complete
   * It is impossible to "fail" a Monroney Label.
 {% endtab %}
 

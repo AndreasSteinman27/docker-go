@@ -38,6 +38,6 @@ description: Variant
 
 | Task | Table Component |
 | :--- | :--- |
-| Autocheck | [Trim](../task-tables/task-table/trim.md) |
+| Autocheck | [Trim](../../templates/table-templates/trim.md) |
 | Verbal Insurance Policy Check | [Disbursement](../task-tables/task-table/disbursement.md) |
 
