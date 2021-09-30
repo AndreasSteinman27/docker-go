@@ -28,13 +28,13 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Table](../components/task-tables/) | Base | **Done** | **Done** | **Not Needed** |
 | [Task Table](../components/task-tables/task-table.md) | Base | **Done** | **Done** |  |
 | [Object Table](../components/task-tables/object-table.md) | Base |  | **Done** |  |
-| [2-Column Table](../components/task-tables/contact-table/) | Base |  | **Done** |  |
+| [2-Column Table](../components/task-tables/contact-table.md) | Base |  | **Done** |  |
 | [Trim Table](../templates/table-templates/task-table-templates/trim.md) | [Task Table](../components/task-tables/task-table.md) | **Done** | **Done** | \*\*\*\* |
 | [Direct Lease Documents](../templates/table-templates/task-table-templates/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table.md) | **Done** | **Done** | \*\*\*\* |
 | [Retail Lease Documents](../templates/table-templates/task-table-templates/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table.md) | **Done** | **Done** | \*\*\*\* |
 | [Disbursement](../templates/table-templates/task-table-templates/disbursement.md) | [Task Table](../components/task-tables/task-table.md) | **Done** | **Done** | \*\*\*\* |
 | [Document Archive](../templates/table-templates/object-table-templates/archive.md) | [Object Table](../components/task-tables/object-table.md) |  | **Done** |  |
-| [Retail Lease Contact Info](../components/task-tables/contact-table/retail-lease-contact-info.md) | [2-column Table](../components/task-tables/contact-table/) |  | **Done** |  |
+| [Retail Lease Contact Info](../templates/table-templates/2-column-table-templates/retail-lease-contact-info.md) | [2-column Table](../components/task-tables/contact-table.md) |  | **Done** |  |
 | [Right Side Bar](../components/right-side-bar.md) | Base |  | **Done** |  |
 
 ### Release 3 - Loading States, Upload, & Side - Drawers

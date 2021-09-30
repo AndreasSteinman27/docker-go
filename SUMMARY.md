@@ -44,10 +44,7 @@
 * [Table](components/task-tables/README.md)
   * [Task Table](components/task-tables/task-table.md)
   * [Object Table](components/task-tables/object-table.md)
-  * [2-Column Table](components/task-tables/contact-table/README.md)
-    * [Personal Information](components/task-tables/contact-table/personal-information.md)
-    * [Transaction](components/task-tables/contact-table/transaction.md)
-    * [Retailer Contact Information](components/task-tables/contact-table/retail-lease-contact-info.md)
+  * [2-Column Table](components/task-tables/contact-table.md)
 * [Right Side Bar](components/right-side-bar.md)
 
 ## Alerts & Errors
@@ -64,7 +61,10 @@
   * [Final Statement](templates/form-templates/final-statement.md)
   * [Preliminary Statement](templates/form-templates/lbo-preliminary-statement.md)
 * [Table Templates](templates/table-templates/README.md)
-  * [2-Column Table Templates](templates/table-templates/2-column-table-templates.md)
+  * [2-Column Table Templates](templates/table-templates/2-column-table-templates/README.md)
+    * [Retailer Contact Information](templates/table-templates/2-column-table-templates/retail-lease-contact-info.md)
+    * [Transaction](templates/table-templates/2-column-table-templates/transaction.md)
+    * [Personal Information](templates/table-templates/2-column-table-templates/personal-information.md)
   * [Task Table Templates](templates/table-templates/task-table-templates/README.md)
     * [Disbursement](templates/table-templates/task-table-templates/disbursement.md)
     * [Retail Lease Documents](templates/table-templates/task-table-templates/retail-lease-documents.md)
