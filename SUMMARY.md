@@ -68,6 +68,8 @@
 * [Form Templates](templates/form-templates/README.md)
   * [Final Statement](templates/form-templates/final-statement.md)
   * [Preliminary Statement](templates/form-templates/lbo-preliminary-statement.md)
+* [Table Templates](templates/table-templates.md)
+* [Menu Templates](templates/menu-templates.md)
 * [Members](templates/members.md)
 * [Transaction](templates/transaction.md)
 
