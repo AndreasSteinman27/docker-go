@@ -64,6 +64,7 @@
   * [Final Statement](templates/form-templates/final-statement.md)
   * [Preliminary Statement](templates/form-templates/lbo-preliminary-statement.md)
 * [Table Templates](templates/table-templates/README.md)
+  * [2-Column Table Templates](templates/table-templates/2-column-table-templates.md)
   * [Task Table Templates](templates/table-templates/task-table-templates/README.md)
     * [Disbursement](templates/table-templates/task-table-templates/disbursement.md)
     * [Retail Lease Documents](templates/table-templates/task-table-templates/retail-lease-documents.md)
