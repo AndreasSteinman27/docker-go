@@ -24,7 +24,7 @@ Fields marked as Required must be completed and validated to submit the form att
 {% tab title="Interaction" %}
 ### Interaction
 
-* When the Upload button is clicked it brings up the [Side Drawer - Upload](../../drawer/upload.md)
+* When the View/Edit button is clicked it brings up the [Upload/Verify Drawer](../../../templates/drawer-templates/upload-verify-drawer.md).
 
   * When a file is uploaded sucessfully the Uploaded status and Icon appears \(see States\)
   * When a task is complete, the badge is marked as complete

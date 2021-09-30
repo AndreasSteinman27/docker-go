@@ -22,8 +22,8 @@ The task table provides a central view for related MSA tasks.
 {% tab title="Interaction" %}
 ### Interaction
 
-* Upload brings up the Side Drawer - Upload
-* Start brings up Modal - Tasks
+* View/Edit brings up the [Upload/Verify Drawer](../../../templates/drawer-templates/upload-verify-drawer.md).
+* Start brings up [Verification Drawer](../../drawer/untitled.md)
   * Once task is complete the button link turns to Edit
 {% endtab %}
 {% endtabs %}
