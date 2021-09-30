@@ -23,8 +23,8 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Form](../components/form/) | Base  | **Done** | **Done** | **Done** |
 | [Form Header](../components/headers/header/) | Base  | **Done** | **Done** | **Done** |
 | [Statement Input Form](../components/form/preliminary-and-final-statements.md) | Base | **Done** | **Done** | **Not Needed** |
-| [Preliminary Statement](../templates/form-templates/lbo-preliminary-statement.md) | [Statement Input Form](../components/form/preliminary-and-final-statements.md) | **Done** | **Done** | **Done** |
-| [Final Statement](../templates/form-templates/final-statement.md) | [Statement Input Form](../components/form/preliminary-and-final-statements.md) | **Done** | **Done** |  |
+| [Preliminary Statement](../templates/form-templates/statement-input-form-templates/lbo-preliminary-statement.md) | [Statement Input Form](../components/form/preliminary-and-final-statements.md) | **Done** | **Done** | **Done** |
+| [Final Statement](../templates/form-templates/statement-input-form-templates/final-statement.md) | [Statement Input Form](../components/form/preliminary-and-final-statements.md) | **Done** | **Done** |  |
 | [Table](../components/task-tables/) | Base | **Done** | **Done** | **Not Needed** |
 | [Task Table](../components/task-tables/task-table.md) | Base | **Done** | **Done** |  |
 | [Object Table](../components/task-tables/object-table.md) | Base |  | **Done** |  |

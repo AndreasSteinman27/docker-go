@@ -16,11 +16,11 @@ The Preliminary Advance Statement is a document created within Axle that serves 
 {% tab title="Parent Object" %}
 ### **Parent Object**
 
-[Input Form](../../components/form/)
+[Input Form](../../../components/form/)
 
 ### Child Elements
 
-[Currency input](../../components/input/currency-input.md), [Header,](../../components/headers/header/) [Primary button](../../components/button/), [Secondary button](../../components/button/secondary-button.md)
+[Currency input](../../../components/input/currency-input.md), [Header,](../../../components/headers/header/) [Primary button](../../../components/button/), [Secondary button](../../../components/button/secondary-button.md)
 {% endtab %}
 
 {% tab title="Requirements" %}
@@ -39,10 +39,10 @@ Fields marked as Required must be completed and validated to submit this form. A
 | Lessor Details - Address 1 | Generic |  |  |
 | Lessor Details - Address 2 | Generic |  |  |
 | Lessor Details - City | Generic |  |  |
-| Lessor Details - State | [Dropdown](../../components/dropdown.md) |  |  |
-| Lessor Details - Phone Number | [Phone](../../components/input/phone-number.md) | **Yes** |  |
-| Lease Type | [Dropdown](../../components/dropdown.md) | **Yes** |  |
-| Estimated Taxes Fields \(all\) | [Currency](../../components/input/currency-input.md) |  |  |
+| Lessor Details - State | [Dropdown](../../../components/dropdown.md) |  |  |
+| Lessor Details - Phone Number | [Phone](../../../components/input/phone-number.md) | **Yes** |  |
+| Lease Type | [Dropdown](../../../components/dropdown.md) | **Yes** |  |
+| Estimated Taxes Fields \(all\) | [Currency](../../../components/input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
 {% endtab %}
 
@@ -75,7 +75,7 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 When pressed:
 
-* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../components/task-tables/object-table.md)\) named "Preliminary Advance Statement". 
+* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../../components/task-tables/object-table.md)\) named "Preliminary Advance Statement". 
 * Sets the Asset status to prelim-advance-review.
 
 ### Edit Button
@@ -90,7 +90,7 @@ When pressed:
   * Any errors should cause the form to display the error state for the affected field, and for processing to stop.
 * If validation proceeds without issue, then the data should be saved to the database, and the fields should be grayed out and made uneditable.
 * The sidebar should be updated with the estimated fees, and the other transaction fields should be recalculated \(Advance Amount, Transaction Total, and Minimum Down Payment\).
-  * No valuations should be run, the prelim valuation is performed when the trim verification occurs \([Trim](../table-templates/task-table-templates/trim.md)\).
+  * No valuations should be run, the prelim valuation is performed when the trim verification occurs \([Trim](../../table-templates/task-table-templates/trim.md)\).
 * The sidebar should be updated with the Lessor Details entered.
 * The save button should then disappear and be replaced by the Edit button and the Generate Preliminary Statement button.
 
