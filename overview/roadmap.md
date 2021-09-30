@@ -26,14 +26,14 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Preliminary Statement](../templates/form-templates/lbo-preliminary-statement.md) | [Statement Input Form](../components/form/preliminary-and-final-statements.md) | **Done** | **Done** | **Done** |
 | [Final Statement](../templates/form-templates/final-statement.md) | [Statement Input Form](../components/form/preliminary-and-final-statements.md) | **Done** | **Done** |  |
 | [Table](../components/task-tables/) | Base | **Done** | **Done** | **Not Needed** |
-| [Task Table](../components/task-tables/task-table/) | Base | **Done** | **Done** |  |
-| [Object Table](../components/task-tables/object-table/) | Base |  | **Done** |  |
+| [Task Table](../components/task-tables/task-table.md) | Base | **Done** | **Done** |  |
+| [Object Table](../components/task-tables/object-table.md) | Base |  | **Done** |  |
 | [2-Column Table](../components/task-tables/contact-table/) | Base |  | **Done** |  |
-| [Trim Table](../templates/table-templates/trim.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
-| [Direct Lease Documents](../components/task-tables/task-table/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
-| [Retail Lease Documents](../components/task-tables/task-table/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
-| [Disbursement](../components/task-tables/task-table/disbursement.md) | [Task Table](../components/task-tables/task-table/) | **Done** | **Done** | \*\*\*\* |
-| [Document Archive](../components/task-tables/object-table/archive.md) | [Object Table](../components/task-tables/object-table/) |  | **Done** |  |
+| [Trim Table](../templates/table-templates/task-table-templates/trim.md) | [Task Table](../components/task-tables/task-table.md) | **Done** | **Done** | \*\*\*\* |
+| [Direct Lease Documents](../templates/table-templates/task-table-templates/direct-lease-documents.md) | [Task Table](../components/task-tables/task-table.md) | **Done** | **Done** | \*\*\*\* |
+| [Retail Lease Documents](../templates/table-templates/task-table-templates/retail-lease-documents.md) | [Task Table](../components/task-tables/task-table.md) | **Done** | **Done** | \*\*\*\* |
+| [Disbursement](../templates/table-templates/task-table-templates/disbursement.md) | [Task Table](../components/task-tables/task-table.md) | **Done** | **Done** | \*\*\*\* |
+| [Document Archive](../templates/table-templates/object-table-templates/archive.md) | [Object Table](../components/task-tables/object-table.md) |  | **Done** |  |
 | [Retail Lease Contact Info](../components/task-tables/contact-table/retail-lease-contact-info.md) | [2-column Table](../components/task-tables/contact-table/) |  | **Done** |  |
 | [Right Side Bar](../components/right-side-bar.md) | Base |  | **Done** |  |
 

@@ -2,8 +2,8 @@
 
 | Names | Description |
 | :--- | :--- |
-| [Task Table](task-table/) | A table in which an MSA does tasks.  |
-| [Document Table](object-table/archive.md) | A table in which objects or documents can be downloaded |
+| [Task Table](task-table.md) | A table in which an MSA does tasks.  |
+| [Document Table](../../templates/table-templates/object-table-templates/archive.md) | A table in which objects or documents can be downloaded |
 | [2 Column Table](contact-table/) | A table in which results or user data is able to be viewed. |
 
 | Name | Type |

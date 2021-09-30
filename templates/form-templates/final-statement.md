@@ -79,7 +79,7 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 When pressed:
 
-* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../components/task-tables/object-table/)\) named "Final Advance Statement". 
+* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../components/task-tables/object-table.md)\) named "Final Advance Statement". 
 * Sets the Asset status to final-advance-review.
 
 ### Edit Button

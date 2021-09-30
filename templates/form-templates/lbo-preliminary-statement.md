@@ -75,7 +75,7 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 When pressed:
 
-* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../components/task-tables/object-table/)\) named "Preliminary Advance Statement". 
+* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../components/task-tables/object-table.md)\) named "Preliminary Advance Statement". 
 * Sets the Asset status to prelim-advance-review.
 
 ### Edit Button
@@ -90,7 +90,7 @@ When pressed:
   * Any errors should cause the form to display the error state for the affected field, and for processing to stop.
 * If validation proceeds without issue, then the data should be saved to the database, and the fields should be grayed out and made uneditable.
 * The sidebar should be updated with the estimated fees, and the other transaction fields should be recalculated \(Advance Amount, Transaction Total, and Minimum Down Payment\).
-  * No valuations should be run, the prelim valuation is performed when the trim verification occurs \([Trim](../table-templates/trim.md)\).
+  * No valuations should be run, the prelim valuation is performed when the trim verification occurs \([Trim](../table-templates/task-table-templates/trim.md)\).
 * The sidebar should be updated with the Lessor Details entered.
 * The save button should then disappear and be replaced by the Edit button and the Generate Preliminary Statement button.
 
