@@ -31,6 +31,7 @@
     * [Save/Edit Form Header](components/headers/header/2-button-form-header.md)
   * [Global Header](components/headers/global-header.md)
 * [Input](components/input/README.md)
+  * [Upload](components/input/upload.md)
   * [Password](components/input/password.md)
   * [Social Security](components/input/social-security.md)
   * [Odometer Reading](components/input/odometer-mileage.md)
