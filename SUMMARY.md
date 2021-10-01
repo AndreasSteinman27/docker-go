@@ -21,7 +21,7 @@
   * [Text Button](components/button/text-button.md)
 * [Drawer](components/drawer/README.md)
   * [Upload Drawer](components/drawer/upload.md)
-  * [Verification Drawer](components/drawer/untitled.md)
+  * [Verification Drawer](components/drawer/verification.md)
 * [Dropdown](components/dropdown.md)
 * [Form](components/form/README.md)
   * [Statement Input Form](components/form/preliminary-and-final-statements.md)

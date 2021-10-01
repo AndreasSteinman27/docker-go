@@ -26,7 +26,7 @@ Disbursment is the final section for the lease-buyout flow and signfies to OPS t
     * When a file is uploaded sucessfully the Uploaded status and Icon appears \(see States\)
     * When a task is complete, the badge is marked as complete
 * For Verbal Insurance Policy Check:
-  * When Verify is clicked, the [Verification Drawer](../../../components/drawer/untitled.md) appears. 
+  * When Verify is clicked, the [Verification Drawer](../../../components/drawer/verification.md) appears. 
     * If the policy is successfully verified, the badge should be marked as complete.
     * If the policy is not verified, the badge should remain as incomplete.
 * Finish Transaction marks the Asset record status as Ready To Fund.

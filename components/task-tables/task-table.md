@@ -23,7 +23,7 @@ The task table provides a central view for related MSA tasks.
 ### Interaction
 
 * View/Edit brings up the [Upload/Verify Drawer](../../templates/drawer-templates/upload-verify-drawer.md).
-* Start brings up [Verification Drawer](../drawer/untitled.md)
+* Start brings up [Verification Drawer](../drawer/verification.md)
   * Once task is complete the button link turns to Edit
 {% endtab %}
 {% endtabs %}
