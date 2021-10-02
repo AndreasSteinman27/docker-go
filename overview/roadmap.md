@@ -11,7 +11,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Input](../components/input/) | Base | **Done** | **Done** | **Done** |  |
 | [Zipcode ](../components/input/zipcode.md) | Base  | **Done** | **Done** | **Done** |  |
 | [City ](../components/input/city.md) | Base  | **Done** | **Done** |  |  |
-| [Dropdown](../components/dropdown.md) | Base  | **Done** | **Done** | **Done** |  |
+| [Dropdown](../components/dropdown/) | Base  | **Done** | **Done** | **Done** |  |
 | [Primary Button](../components/button/primary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |  |
 | [Secondary Button](../components/button/secondary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |  |
 | [Link Button](../components/button/link-button.md) | Base  | **Done** | **Done** |  |  |
