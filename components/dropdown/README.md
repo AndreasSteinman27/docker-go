@@ -4,7 +4,7 @@ description: Known also as a "Selector"
 
 # Dropdown
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=264%3A5433" %}
+![Dropdown Base](../../.gitbook/assets/dropdown.png)
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -41,6 +41,10 @@ The `Dropdown` displays and allows users to select a single item from a predeter
 **Error Messages \(onSubmit\)**
 
 * This field is required
+{% endtab %}
+
+{% tab title="Style & Sizing" %}
+{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=264%3A5433" %}
 {% endtab %}
 
 {% tab title="Code" %}
