@@ -43,10 +43,6 @@ The `Dropdown` displays and allows users to select a single item from a predeter
 * This field is required
 {% endtab %}
 
-{% tab title="Style & Sizing" %}
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=264%3A5433" %}
-{% endtab %}
-
 {% tab title="Code" %}
 ### **Code**
 
