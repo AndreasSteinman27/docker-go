@@ -53,7 +53,9 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 ### Release 4
 
-| Feature | Type | Requirements | Design | Code |
+| Component | Type | Requirements | Design | Code |
 | :--- | :---: | :---: | :---: | :--- |
-|  |  |  |  |  |
+| Login In Screen | Base |  |  |  |
+| Member Search |  |  |  |  |
+| Transaction Search |  |  |  |  |
 
