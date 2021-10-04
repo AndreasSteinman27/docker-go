@@ -11,10 +11,14 @@ description: Custom Axle Component
 {% tabs %}
 {% tab title="Usage" %}
 ### Usage
+
+The Right Side Bar shows summary information about a transaction.
 {% endtab %}
 
 {% tab title="Requirements" %}
 ### Requirements
+
+* The Right Side Bar must be updated whenever values are saved or calculations are performed as a part of the transaction.
 
 ### Data Mappings
 
@@ -24,50 +28,50 @@ description: Custom Axle Component
 | :--- | :--- |
 | Email | Member Input |
 | Phone | Member Input |
-| Used/Line |  |
-| Interest Rate |  |
+| Used/Line | Borrower Credit Line |
+| Interest Rate | Borrower Credit Line |
 
 #### Asset Name
 
 | Field | Source |
 | :--- | :--- |
-| 2019 Chevrolete Cayoner | Member Input |
-| Mileage | Member Input |
-| Current Valuation |  |
-| Remaining Payment |  |
+| Year Make Model | Carputty Database |
+| Mileage | Member Input, Odometer Verification Drawer |
+| Current Valuation | Calculated by Monroney Drawer and Odometer Verification Drawer |
+| Remaining Payment | Member Input |
 
 #### Transaction
 
 | Field | Source |
 | :--- | :--- |
-| Residual Amount |  |
-| Maximum Allowed |  |
-| Advance Amount |  |
-| Transaction Total |  |
-| Minimum Down Payment |  |
+| Residual Amount | Member Input, Final Statement Form |
+| Maximum Allowed | Calculated |
+| Advance Amount | Calculated |
+| Transaction Total | Calculated |
+| Minimum Down Payment | Calculated |
 
 #### Valuation
 
 | Field | Source |
 | :--- | :--- |
-| Preliminary Valuation |  |
-| Final Valuation |  |
+| Preliminary Valuation | Monroney Label Drawer |
+| Final Valuation | Odometer Verification Drawer |
 
 ### Fee Total
 
 | Field | Source |
 | :--- | :--- |
-| Estimated |  |
-| Final |  |
+| Estimated | Preliminary Statement Form |
+| Final | Final Statement Form |
 
 ### Lessor
 
 | Field | Source |
 | :--- | :--- |
-| Lease Account \# |  |
-| Type |  |
-| Phone |  |
-| Address |  |
+| Lease Account \# | Member Input |
+| Type | Preliminary Statement Form |
+| Phone | Preliminary Statement Form |
+| Address | Preliminary Statement Form |
 {% endtab %}
 
 {% tab title="Interactions" %}
