@@ -111,7 +111,11 @@ If file validation passes, the upload should begin. A progress bar should be sho
 
 ![](../../.gitbook/assets/sidedrawer-hover.png)
 
-### File Loads
+### Select File
+
+![](../../.gitbook/assets/upload-file.png)
+
+### File uploads
 
 ![](../../.gitbook/assets/side-drawer-upload-loading.png)
 
@@ -119,23 +123,35 @@ If file validation passes, the upload should begin. A progress bar should be sho
 
 ![](../../.gitbook/assets/side-drawer-upload-complete%20%281%29.png)
 
-### 
-
 ### Select Trim
 
 ![](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer.png)
 
 ![Saves choice ](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete.png)
 
-### Trim Table Status Changes
+### Trim Table Status Changes to Compete / 2 Actions Avaiable
 
 ![](../../.gitbook/assets/trim-verification-component-896px.png)
+
+### Update
+
+
+
+![](../../.gitbook/assets/side-drawer-upload-complete%20%281%29.png)
+
+### Edit
+
+![Saves choice ](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete.png)
 {% endtab %}
 
 {% tab title="Code" %}
 ### 
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
