@@ -31,11 +31,11 @@
 
 #### Upload Drawer OnLoad
 
-![](../../.gitbook/assets/side-drawer-upload-onload.png)
+![](../../.gitbook/assets/side-drawer-upload.png)
 
 #### Hover
 
-![](../../.gitbook/assets/side-drawer-hover.png)
+![](../../.gitbook/assets/sidedrawer-hover.png)
 
 #### Loading
 

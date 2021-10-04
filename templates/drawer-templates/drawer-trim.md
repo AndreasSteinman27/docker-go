@@ -98,14 +98,48 @@ Error message \(onUpload\)
 If file validation passes, the upload should begin. A progress bar should be shown with the upload.
 {% endtab %}
 
-{% tab title="Designs" %}
+{% tab title="Steps" %}
+### Onload - Trim Table
 
+![](../../.gitbook/assets/trim-verification.png)
+
+### Upload Drawer
+
+![](../../.gitbook/assets/side-drawer-upload.png)
+
+### Hover Upload Drawer
+
+![](../../.gitbook/assets/sidedrawer-hover.png)
+
+### File Loads
+
+![](../../.gitbook/assets/side-drawer-upload-loading.png)
+
+### Save Loaded Files
+
+![](../../.gitbook/assets/side-drawer-upload-complete%20%281%29.png)
+
+### 
+
+### Select Trim
+
+![](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer.png)
+
+![Saves choice ](../../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete.png)
+
+### Trim Table Status Changes
+
+![](../../.gitbook/assets/trim-verification-component-896px.png)
 {% endtab %}
 
 {% tab title="Code" %}
 ### 
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
