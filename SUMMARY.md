@@ -47,7 +47,6 @@
   * [Task Table](components/task-tables/task-table.md)
   * [Object Table](components/task-tables/object-table.md)
   * [2-Column Table](components/task-tables/contact-table.md)
-* [Right Side Bar](components/right-side-bar.md)
 
 ## Templates
 
@@ -74,6 +73,10 @@
 * [Menu Templates](templates/menu-templates.md)
 * [Members](templates/members.md)
 * [Transaction](templates/transaction.md)
+
+## Snowflakes
+
+* [Right Side Bar](snowflakes/right-side-bar.md)
 
 ## Alerts & Errors
 

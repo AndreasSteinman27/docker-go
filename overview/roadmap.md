@@ -37,7 +37,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 | [Disbursement](../templates/table-templates/task-table-templates/disbursement.md) | [Task Table](../components/task-tables/task-table.md) | **Done** | **Done** | **Done** |
 | [Document Archive](../templates/table-templates/object-table-templates/archive.md) | [Object Table](../components/task-tables/object-table.md) |  | **Done** | Done |
 | [Retail Lease Contact Info](../templates/table-templates/2-column-table-templates/retail-lease-contact-info.md) | [2-column Table](../components/task-tables/contact-table.md) | **Done** | **Done** | Done |
-| [Right Side Bar](../components/right-side-bar.md) | Unique |  | **Done** |  |
+| [Right Side Bar](../snowflakes/right-side-bar.md) | Unique |  | **Done** |  |
 
 ### Release 3 - Loading, Members's Page Components, 
 
