@@ -49,10 +49,6 @@
   * [2-Column Table](components/task-tables/contact-table.md)
 * [Right Side Bar](components/right-side-bar.md)
 
-## Alerts & Errors
-
-* [Existing Error Messages](alerts-and-errors/existing-error-messages.md)
-
 ## Templates
 
 * [Drawer Templates](templates/drawer-templates/README.md)
@@ -78,4 +74,8 @@
 * [Menu Templates](templates/menu-templates.md)
 * [Members](templates/members.md)
 * [Transaction](templates/transaction.md)
+
+## Alerts & Errors
+
+* [Existing Error Messages](alerts-and-errors/existing-error-messages.md)
 
