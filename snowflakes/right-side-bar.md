@@ -4,9 +4,7 @@ description: Custom Axle Component
 
 # Right Side Bar
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2609%3A21222" caption="Right Sidebar" %}
-
-
+![Right Side Bar Finished State](../.gitbook/assets/right-side-bar-finished.png)
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -86,25 +84,19 @@ The Right Side Bar shows summary information about a transaction.
 
 ### On-Load
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2628%3A23288" %}
+![](../.gitbook/assets/right-side-bar-onload.png)
 
 ### Trim
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2628%3A29148" %}
+![](../.gitbook/assets/right-side-bar-trim.png)
 
 ### Preliminary Statement
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2628%3A24460" %}
+![](../.gitbook/assets/right-side-bar-prelim.png)
 
-### Documents
+### Final Statement
 
-### Final Statment
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2628%3A26804" %}
-
-### Disbursement
-
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/Axle-Components?node-id=2628%3A27977" %}
+![](../.gitbook/assets/right-side-bar-final.png)
 {% endtab %}
 
 {% tab title="Code" %}
