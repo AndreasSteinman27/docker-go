@@ -6,17 +6,17 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 ### Release 1 - Inputs
 
-| Component | Type | Requirements | Design | Code |
-| :--- | :---: | :---: | :---: | :---: |
-| [Input](../components/input/) | Base | **Done** | **Done** | **Done** |
-| [Zipcode ](../components/input/zipcode.md) | Base  | **Done** | **Done** | **Done** |
-| [City ](../components/input/city.md) | Base  | **Done** | **Done** |  |
-| [Dropdown](../components/dropdown/) | Base  | **Done** | **Done** | \*\*\*\* |
-| [Dropdown w Label](../components/dropdown/dropdown-with-label.md) | Variant |  |  | **Done** |
-| [Primary Button](../components/button/primary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |
-| [Secondary Button](../components/button/secondary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |
-| [Link Button](../components/button/link-button.md) | Base  | **Done** | **Done** |  |
-| [Odometer](../components/input/odometer-mileage.md) | Base  | **Done** | **Done** |  |
+| Component | Type | Requirements | Design | Code | QA |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| [Input](../components/input/) | Base | **Done** | **Done** | **Done** |  |
+| [Zipcode ](../components/input/zipcode.md) | Base  | **Done** | **Done** | **Done** |  |
+| [City ](../components/input/city.md) | Base  | **Done** | **Done** |  |  |
+| [Dropdown](../components/dropdown/) | Base  | **Done** | **Done** | \*\*\*\* |  |
+| [Dropdown w Label](../components/dropdown/dropdown-with-label.md) | Variant |  |  | **Done** |  |
+| [Primary Button](../components/button/primary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |  |
+| [Secondary Button](../components/button/secondary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |  |
+| [Link Button](../components/button/link-button.md) | Base  | **Done** | **Done** |  |  |
+| [Odometer](../components/input/odometer-mileage.md) | Base  | **Done** | **Done** |  |  |
 
 ### Release 2 - Lease Buyout Forms & Tables
 
