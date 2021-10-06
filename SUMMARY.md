@@ -71,8 +71,11 @@
   * [Object Table Templates](templates/table-templates/object-table-templates/README.md)
     * [Document Table](templates/table-templates/object-table-templates/archive.md)
 * [Menu Templates](templates/menu-templates.md)
-* [Members](templates/members.md)
-* [Transaction](templates/transaction.md)
+
+## Pages
+
+* [Transaction](pages/transaction.md)
+* [Members](pages/members.md)
 
 ## Snowflakes
 
