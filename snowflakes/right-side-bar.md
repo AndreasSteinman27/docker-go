@@ -93,6 +93,10 @@ The Right Side Bar shows summary information about a transaction.
 | Address | Preliminary Statement Form |
 {% endtab %}
 
+{% tab title="Validation/Error Handling" %}
+* This sidebar does not show errors, however, the calculations should match the values we have documented, this must be verified in QA.
+{% endtab %}
+
 {% tab title="Designs" %}
 ### States
 
