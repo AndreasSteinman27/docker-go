@@ -7,16 +7,37 @@ description: Custom Axle Component
 ![Right Side Bar Finished State](../.gitbook/assets/right-side-bar-finished.png)
 
 {% tabs %}
-{% tab title="Usage" %}
+{% tab title="Overview" %}
 ### Usage
 
 The Right Side Bar shows summary information about a transaction.
+
+### Components with Interactions:
+
+| Page |
+| :--- |
+| [Monroney Label Drawer](../templates/drawer-templates/drawer-trim.md) |
+| [Preliminary Statement](../templates/form-templates/statement-input-form-templates/lbo-preliminary-statement.md) |
+| [Final Statement](../templates/form-templates/statement-input-form-templates/final-statement.md) |
 {% endtab %}
 
-{% tab title="Requirements" %}
+{% tab title="Functional Requirements" %}
 ### Requirements
 
 * The Right Side Bar must be updated whenever values are saved or calculations are performed as a part of the transaction.
+  * This happens when the Prelim form is saved, when the Final form is saved, when the Trim is verified via the Monroney Label Drawer, and when the Odometer is verified in the Odometer drawer.
+
+### Interactions
+
+* Clicking the name of the member should bring the user to the member's Member page.
+* Clicking Personal Information should bring the user to the member's Member page.
+
+### Steps:
+
+1. Verify the Trim of a vehicle, and note that the prelim valuation is updated.
+2. Fill out and save the Preliminary Statement form, and note that the values entered \(and their calculations\) are displayed correctly in the side bar.
+3. Verify the Odometer Image of a vehicle, and note that the final valuation is updated.
+4. Fill out and save the Final Statement form, and note that the values entered \(and their calculations\) are displayed correctly in the side bar.
 
 ### Data Mappings
 
@@ -72,14 +93,7 @@ The Right Side Bar shows summary information about a transaction.
 | Address | Preliminary Statement Form |
 {% endtab %}
 
-{% tab title="Interactions" %}
-* Jonathan Customer name is a link to the member's profile page
-* Personal information is a link to the member's profile page
-
-![](../.gitbook/assets/interaction.png)
-{% endtab %}
-
-{% tab title="States" %}
+{% tab title="Designs" %}
 ### States
 
 ### On-Load
