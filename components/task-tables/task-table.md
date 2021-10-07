@@ -4,23 +4,30 @@
 
 {% tabs %}
 {% tab title="Usage" %}
-### Usage
+### Overview
 
-The task table provides a central view for related MSA tasks.
+The Table is used for tasks that require documents to be uploaded and verified.
+
+### Templates that use this component
+
+| Name | Flow |
+| :--- | :--- |
+| [Trim](../../templates/table-templates/task-table-templates/trim.md) | Lease-buyout |
+| [Direct Lease Documents](../../templates/table-templates/task-table-templates/direct-lease-documents.md) | Lease-buyout |
+| [Retail Lease Documents](../../templates/table-templates/task-table-templates/retail-lease-documents.md) | Lease-buyout |
+| [Disbursement](../../templates/table-templates/task-table-templates/disbursement.md) | Lease-buyout |
 {% endtab %}
 
-{% tab title="Parent Object" %}
+{% tab title="Functional Requirements" %}
+### Requirements
 
-{% endtab %}
-
-{% tab title="Requirements" %}
-* The task name, status, verification button, and upload button should all be present for a given task.
+* The task name and Status should be present for all tasks
+* Tasks associated with a file should show a View button that links to the uploaded file if an uploaded file is present.
+* All tasks should have a single button to upload, verify, or edit the file/verification for a task. The button should change name depending on the state of the object.
 * [Link buttons](../button/link-button.md) should be used for the verification and upload buttons
 * Tasks that are not complete and are marked as required should show an error if the user attempts to progress the stage forward.
-{% endtab %}
 
-{% tab title="Interaction" %}
-### Interaction
+### Interactions
 
 ### Upload/Edit Button
 
@@ -38,7 +45,21 @@ The task table provides a central view for related MSA tasks.
 * The button should link to the file in question.
 * If no file is present for a task, the button should not appear.
 {% endtab %}
+
+{% tab title="Error Handling" %}
+* This task is required.
+{% endtab %}
+
+{% tab title="Designs" %}
+
+{% endtab %}
+
+{% tab title="Code" %}
+
+{% endtab %}
 {% endtabs %}
+
+
 
 ### Task Table Components
 
