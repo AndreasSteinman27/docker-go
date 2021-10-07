@@ -35,7 +35,7 @@ See [Task Table](../../../ingredients/task-tables/task-table.md).
 ### See [Task Table](../../../ingredients/task-tables/task-table.md)
 {% endtab %}
 
-{% tab title="Designs" %}
+{% tab title="States" %}
 ### On-Loading
 
 ![](../../../.gitbook/assets/direct-lease-documents-onload%20%282%29.png)

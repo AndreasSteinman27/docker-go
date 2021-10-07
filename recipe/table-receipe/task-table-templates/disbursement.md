@@ -1,10 +1,6 @@
----
-description: Variant of Task Table
----
-
 # Disbursement Table
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A24574" %}
+![](../../../.gitbook/assets/disbursement-onload.png)
 
 {% tabs %}
 {% tab title="Overview" %}
@@ -42,12 +38,12 @@ Disbursement is the final section for the lease-buyout flow and signfies to OPS 
 See [Task Table](../../../ingredients/task-tables/task-table.md)
 {% endtab %}
 
-{% tab title="Designs" %}
+{% tab title="States" %}
 ### States
 
 ### On-loading
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A24574" %}
+![](../../../.gitbook/assets/disbursement-onload.png)
 
 ### Status Changes
 
