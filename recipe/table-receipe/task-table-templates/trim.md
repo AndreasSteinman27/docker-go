@@ -40,7 +40,7 @@ See [Task Table](../../../ingredients/task-tables/task-table.md) for additional 
 
 | Component |
 | :--- |
-| [Autocheck Side Drawer](../../../ingredients/drawer/verification.md) |
+| [Autocheck Side Drawer](../../drawer/verification.md) |
 | [Maroney Label Drawer](../../drawer/drawer-trim.md) |
 {% endtab %}
 

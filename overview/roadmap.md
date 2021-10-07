@@ -42,7 +42,7 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Component | Type | Requirements | Design | Code |
 | :--- | :---: | :---: | :---: | :---: |
-| [Upload Drawer](../ingredients/drawer/upload-receipe.md) |  |  |  |  |
+| [Upload Drawer](../recipe/drawer/upload-receipe.md) |  |  |  |  |
 | Autocheck Drawer |  |  |  |  |
 | [Maroney Label Drawer](../recipe/drawer/drawer-trim.md) |  |  |  |  |
 | Odometer Image Drawer |  |  |  |  |

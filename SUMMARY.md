@@ -19,9 +19,6 @@
   * [Radio Button](ingredients/button/radio-button.md)
   * [Secondary Button](ingredients/button/secondary-button.md)
   * [Text Button](ingredients/button/text-button.md)
-* [Drawer](ingredients/drawer/README.md)
-  * [Upload Drawer Receipe](ingredients/drawer/upload-receipe.md)
-  * [Verification Drawer Recipe](ingredients/drawer/verification.md)
 * [Dropdown](ingredients/dropdown/README.md)
   * [Dropdown with Label](ingredients/dropdown/dropdown-with-label.md)
 * [Form](ingredients/form/README.md)
@@ -51,6 +48,8 @@
 ## Recipe
 
 * [Drawer](recipe/drawer/README.md)
+  * [Verification Drawer Recipe](recipe/drawer/verification.md)
+  * [Upload Drawer Recipe](recipe/drawer/upload-receipe.md)
   * [Upload/Verify Drawer](recipe/drawer/upload-verify-drawer.md)
   * [Monroney Label Drawer](recipe/drawer/drawer-trim.md)
   * [Odometer Image Drawer](recipe/drawer/drawer-odometer.md)

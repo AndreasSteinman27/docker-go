@@ -1,10 +1,12 @@
 # Verification Drawer Recipe
 
-
+![](../../.gitbook/assets/side-drawer-verification-onload%20%281%29.png)
 
 {% tabs %}
 {% tab title="Usage" %}
 ### Usage
+
+The verification drawer is used to quikcly verify
 {% endtab %}
 
 {% tab title="Requirements" %}
@@ -32,8 +34,8 @@
 
 
 
-| Task | Table Component |
-| :--- | :--- |
-| Autocheck | [Trim](../../recipe/table-receipe/task-table-templates/trim.md) |
-| Verbal Insurance Policy Check | [Disbursement](../../recipe/table-receipe/task-table-templates/disbursement.md) |
+|  |
+| :--- |
+|  |
+|  |
 
