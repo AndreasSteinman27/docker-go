@@ -1,6 +1,6 @@
 # Inline Menu
 
-![](../../.gitbook/assets/inline-menu.png)
+![](../../.gitbook/assets/inline-menu%20%281%29.png)
 
 {% tabs %}
 {% tab title="Usage" %}
