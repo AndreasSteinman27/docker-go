@@ -1,6 +1,6 @@
 # LBO Final Statement
 
-![](../../../.gitbook/assets/final-statement-of-advance-onload.png)
+![](../../../.gitbook/assets/lbo-final-onload.png)
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -51,19 +51,19 @@ In order to save the form, you must complete the following fields. The others ar
 
 In this state, values are submitted and calculated. For instance, taxes are generated and sent to the Right Sidebar.
 
-![](../../../.gitbook/assets/final-statement-of-advance-onload%20%281%29.png)
+![](../../../.gitbook/assets/lbo-final-onload%20%281%29.png)
 
 ### Saved-State
 
 This state can only be edited by pressing the Edit button.
 
-![](../../../.gitbook/assets/final-statement-saved.png)
+![](../../../.gitbook/assets/final-staement-saved.png)
 
 ### Edit
 
 This state allows for MSA's to edit their information and resubmit it. Discard will keep values from the previous save.
 
-![](../../../.gitbook/assets/final-statment-of-advance-edit.png)
+![](../../../.gitbook/assets/lbo-final-edit.png)
 {% endtab %}
 
 {% tab title="Actions" %}
@@ -76,7 +76,7 @@ When pressed:
 * Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../../ingredients/task-tables/object-table.md)\) named "Final Advance Statement". 
 * Sets the Asset status to final-advance-review.
 
-![](../../../.gitbook/assets/generate-final.png)
+![](../../../.gitbook/assets/final-statement-generate-final.png)
 
 ### Edit Button
 
