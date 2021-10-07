@@ -1,6 +1,6 @@
 # Phone Number
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4469" %}
+![](../../.gitbook/assets/phone-number.png)
 
 {% tabs %}
 {% tab title="Usage" %}

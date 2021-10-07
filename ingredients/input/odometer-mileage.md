@@ -1,10 +1,6 @@
----
-description: Variant
----
-
 # Odometer Reading
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1216%3A34043" caption="Odometer Reading" %}
+![](../../.gitbook/assets/odometer-reading%20%281%29.png)
 
 {% tabs %}
 {% tab title="Usage" %}

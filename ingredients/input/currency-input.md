@@ -1,10 +1,6 @@
----
-description: Variant
----
-
 # Currency
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4522" %}
+![](../../.gitbook/assets/currency.png)
 
 {% tabs %}
 {% tab title="Usage" %}

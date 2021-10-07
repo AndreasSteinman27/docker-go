@@ -26,7 +26,6 @@
 * [Headers](ingredients/headers/README.md)
   * [Global Header](ingredients/headers/global-header.md)
 * [Input](ingredients/input/README.md)
-  * [Upload](ingredients/input/upload.md)
   * [Password](ingredients/input/password.md)
   * [Social Security](ingredients/input/social-security.md)
   * [Odometer Reading](ingredients/input/odometer-mileage.md)
@@ -40,6 +39,7 @@
   * [Task Table](ingredients/task-tables/task-table.md)
   * [Object Table](ingredients/task-tables/object-table.md)
   * [2-Column Table](ingredients/task-tables/contact-table.md)
+* [Upload](ingredients/upload.md)
 
 ## Recipe
 

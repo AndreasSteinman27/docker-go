@@ -1,6 +1,6 @@
 # Social Security
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1%3A2" %}
+![](../../.gitbook/assets/full-ssn.png)
 
 **Intended use**  
 To capture a user's Social Security Number in a secure and consistent manner

@@ -1,10 +1,6 @@
----
-description: Axle inputs. Base component.
----
-
 # Input
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1%3A3" caption="Axle Inputs" %}
+![](../../.gitbook/assets/text-field%20%281%29.png)
 
 {% tabs %}
 {% tab title="Usage" %}

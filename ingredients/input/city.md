@@ -1,6 +1,6 @@
 # City
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=392%3A23103" %}
+![](../../.gitbook/assets/city.png)
 
 {% tabs %}
 {% tab title="Usage" %}
