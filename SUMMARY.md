@@ -36,7 +36,6 @@
   * [City](ingredients/input/city.md)
 * [Menu](ingredients/top-navigation-menu/README.md)
   * [Inline Menu](ingredients/top-navigation-menu/left-nav-bar.md)
-  * [Lease Buyout - Transaction](ingredients/top-navigation-menu/top-navigation.md)
 * [Table](ingredients/task-tables/README.md)
   * [Task Table](ingredients/task-tables/task-table.md)
   * [Object Table](ingredients/task-tables/object-table.md)
@@ -67,7 +66,8 @@
     * [Trim Table](recipe/table-receipe/task-table-templates/trim.md)
   * [Object Table Templates](recipe/table-receipe/object-table-templates/README.md)
     * [Document Table](recipe/table-receipe/object-table-templates/archive.md)
-* [Menu Templates](recipe/menu-templates.md)
+* [Menu Templates](recipe/menu-templates/README.md)
+  * [Lease Buyout - Transaction](recipe/menu-templates/top-navigation.md)
 
 ## Meals
 

@@ -1,6 +1,6 @@
 # Global Header
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=413%3A23312" %}
+![Global Header with Search Bar](../../.gitbook/assets/global-header.png)
 
 {% tabs %}
 {% tab title="Usage" %}
