@@ -10,7 +10,7 @@ This form is used to manage uploaded documents for Autocheck and Monroney Labels
 
 ### Primary Component
 
-{% page-ref page="../../../components/task-tables/task-table.md" %}
+{% page-ref page="task-table.md" %}
 {% endtab %}
 
 {% tab title="Requirements" %}
