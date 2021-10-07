@@ -1,10 +1,6 @@
----
-description: Variant of Task Table
----
-
 # Retail Lease Documents Table
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=640%3A25536" %}
+![](../../../.gitbook/assets/retail-lease-documents-onload.png)
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -37,20 +33,20 @@ See [Task Table](../../../ingredients/task-tables/task-table.md).
 ### See [Task Table](../../../ingredients/task-tables/task-table.md)
 {% endtab %}
 
-{% tab title="Designs" %}
+{% tab title="States" %}
 ### States
 
 ### On-Loading
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2138%3A16231" %}
+![](../../../.gitbook/assets/retail-lease-documents-onload%20%281%29.png)
 
 ### Status Changing
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=640%3A25536" %}
+![](../../../.gitbook/assets/retail-lease-documents-status-changes.png)
 
 ### Complete 
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2138%3A16123" %}
+![](../../../.gitbook/assets/retail-lease-documents-complete.png)
 {% endtab %}
 
 {% tab title="Code" %}
