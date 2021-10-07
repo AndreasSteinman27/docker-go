@@ -66,7 +66,7 @@
     * [Direct Lease Documents](templates/table-templates/task-table-templates/direct-lease-documents.md)
     * [Disbursement Table](templates/table-templates/task-table-templates/disbursement.md)
     * [Retail Lease Documents Table](templates/table-templates/task-table-templates/retail-lease-documents.md)
-    * [Trim](templates/table-templates/task-table-templates/trim.md)
+    * [Trim Table](templates/table-templates/task-table-templates/trim.md)
   * [Object Table Templates](templates/table-templates/object-table-templates/README.md)
     * [Document Table](templates/table-templates/object-table-templates/archive.md)
 * [Menu Templates](templates/menu-templates.md)

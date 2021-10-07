@@ -1,4 +1,8 @@
-# Trim
+---
+description: Variant of Task Table
+---
+
+# Trim Table
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=851%3A25917" %}
 

@@ -1,5 +1,5 @@
 ---
-description: Variant
+description: Variant of Task Table
 ---
 
 # Direct Lease Documents
