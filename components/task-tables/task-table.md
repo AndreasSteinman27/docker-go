@@ -22,9 +22,21 @@ The task table provides a central view for related MSA tasks.
 {% tab title="Interaction" %}
 ### Interaction
 
-* View/Edit brings up the [Upload/Verify Drawer](../../templates/drawer-templates/upload-verify-drawer.md).
-* Start brings up [Verification Drawer](../drawer/verification.md)
-  * Once task is complete the button link turns to Edit
+### Upload/Edit Button
+
+* This button should always be present.
+* For tasks with files, the button should bring up the View/Upload Drawer, for tasks without files \(verification only\), the button should bring up the Verification Drawer.
+  * Certain tasks, such as odometer and Monroney, have exceptions, refer to the template for these.
+* If the task does have an associated file, and the file is not present, the button should say Upload.
+  * Non-file tasks should start at Verify.
+* If the task's verification has not been set, the button should say Verify.
+* If the task has been marked as Verified, the button should say Edit.
+
+### View Button
+
+* The View button should appear for tasks that are associated with a file, that also have a file uploaded
+* The button should link to the file in question.
+* If no file is present for a task, the button should not appear.
 {% endtab %}
 {% endtabs %}
 

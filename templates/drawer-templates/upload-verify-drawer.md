@@ -8,6 +8,8 @@ This component is used by MSAs to upload documents and verify existing documents
 
 ### Components with Interactions:
 
+{% page-ref page="../../components/task-tables/task-table.md" %}
+
 
 
 ### Tasks that use this Drawer Component <a id="tasks-that-use-this-drawer-component"></a>

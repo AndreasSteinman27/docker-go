@@ -44,6 +44,7 @@
   * [Inline Menu](components/top-navigation-menu/left-nav-bar.md)
   * [Lease Buyout - Transaction](components/top-navigation-menu/top-navigation.md)
 * [Table](components/task-tables/README.md)
+  * [Task Table](components/task-tables/task-table.md)
   * [Object Table](components/task-tables/object-table.md)
   * [2-Column Table](components/task-tables/contact-table.md)
 
