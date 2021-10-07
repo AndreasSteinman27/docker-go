@@ -14,7 +14,7 @@ This form is used to manage uploaded documents for Autocheck and Monroney Labels
 
 ### Primary Component
 
-{% page-ref page="../../../receips/task-tables/task-table.md" %}
+{% page-ref page="../../../ingredients/task-tables/task-table.md" %}
 {% endtab %}
 
 {% tab title="Functional Requirements" %}
@@ -34,18 +34,18 @@ Fields marked as Required must be completed and validated to submit the form att
 * The Verify link opens the [Monroney Label Drawer](../../drawer/drawer-trim.md). Once the trim has been verified, the status should change from Incomplete to Complete
   * It is impossible to "fail" a Monroney
 
-See [Task Table](../../../receips/task-tables/task-table.md) for additional interactions.
+See [Task Table](../../../ingredients/task-tables/task-table.md) for additional interactions.
 
 ### Related Components
 
 | Component |
 | :--- |
-| [Autocheck Side Drawer](../../../receips/drawer/verification.md) |
+| [Autocheck Side Drawer](../../../ingredients/drawer/verification.md) |
 | [Maroney Label Drawer](../../drawer/drawer-trim.md) |
 {% endtab %}
 
 {% tab title="Validation/Error Handling" %}
-See [Task Table](../../../receips/task-tables/task-table.md)
+See [Task Table](../../../ingredients/task-tables/task-table.md)
 {% endtab %}
 
 {% tab title="Designs" %}

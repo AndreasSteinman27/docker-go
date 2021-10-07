@@ -45,8 +45,8 @@ In order to save the form, you must complete the following fields. The others ar
 
 | Name | Type | Required | Backend |
 | :--- | :--- | :--- | :---: |
-| Lease Buyout Amount | [Currency](../../../receips/input/currency-input.md) | **Yes** | \*\*\*\* |
-| All Tax Fields  | [Currency](../../../receips/input/currency-input.md) |  |  |
+| Lease Buyout Amount | [Currency](../../../ingredients/input/currency-input.md) | **Yes** | \*\*\*\* |
+| All Tax Fields  | [Currency](../../../ingredients/input/currency-input.md) |  |  |
 | Other Fee's | Generic |  |  |
 {% endtab %}
 
@@ -79,7 +79,7 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 
 When pressed:
 
-* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../../receips/task-tables/object-table.md)\) named "Final Advance Statement". 
+* Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../../ingredients/task-tables/object-table.md)\) named "Final Advance Statement". 
 * Sets the Asset status to final-advance-review.
 
 ### Edit Button

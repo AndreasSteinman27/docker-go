@@ -12,7 +12,7 @@ Components included:
 
 {% page-ref page="upload-verify-drawer.md" %}
 
-{% page-ref page="../../receips/input/odometer-mileage.md" %}
+{% page-ref page="../../ingredients/input/odometer-mileage.md" %}
 {% endtab %}
 
 {% tab title="Functional Requirements" %}

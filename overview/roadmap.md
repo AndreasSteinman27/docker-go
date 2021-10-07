@@ -8,41 +8,41 @@ Below is the roadmap for functional requirements and designs for Axle components
 
 | Component | Type | Requirements | Design | Code | QA |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| [Input](../receips/input/) | Base | **Done** | **Done** | **Done** | **-** |
-| [Zipcode ](../receips/input/zipcode.md) | Base  | **Done** | **Done** | **Done** |  |
-| [City ](../receips/input/city.md) | Base  | **Done** | **Done** |  |  |
-| [Dropdown](../receips/dropdown/) | Base  | **Done** | **Done** | \*\*\*\* | **-** |
-| [Dropdown w Label](../receips/dropdown/dropdown-with-label.md) | Variant | **Done** | **Done** | **Done** |  |
-| [Primary Button](../receips/button/primary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |  |
-| [Secondary Button](../receips/button/secondary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |  |
-| [Link Button](../receips/button/link-button.md) | Base  | **Done** | **Done** |  |  |
-| [Odometer](../receips/input/odometer-mileage.md) | Base  | **Done** | **Done** |  |  |
+| [Input](../ingredients/input/) | Base | **Done** | **Done** | **Done** | **-** |
+| [Zipcode ](../ingredients/input/zipcode.md) | Base  | **Done** | **Done** | **Done** |  |
+| [City ](../ingredients/input/city.md) | Base  | **Done** | **Done** |  |  |
+| [Dropdown](../ingredients/dropdown/) | Base  | **Done** | **Done** | \*\*\*\* | **-** |
+| [Dropdown w Label](../ingredients/dropdown/dropdown-with-label.md) | Variant | **Done** | **Done** | **Done** |  |
+| [Primary Button](../ingredients/button/primary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |  |
+| [Secondary Button](../ingredients/button/secondary-button.md) | Base  | **Done** | **Done** | \*\*\*\* |  |
+| [Link Button](../ingredients/button/link-button.md) | Base  | **Done** | **Done** |  |  |
+| [Odometer](../ingredients/input/odometer-mileage.md) | Base  | **Done** | **Done** |  |  |
 
 ### Release 2 - Lease Buyout Forms & Tables
 
 | Component | Type | Requirements | Design | Code | QA |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| [Form](../receips/form/) | Base  | **Done** | **Done** | **Done** |  |
-| [Form Header](../receips/headers/header/) | Base  | **Done** | **Done** | **Done** |  |
-| [Statement Input Form](../receips/form/preliminary-and-final-statements.md) | Base | **Done** | **Done** | **-** |  |
-| [Preliminary Statement](../recipe/form-receipe/statement-input-form-templates/lbo-preliminary-statement.md) | [Statement Input Form](../receips/form/preliminary-and-final-statements.md) | **Done** | **Done** | **Done** |  |
-| [Final Statement](../recipe/form-receipe/statement-input-form-templates/lbo-final-statement.md) | [Statement Input Form](../receips/form/preliminary-and-final-statements.md) | **Done** | **Done** | **Done** |  |
-| [Table](../receips/task-tables/) | Base | **Done** | **Done** | **Not Needed** |  |
-| [Task Table](../receips/task-tables/task-table.md) | Base | **Done** | **Done** |  |  |
-| [Object Table](../receips/task-tables/object-table.md) | Base | **Done** | **Done** |  |  |
-| [2-Column Table](../receips/task-tables/contact-table.md) | Base | **Done** | **Done** |  |  |
-| [Trim Table](../recipe/table-receipe/task-table-templates/trim.md) | [Task Table](../receips/task-tables/task-table.md) | **Done** | **Done** | **Done** |  |
-| [Direct Lease Documents](../recipe/table-receipe/task-table-templates/direct-lease-documents.md) | [Task Table](../receips/task-tables/task-table.md) | **Done** | **Done** | **Done** |  |
-| [Retail Lease Documents](../recipe/table-receipe/task-table-templates/retail-lease-documents.md) | [Task Table](../receips/task-tables/task-table.md) | **Done** | **Done** | **Done** |  |
-| [Disbursement](../recipe/table-receipe/task-table-templates/disbursement.md) | [Task Table](../receips/task-tables/task-table.md) | **Done** | **Done** | **Done** |  |
-| [Document Archive](../recipe/table-receipe/object-table-templates/archive.md) | [Object Table](../receips/task-tables/object-table.md) | **Done** | **Done** | **Done** |  |
-| [Retail Lease Contact Info](../recipe/table-receipe/2-column-table-templates/retail-lease-contact-info.md) | [2-column Table](../receips/task-tables/contact-table.md) | **Done** | **Done** | **Done** |  |
+| [Form](../ingredients/form/) | Base  | **Done** | **Done** | **Done** |  |
+| [Form Header](../ingredients/headers/header/) | Base  | **Done** | **Done** | **Done** |  |
+| [Statement Input Form](../ingredients/form/preliminary-and-final-statements.md) | Base | **Done** | **Done** | **-** |  |
+| [Preliminary Statement](../recipe/form-receipe/statement-input-form-templates/lbo-preliminary-statement.md) | [Statement Input Form](../ingredients/form/preliminary-and-final-statements.md) | **Done** | **Done** | **Done** |  |
+| [Final Statement](../recipe/form-receipe/statement-input-form-templates/lbo-final-statement.md) | [Statement Input Form](../ingredients/form/preliminary-and-final-statements.md) | **Done** | **Done** | **Done** |  |
+| [Table](../ingredients/task-tables/) | Base | **Done** | **Done** | **Not Needed** |  |
+| [Task Table](../ingredients/task-tables/task-table.md) | Base | **Done** | **Done** |  |  |
+| [Object Table](../ingredients/task-tables/object-table.md) | Base | **Done** | **Done** |  |  |
+| [2-Column Table](../ingredients/task-tables/contact-table.md) | Base | **Done** | **Done** |  |  |
+| [Trim Table](../recipe/table-receipe/task-table-templates/trim.md) | [Task Table](../ingredients/task-tables/task-table.md) | **Done** | **Done** | **Done** |  |
+| [Direct Lease Documents](../recipe/table-receipe/task-table-templates/direct-lease-documents.md) | [Task Table](../ingredients/task-tables/task-table.md) | **Done** | **Done** | **Done** |  |
+| [Retail Lease Documents](../recipe/table-receipe/task-table-templates/retail-lease-documents.md) | [Task Table](../ingredients/task-tables/task-table.md) | **Done** | **Done** | **Done** |  |
+| [Disbursement](../recipe/table-receipe/task-table-templates/disbursement.md) | [Task Table](../ingredients/task-tables/task-table.md) | **Done** | **Done** | **Done** |  |
+| [Document Archive](../recipe/table-receipe/object-table-templates/archive.md) | [Object Table](../ingredients/task-tables/object-table.md) | **Done** | **Done** | **Done** |  |
+| [Retail Lease Contact Info](../recipe/table-receipe/2-column-table-templates/retail-lease-contact-info.md) | [2-column Table](../ingredients/task-tables/contact-table.md) | **Done** | **Done** | **Done** |  |
 
 ### Release 3 - Drawers, Loading, Member Components
 
 | Component | Type | Requirements | Design | Code |
 | :--- | :---: | :---: | :---: | :---: |
-| [Upload Drawer](../receips/drawer/upload.md) |  |  |  |  |
+| [Upload Drawer](../ingredients/drawer/upload.md) |  |  |  |  |
 | Autocheck Drawer |  |  |  |  |
 | [Maroney Label Drawer](../recipe/drawer/drawer-trim.md) |  |  |  |  |
 | Odometer Image Drawer |  |  |  |  |

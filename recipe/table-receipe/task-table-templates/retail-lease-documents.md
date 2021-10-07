@@ -14,7 +14,7 @@ The Retail Lease Documents table tracks the documents and verification for a Dir
 
 ### Base Component
 
-{% page-ref page="../../../receips/task-tables/task-table.md" %}
+{% page-ref page="../../../ingredients/task-tables/task-table.md" %}
 {% endtab %}
 
 {% tab title="Functional Requirements" %}
@@ -30,11 +30,11 @@ Fields marked as Required must be completed and validated to submit the form att
 
 ### Interactions
 
-See [Task Table](../../../receips/task-tables/task-table.md).
+See [Task Table](../../../ingredients/task-tables/task-table.md).
 {% endtab %}
 
 {% tab title="Validation/Error Handling" %}
-### See [Task Table](../../../receips/task-tables/task-table.md)
+### See [Task Table](../../../ingredients/task-tables/task-table.md)
 {% endtab %}
 
 {% tab title="Designs" %}

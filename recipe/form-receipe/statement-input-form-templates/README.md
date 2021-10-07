@@ -2,7 +2,7 @@
 
 These templates use the Statement Input Form as a base component:
 
-{% page-ref page="../../../receips/form/preliminary-and-final-statements.md" %}
+{% page-ref page="../../../ingredients/form/preliminary-and-final-statements.md" %}
 
 
 

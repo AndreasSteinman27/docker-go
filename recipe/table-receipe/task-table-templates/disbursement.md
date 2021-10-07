@@ -14,7 +14,7 @@ Disbursement is the final section for the lease-buyout flow and signfies to OPS 
 
 ### Base Component
 
-{% page-ref page="../../../receips/task-tables/task-table.md" %}
+{% page-ref page="../../../ingredients/task-tables/task-table.md" %}
 {% endtab %}
 
 {% tab title="Requirements" %}
@@ -35,11 +35,11 @@ Disbursement is the final section for the lease-buyout flow and signfies to OPS 
 * The Finish Transaction button marks the Asset record status as Ready To Fund.
   * An email is sent to Operations indicating that the vehicle is ready to fund.
   * Another email is sent to the member with an update on their loan status.
-* All other Interactions are inherited from the [Task Table component](../../../receips/task-tables/task-table.md).
+* All other Interactions are inherited from the [Task Table component](../../../ingredients/task-tables/task-table.md).
 {% endtab %}
 
 {% tab title="Validation/Error Handling" %}
-See [Task Table](../../../receips/task-tables/task-table.md)
+See [Task Table](../../../ingredients/task-tables/task-table.md)
 {% endtab %}
 
 {% tab title="Designs" %}
