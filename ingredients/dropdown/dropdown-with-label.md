@@ -1,7 +1,3 @@
----
-description: Variant
----
-
 # Dropdown with Label
 
 ![](../../.gitbook/assets/dropdown-with-label%20%281%29.png)
