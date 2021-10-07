@@ -76,6 +76,8 @@ When pressed:
 * Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../../ingredients/task-tables/object-table.md)\) named "Final Advance Statement". 
 * Sets the Asset status to final-advance-review.
 
+![](../../../.gitbook/assets/generate-final.png)
+
 ### Edit Button
 
 * Appears in the Saved state, which is when information was previously entered, but fields were grayed out.

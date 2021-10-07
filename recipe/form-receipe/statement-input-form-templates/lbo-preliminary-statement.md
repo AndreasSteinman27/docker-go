@@ -69,14 +69,14 @@ This state allows for MSA's to edit their information and resubmit it. Discard w
 {% tab title="Actions" %}
 ### Actions
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1306%3A26568" %}
-
 ### Generate Preliminary Statement Button
 
 When pressed:
 
 * Creates a PDF report. This PDF is able to be downloaded on the member's side and will be an object in the documents section \([Object Table](../../../ingredients/task-tables/object-table.md)\) named "Preliminary Advance Statement". 
 * Sets the Asset status to prelim-advance-review.
+
+![](../../../.gitbook/assets/generate-prelim%20%281%29.png)
 
 ### Edit Button
 
