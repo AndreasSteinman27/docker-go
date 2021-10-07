@@ -27,10 +27,10 @@ Fields marked as Required must be completed and validated to submit the form att
 | Name | Drawer Type | Required |
 | :--- | :--- | :--- |
 | Odometer Image | Odometer | **Yes** |
-| Driver's License - Front | View/Upload | **Yes** |
-| Driver's License - Back | View/Upload | **Yes** |
-| Proof of Insurance | View/Upload | **Yes** |
-| Notarized Power of Attorney | View/Upload | **NO** - but a red asterisk should still appear.  |
+| Driver's License - Front | Upload/Verify | **Yes** |
+| Driver's License - Back | Upload/Verify | **Yes** |
+| Proof of Insurance | Upload/Verify | **Yes** |
+| Notarized Power of Attorney | Upload/Verify | **NO** - but a red asterisk should still appear.  |
 
 ### Interactions
 
