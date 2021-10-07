@@ -4,7 +4,7 @@ description: Variant
 
 # LBO Preliminary Statement
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=308%3A6033" %}
+![](../../../.gitbook/assets/prelimanary-statement.png)
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -51,19 +51,19 @@ Fields marked as Required must be completed and validated to submit this form. A
 
 In this state, values are submitted and calculated. For instance, taxes are generated and sent to the Right Sidebar
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A4766" %}
+![](../../../.gitbook/assets/preliminary-statement-on-load.png)
 
 ### Saved-State
 
 This state can only be edited by pressing the Edit button.
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A10825" caption="" %}
+![](../../../.gitbook/assets/lbo-preliminary-save.png)
 
 ### Edit
 
 This state allows for MSA's to edit their information and resubmit it. Discard will keep values from the previous save.
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A11583" %}
+![](../../../.gitbook/assets/preliminary-statement-edit.png)
 {% endtab %}
 
 {% tab title="Actions" %}
