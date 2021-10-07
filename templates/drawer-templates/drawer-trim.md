@@ -14,8 +14,6 @@ This drawer is used to verify trims and packages for a vehicle, and triggers the
 
 Components with Interactions: 
 
-{% page-ref page="../table-templates/task-table-templates/task-table.md" %}
-
 Tasks that use this Drawer Component:
 
 | Name | Task Table |

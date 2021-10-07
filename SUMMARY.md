@@ -63,7 +63,6 @@
     * [Personal Information](templates/table-templates/2-column-table-templates/personal-information.md)
     * [Transaction](templates/table-templates/2-column-table-templates/transaction.md)
   * [Task Table Templates](templates/table-templates/task-table-templates/README.md)
-    * [Task Table](templates/table-templates/task-table-templates/task-table.md)
     * [Disbursement](templates/table-templates/task-table-templates/disbursement.md)
     * [Retail Lease Documents](templates/table-templates/task-table-templates/retail-lease-documents.md)
     * [Direct Lease Documents](templates/table-templates/task-table-templates/direct-lease-documents.md)
