@@ -75,7 +75,7 @@
 ## Pages
 
 * [Transaction](pages/transaction.md)
-* [Members](pages/members.md)
+* [Borrowers](pages/borrowers.md)
 
 ## Snowflakes
 
