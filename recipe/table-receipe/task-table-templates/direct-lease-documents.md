@@ -1,12 +1,6 @@
----
-description: Variant of Task Table
----
-
 # Direct Lease Documents
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A23893" %}
-
-
+![](../../../.gitbook/assets/direct-lease-documents-onload%20%281%29.png)
 
 {% tabs %}
 {% tab title="Overview" %}
@@ -44,21 +38,23 @@ See [Task Table](../../../ingredients/task-tables/task-table.md).
 {% tab title="Designs" %}
 ### On-Loading
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A23893" %}
+![](../../../.gitbook/assets/direct-lease-documents-onload%20%282%29.png)
 
 ### Status Change when tasks are complete
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1971%3A15710" %}
+![](../../../.gitbook/assets/direct-lease-documents-status-change.png)
 
 ### Complete
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=876%3A26057" %}
+![](../../../.gitbook/assets/direct-lease-documents-complete%20%281%29.png)
 {% endtab %}
 
 {% tab title="Code" %}
 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 

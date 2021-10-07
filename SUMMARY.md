@@ -55,7 +55,7 @@
   * [Statement Input Form Recipe](recipe/form-receipe/statement-input-form-templates/README.md)
     * [LBO Preliminary Statement](recipe/form-receipe/statement-input-form-templates/lbo-preliminary-statement.md)
     * [LBO Final Statement](recipe/form-receipe/statement-input-form-templates/lbo-final-statement.md)
-* [Table Receipe](recipe/table-receipe/README.md)
+* [Table Recipe](recipe/table-receipe/README.md)
   * [2-Column Table Recipe](recipe/table-receipe/2-column-table-templates/README.md)
     * [LBO Retailer Contact Information](recipe/table-receipe/2-column-table-templates/retail-lease-contact-info.md)
   * [Task Table Recipe](recipe/table-receipe/task-table-templates/README.md)

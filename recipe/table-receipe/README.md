@@ -1,7 +1,10 @@
-# Table Receipe
+# Table Recipe
 
-| Recipes | Final Product |
-| :--- | :--- |
-| 2-column Table Recipe | LBO Retailer Contact Information |
-|  | Personal Information |
+{% page-ref page="2-column-table-templates/" %}
+
+{% page-ref page="../../ingredients/task-tables/task-table.md" %}
+
+{% page-ref page="../../ingredients/task-tables/object-table.md" %}
+
+
 
