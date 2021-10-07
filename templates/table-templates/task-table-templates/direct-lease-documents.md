@@ -9,36 +9,35 @@ description: Variant of Task Table
 
 
 {% tabs %}
-{% tab title="Usage" %}
+{% tab title="Overview" %}
 ### Usage
 
 The Direct Lease Documents table tracks the documents and verification for a Direct lease buyout transaction.
 {% endtab %}
 
-{% tab title="Requirements" %}
+{% tab title="Functional Requirements" %}
 #### Fields
 
 Fields marked as Required must be completed and validated to submit the form attached to this table.
 
-| Name | Required |
-| :--- | :--- |
-| Odometer Image | **Yes** |
-| Driver's License - Front | **Yes** |
-| Driver's License - Back | **Yes** |
-| Proof of Insurance | **Yes** |
-| Notarized Power of Attorney | **NO** - but a red asterisk should still appear.  |
+| Name | Drawer Type | Required |
+| :--- | :--- | :--- |
+| Odometer Image | Odometer | **Yes** |
+| Driver's License - Front | View/Upload | **Yes** |
+| Driver's License - Back | View/Upload | **Yes** |
+| Proof of Insurance | View/Upload | **Yes** |
+| Notarized Power of Attorney | View/Upload | **NO** - but a red asterisk should still appear.  |
+
+### Interactions
+
+See [Task Table](../../../components/task-tables/task-table.md).
 {% endtab %}
 
-{% tab title="Interaction" %}
-### Interaction
-
-* When the View/Edit button is clicked it brings up the [Upload/Verify Drawer](../../drawer-templates/upload-verify-drawer.md).
-
-  * When a file is uploaded sucessfully the Uploaded status and Icon appears \(see States\).
-  * When a document is verified, the badge is marked as complete.
+{% tab title="Validation/Error Handling" %}
+### See [Task Table](../../../components/task-tables/task-table.md)
 {% endtab %}
 
-{% tab title="States" %}
+{% tab title="Designs" %}
 ### On-Loading
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A23893" %}
