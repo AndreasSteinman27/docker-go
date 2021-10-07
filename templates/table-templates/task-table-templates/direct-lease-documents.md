@@ -13,6 +13,10 @@ description: Variant of Task Table
 ### Usage
 
 The Direct Lease Documents table tracks the documents and verification for a Direct lease buyout transaction.
+
+### Base Component
+
+{% page-ref page="../../../components/task-tables/task-table.md" %}
 {% endtab %}
 
 {% tab title="Functional Requirements" %}
