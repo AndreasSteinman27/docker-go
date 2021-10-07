@@ -16,8 +16,8 @@ description: Variant
 
 | Name | Variant Type |
 | :--- | :--- |
-| [Preliminary Statement](../../meals-1/form-templates/statement-input-form-templates/lbo-preliminary-statement.md) | Statement Input Form |
-| [Final Statement](../../meals-1/form-templates/statement-input-form-templates/final-statement.md) | Statement Input Form |
+| [Preliminary Statement](../../meals-1/form-receipe/statement-input-form-templates/lbo-preliminary-statement.md) | Statement Input Form |
+| [Final Statement](../../meals-1/form-receipe/statement-input-form-templates/final-statement.md) | Statement Input Form |
 
 
 
