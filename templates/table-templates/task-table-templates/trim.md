@@ -17,15 +17,24 @@ This form is used to manage uploaded documents for Autocheck and Monroney Labels
 {% page-ref page="../../../components/task-tables/task-table.md" %}
 {% endtab %}
 
-{% tab title="Requirements" %}
+{% tab title="Functional Requirements" %}
 #### Fields
 
 Fields marked as Required must be completed and validated to submit the form attached to this table.
 
-| Name | Image Required | Verification Required |
+| Name | Drawer Type |  Required |
 | :--- | :--- | :--- |
-| Autocheck | **Yes** | Yes |
-| Monroney Label | **Yes** | Yes |
+| Autocheck | Upload/Verify | Yes |
+| Monroney Label | Monroney Label | Yes |
+
+### Interactions
+
+### Monroney Label
+
+* The Verify link opens the [Monroney Label Drawer](../../drawer-templates/drawer-trim.md). Once the trim has been verified, the status should change from Incomplete to Complete
+  * It is impossible to "fail" a Monroney
+
+See [Task Table](../../../components/task-tables/task-table.md) for additional interactions.
 
 ### Related Components
 
@@ -35,18 +44,11 @@ Fields marked as Required must be completed and validated to submit the form att
 | [Maroney Label Drawer](../../drawer-templates/drawer-trim.md) |
 {% endtab %}
 
-{% tab title="Actions" %}
-### Autocheck
-
-* The View/Edit link opens the [Upload/Verify Drawer](../../drawer-templates/upload-verify-drawer.md). If upload is marked as verified, the Autocheck status should be updated to Complete. If upload is marked as failed, the Autocheck status should be updated to Failed.
-
-### Monroney Label
-
-* The Verify link opens the [Monroney Label Drawer](../../drawer-templates/drawer-trim.md). Once the trim has been verified, the status should change from Incomplete to Complete
-  * It is impossible to "fail" a Monroney Label.
+{% tab title="Validation/Error Handling" %}
+See [Task Table](../../../components/task-tables/task-table.md)
 {% endtab %}
 
-{% tab title="States" %}
+{% tab title="Designs" %}
 ### **States**
 
 ### **On Load**
@@ -60,10 +62,6 @@ Fields marked as Required must be completed and validated to submit the form att
 ### Complete Status
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=876%3A25901" %}
-{% endtab %}
-
-{% tab title="Error Handling" %}
-
 {% endtab %}
 
 {% tab title="Code" %}
