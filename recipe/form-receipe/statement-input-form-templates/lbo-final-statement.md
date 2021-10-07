@@ -63,7 +63,7 @@ This state can only be edited by pressing the Edit button.
 
 This state allows for MSA's to edit their information and resubmit it. Discard will keep values from the previous save.
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1418%3A27148" %}
+![](../../../.gitbook/assets/final-statment-of-advance-edit.png)
 {% endtab %}
 
 {% tab title="Actions" %}
