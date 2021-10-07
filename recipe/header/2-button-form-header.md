@@ -1,10 +1,10 @@
-# Save/Edit Form Header
+# Save/Edit Form Header Recipe
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=971%3A26144" %}
+![](../../.gitbook/assets/discard%20%282%29.png)
 
 {% tabs %}
 {% tab title="Usage" %}
-
+The save/edit form has different states to allow for the rest of the form to save and edit for a submission.
 {% endtab %}
 
 {% tab title="Parent Object" %}
@@ -14,7 +14,7 @@
 {% endtab %}
 
 {% tab title="Requirements" %}
-
+* has 3 states in which the Title and buttons change based on user input
 {% endtab %}
 
 {% tab title="States" %}
@@ -22,17 +22,17 @@
 
 ### On-Load
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=971%3A26144" %}
+![](../../.gitbook/assets/edit-on-load.png)
 
 
 
 ### Edit 
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1081%3A26263" %}
+![](../../.gitbook/assets/edit-form-edit.png)
 
 ### Save/Discard
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1081%3A26365" %}
+![](../../.gitbook/assets/discard%20%282%29.png)
 {% endtab %}
 
 {% tab title="Code" %}
