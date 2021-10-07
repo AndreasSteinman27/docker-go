@@ -4,7 +4,7 @@ description: The secondary action button on the page and also called  "Ghost" Bu
 
 # Secondary Button
 
-![](../../.gitbook/assets/secondary-button.png)
+![](../../.gitbook/assets/secondary-button%20%281%29.png)
 
 {% tabs %}
 {% tab title="Usage" %}

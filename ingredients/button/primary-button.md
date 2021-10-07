@@ -6,7 +6,7 @@ description: The primary action button on the page.
 
 #### Primary Button
 
-![](../../.gitbook/assets/primary-buttons.png)
+![](../../.gitbook/assets/primary-button.png)
 
 {% tabs %}
 {% tab title="Usage" %}

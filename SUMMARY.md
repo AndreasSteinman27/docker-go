@@ -17,7 +17,6 @@
   * [Primary Button](ingredients/button/primary-button.md)
   * [Secondary Button](ingredients/button/secondary-button.md)
   * [Link Button](ingredients/button/link-button.md)
-  * [Radio Button](ingredients/button/radio-button.md)
   * [Text Button](ingredients/button/text-button.md)
 * [Dropdown](ingredients/dropdown/README.md)
   * [Dropdown with Label](ingredients/dropdown/dropdown-with-label.md)

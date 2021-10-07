@@ -1,6 +1,6 @@
 # Text Button
 
-![](../../.gitbook/assets/text-button.png)
+![](../../.gitbook/assets/text-button%20%281%29.png)
 
 {% tabs %}
 {% tab title="Parent Object" %}
