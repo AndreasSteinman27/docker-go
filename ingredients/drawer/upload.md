@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="Usage" %}
-
+The upload drawer is used to simply upload documents. There are different states as the object is being loaded to Axle.
 {% endtab %}
 
 {% tab title="Parent Object" %}
