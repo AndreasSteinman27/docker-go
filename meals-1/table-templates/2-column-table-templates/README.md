@@ -1,4 +1,4 @@
-# 2-Column Table Templates
+# 2-Column Table Recipe
 
 These Templates use the 2-Column Table Base Component:
 

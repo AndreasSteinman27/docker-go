@@ -1,6 +1,6 @@
-# Retailer Contact Information
+# LBO Retailer Contact Information
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2343%3A18373" caption="On-load" %}
+![](../../../.gitbook/assets/retailer-contact-information%20%281%29.png)
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -14,11 +14,11 @@
 {% tab title="States" %}
 ### On-Load
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2343%3A18373" %}
+![](../../../.gitbook/assets/retailer-contact-information.png)
 
 ### Information Missing
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2343%3A23488" %}
+![](../../../.gitbook/assets/retailer-contact-information-if-information-is-missing.png)
 {% endtab %}
 {% endtabs %}
 

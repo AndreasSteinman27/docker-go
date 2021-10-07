@@ -2,7 +2,7 @@
 description: Variant
 ---
 
-# Preliminary Statement
+# LBO Preliminary Statement
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=308%3A6033" %}
 
