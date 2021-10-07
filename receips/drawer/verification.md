@@ -38,6 +38,6 @@ description: Varication
 
 | Task | Table Component |
 | :--- | :--- |
-| Autocheck | [Trim](../../meals-1/table-templates/task-table-templates/trim.md) |
-| Verbal Insurance Policy Check | [Disbursement](../../meals-1/table-templates/task-table-templates/disbursement.md) |
+| Autocheck | [Trim](../../recipe/table-receipe/task-table-templates/trim.md) |
+| Verbal Insurance Policy Check | [Disbursement](../../recipe/table-receipe/task-table-templates/disbursement.md) |
 

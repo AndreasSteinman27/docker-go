@@ -12,10 +12,10 @@ The Table is used for tasks that require documents to be uploaded and verified.
 
 | Name | Flow |
 | :--- | :--- |
-| [Trim](../../meals-1/table-templates/task-table-templates/trim.md) | Lease-buyout |
-| [Direct Lease Documents](../../meals-1/table-templates/task-table-templates/direct-lease-documents.md) | Lease-buyout |
-| [Retail Lease Documents](../../meals-1/table-templates/task-table-templates/retail-lease-documents.md) | Lease-buyout |
-| [Disbursement](../../meals-1/table-templates/task-table-templates/disbursement.md) | Lease-buyout |
+| [Trim](../../recipe/table-receipe/task-table-templates/trim.md) | Lease-buyout |
+| [Direct Lease Documents](../../recipe/table-receipe/task-table-templates/direct-lease-documents.md) | Lease-buyout |
+| [Retail Lease Documents](../../recipe/table-receipe/task-table-templates/retail-lease-documents.md) | Lease-buyout |
+| [Disbursement](../../recipe/table-receipe/task-table-templates/disbursement.md) | Lease-buyout |
 {% endtab %}
 
 {% tab title="Functional Requirements" %}
@@ -65,8 +65,8 @@ The Table is used for tasks that require documents to be uploaded and verified.
 
 | Name | Flow |
 | :--- | :--- |
-| [Trim](../../meals-1/table-templates/task-table-templates/trim.md) | Lease-buyout |
-| [Direct Lease Documents](../../meals-1/table-templates/task-table-templates/direct-lease-documents.md) | Lease-buyout |
-| [Retail Lease Documents](../../meals-1/table-templates/task-table-templates/retail-lease-documents.md) | Lease-buyout |
-| [Disbursement](../../meals-1/table-templates/task-table-templates/disbursement.md) | Lease-buyout |
+| [Trim](../../recipe/table-receipe/task-table-templates/trim.md) | Lease-buyout |
+| [Direct Lease Documents](../../recipe/table-receipe/task-table-templates/direct-lease-documents.md) | Lease-buyout |
+| [Retail Lease Documents](../../recipe/table-receipe/task-table-templates/retail-lease-documents.md) | Lease-buyout |
+| [Disbursement](../../recipe/table-receipe/task-table-templates/disbursement.md) | Lease-buyout |
 

@@ -12,7 +12,7 @@ The Object Table is used for read-only access to files and documents.
 
 | Name |
 | :--- |
-| [Document Table](../../meals-1/table-templates/object-table-templates/archive.md) |
+| [Document Table](../../recipe/table-receipe/object-table-templates/archive.md) |
 {% endtab %}
 
 {% tab title="Functional Requirements" %}

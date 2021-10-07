@@ -51,6 +51,6 @@ High-performance form components make it easy for a user to submit information a
 
 | Variants | Type |
 | :--- | :--- |
-| [Preliminary Statement Advance](../../meals-1/form-receipe/statement-input-form-templates/lbo-preliminary-statement.md) | [Statement Input Form](preliminary-and-final-statements.md) |
-| [Final Statement Advance](../../meals-1/form-receipe/statement-input-form-templates/lbo-final-statement.md) | [Statement Input Form](preliminary-and-final-statements.md) |
+| [Preliminary Statement Advance](../../recipe/form-receipe/statement-input-form-templates/lbo-preliminary-statement.md) | [Statement Input Form](preliminary-and-final-statements.md) |
+| [Final Statement Advance](../../recipe/form-receipe/statement-input-form-templates/lbo-final-statement.md) | [Statement Input Form](preliminary-and-final-statements.md) |
 
