@@ -1,4 +1,8 @@
-# Retail Lease Documents
+---
+description: Variant of Task Table
+---
+
+# Retail Lease Documents Table
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=640%3A25536" %}
 
