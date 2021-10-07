@@ -1,23 +1,12 @@
-# Form Header
+# Form Header Recipe
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1081%3A26421" %}
+![](../../../.gitbook/assets/page-header.png)
 
-{% tabs %}
-{% tab title="Usage" %}
+This header has many different states. It is used inside the Form Component.
 
-{% endtab %}
+{% page-ref page="no-button-form-header.md" %}
 
-{% tab title="" %}
+{% page-ref page="2-button-form-header.md" %}
 
-{% endtab %}
 
-{% tab title="Requirements" %}
-
-{% endtab %}
-{% endtabs %}
-
-| Variant Name | Flows |
-| :--- | :--- |
-| No Button Form Header | Lease-buyout |
-| Save/Edit Form Header | Lease-buyout |
 
