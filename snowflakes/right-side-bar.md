@@ -16,9 +16,9 @@ The Right Side Bar shows summary information about a transaction.
 
 | Page |
 | :--- |
-| [Monroney Label Drawer](../templates/drawer-templates/drawer-trim.md) |
-| [Preliminary Statement](../templates/form-templates/statement-input-form-templates/lbo-preliminary-statement.md) |
-| [Final Statement](../templates/form-templates/statement-input-form-templates/final-statement.md) |
+| [Monroney Label Drawer](../meals-1/drawer/drawer-trim.md) |
+| [Preliminary Statement](../meals-1/form-templates/statement-input-form-templates/lbo-preliminary-statement.md) |
+| [Final Statement](../meals-1/form-templates/statement-input-form-templates/final-statement.md) |
 {% endtab %}
 
 {% tab title="Functional Requirements" %}
