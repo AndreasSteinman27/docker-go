@@ -19,7 +19,7 @@ The top-level navigation acts as a way for the [MSA](/@carputty/s/axle-doc/~/dra
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=152%3A6078" %}
 
-### 3. Hover State
+
 
 
 
