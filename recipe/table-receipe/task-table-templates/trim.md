@@ -4,7 +4,7 @@ description: Variant of Task Table
 
 # Trim Table
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=851%3A25917" %}
+![](../../../.gitbook/assets/trim-verification-onload.png)
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -48,26 +48,30 @@ See [Task Table](../../../ingredients/task-tables/task-table.md) for additional 
 See [Task Table](../../../ingredients/task-tables/task-table.md)
 {% endtab %}
 
-{% tab title="Designs" %}
+{% tab title="States" %}
 ### **States**
 
 ### **On Load**
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=851%3A25917" %}
+![](../../../.gitbook/assets/trim-verification-onload%20%281%29.png)
 
 ### **Image Uploaded & Needs to be Verified**
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2138%3A16035" %}
+![OnLoad](../../../.gitbook/assets/side-drawer-upload-maroney-label-drawer%20%281%29.png)
+
+![Maroney Label Uploaded](../../../.gitbook/assets/side-drawer-upload-maroney-label-drawer-complete%20%281%29.png)
 
 ### Complete Status
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=876%3A25901" %}
+![](../../../.gitbook/assets/trim-verifcation-status-change.png)
 {% endtab %}
 
 {% tab title="Code" %}
 \*\*\*\*
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
