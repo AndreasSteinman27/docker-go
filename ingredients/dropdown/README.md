@@ -4,7 +4,7 @@ description: Known also as a "Selector"
 
 # Dropdown
 
-![Dropdown Base](../../.gitbook/assets/dropdown.png)
+![](../../.gitbook/assets/dropdown%20%281%29.png)
 
 {% tabs %}
 {% tab title="Usage" %}

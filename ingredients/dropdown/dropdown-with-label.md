@@ -4,7 +4,7 @@ description: Variant
 
 # Dropdown with Label
 
-![Variant - With Label](../../.gitbook/assets/dropdown-with-label.png)
+![](../../.gitbook/assets/dropdown-with-label%20%281%29.png)
 
 {% tabs %}
 {% tab title="Usage" %}

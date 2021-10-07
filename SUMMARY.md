@@ -69,10 +69,6 @@
 * [Menu Templates](recipe/menu-templates/README.md)
   * [Lease Buyout - Transaction](recipe/menu-templates/top-navigation.md)
 
-## Meals
-
-* [Tables](meals/tables.md)
-
 ## Pages
 
 * [Transaction](pages/transaction.md)
