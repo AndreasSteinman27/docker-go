@@ -1,6 +1,6 @@
 # Document Table
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2343%3A17259" caption="Onload Documents" %}
+
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -17,11 +17,11 @@ The Document Table serves as a centralized repository for all documents uploaded
 {% tab title="States" %}
 ### On-load
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2343%3A17259" %}
+![](../../../.gitbook/assets/documents.png)
 
-### Complete
+### Final
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2343%3A16231" %}
+![](../../../.gitbook/assets/object-table-documents-complete.png)
 {% endtab %}
 
 {% tab title="Interactions" %}
@@ -34,6 +34,10 @@ The Document Table serves as a centralized repository for all documents uploaded
 
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
