@@ -1,12 +1,6 @@
----
-description: Variant
----
-
 # LBO Final Statement
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1632%3A27548" %}
-
-
+![](../../../.gitbook/assets/final-statement-of-advance-onload.png)
 
 {% tabs %}
 {% tab title="Usage" %}
@@ -57,13 +51,13 @@ In order to save the form, you must complete the following fields. The others ar
 
 In this state, values are submitted and calculated. For instance, taxes are generated and sent to the Right Sidebar.
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1418%3A26955" %}
+![](../../../.gitbook/assets/final-statement-of-advance-onload%20%281%29.png)
 
 ### Saved-State
 
 This state can only be edited by pressing the Edit button.
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=1418%3A27344" %}
+![](../../../.gitbook/assets/final-statement-saved.png)
 
 ### Edit
 
@@ -121,4 +115,6 @@ Alert Badge
 
 {% endtab %}
 {% endtabs %}
+
+
 
