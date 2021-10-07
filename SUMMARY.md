@@ -65,8 +65,8 @@
     * [Trim Table](recipe/table-receipe/task-table-templates/trim.md)
   * [Object Table Templates](recipe/table-receipe/object-table-templates/README.md)
     * [Document Table](recipe/table-receipe/object-table-templates/archive.md)
-* [Menu Templates](recipe/menu-templates/README.md)
-  * [Lease Buyout - Transaction](recipe/menu-templates/top-navigation.md)
+* [Menu Recipe](recipe/menu-recipe/README.md)
+  * [LBO Nav Menu](recipe/menu-recipe/top-navigation.md)
 
 ## Pages
 
