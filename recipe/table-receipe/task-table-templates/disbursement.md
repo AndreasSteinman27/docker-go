@@ -47,11 +47,11 @@ See [Task Table](../../../ingredients/task-tables/task-table.md)
 
 ### Status Changes
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2138%3A16338" %}
+![](../../../.gitbook/assets/disbursement-status-change.png)
 
 ### Completed 
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=640%3A24741" %}
+![](../../../.gitbook/assets/disbursement-complete.png)
 {% endtab %}
 
 {% tab title="Code" %}
