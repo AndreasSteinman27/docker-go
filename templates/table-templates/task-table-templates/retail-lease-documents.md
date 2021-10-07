@@ -11,30 +11,33 @@ description: Variant of Task Table
 ### Usage
 
 The Retail Lease Documents table tracks the documents and verification for a Direct lease buyout transaction.
+
+### Base Component
+
+{% page-ref page="../../../components/task-tables/task-table.md" %}
 {% endtab %}
 
-{% tab title="Requirements" %}
+{% tab title="Functional Requirements" %}
 ### Fields
 
 Fields marked as Required must be completed and validated to submit the form attached to this table.
 
-| Name | Required |
-| :--- | :--- |
-| Bill of Sale | **Yes** |
-| Title Application | **Yes** |
-| Engagement Letter | **Yes** |
+| Name | Drawer Type | Required |
+| :--- | :--- | :--- |
+| Bill of Sale | Upload/Verify | **Yes** |
+| Title Application | Upload/Verify | **Yes** |
+| Engagement Letter | Upload/Verify | **Yes** |
+
+### Interactions
+
+See [Task Table](../../../components/task-tables/task-table.md).
 {% endtab %}
 
-{% tab title="Interaction" %}
-### Interaction
-
-* When the View/Edit button is clicked it brings up the [Upload/Verify Drawer](../../drawer-templates/upload-verify-drawer.md).
-
-  * When a file is uploaded sucessfully the Uploaded status and Icon appears \(see States\)
-  * When a task is complete, the badge is marked as complete
+{% tab title="Validation/Error Handling" %}
+### See [Task Table](../../../components/task-tables/task-table.md)
 {% endtab %}
 
-{% tab title="States" %}
+{% tab title="Designs" %}
 ### States
 
 ### On-Loading
@@ -54,6 +57,8 @@ Fields marked as Required must be completed and validated to submit the form att
 
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
