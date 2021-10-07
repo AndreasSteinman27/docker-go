@@ -20,7 +20,7 @@ The Preliminary Advance Statement is a document created within Axle that serves 
 
 ### Child Elements
 
-[Currency input](../../../ingredients/input/currency-input.md), [Header,](../../../ingredients/headers/header/) [Primary button](../../../ingredients/button/), [Secondary button](../../../ingredients/button/secondary-button.md)
+[Currency input](../../../ingredients/input/currency-input.md), [Header,](../../header/) [Primary button](../../../ingredients/button/), [Secondary button](../../../ingredients/button/secondary-button.md)
 {% endtab %}
 
 {% tab title="Requirements" %}

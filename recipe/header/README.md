@@ -1,6 +1,6 @@
 # Form Header Recipe
 
-![](../../../.gitbook/assets/page-header.png)
+![](../../.gitbook/assets/page-header.png)
 
 This header has many different states. It is used inside the Form Component.
 

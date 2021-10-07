@@ -22,7 +22,7 @@ High-performance form components make it easy for a user to submit information a
 {% tab title="Requirements" %}
 ### Requirements
 
-* [Form Header Base](../headers/header/)
+* [Form Header Base](../../recipe/header/)
 * Scrolls up and down within the Layout
 * Back to Top Button if the button goes beyond the fold
 * Container for Form Columns inside

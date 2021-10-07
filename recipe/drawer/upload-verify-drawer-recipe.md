@@ -1,4 +1,4 @@
-# Upload/Verify Drawer
+# Upload/Verify Drawer Recipe
 
 ![](../../.gitbook/assets/screen-shot-2021-09-29-at-4.27.10-pm.png)
 
@@ -9,8 +9,6 @@ This component is used by MSAs to upload documents and verify existing documents
 ### Components with Interactions:
 
 {% page-ref page="../../ingredients/task-tables/task-table.md" %}
-
-
 
 ### Tasks that use this Drawer Component <a id="tasks-that-use-this-drawer-component"></a>
 
