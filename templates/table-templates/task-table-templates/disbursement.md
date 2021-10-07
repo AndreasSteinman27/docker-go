@@ -7,34 +7,41 @@ description: Variant of Task Table
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=624%3A24574" %}
 
 {% tabs %}
-{% tab title="Usage" %}
+{% tab title="Overview" %}
 ### Usage
 
-Disbursment is the final section for the lease-buyout flow and signfies to OPS that the application is done. 
+Disbursement is the final section for the lease-buyout flow and signfies to OPS that the application is done. 
+
+### Base Component
+
+{% page-ref page="../../../components/task-tables/task-table.md" %}
 {% endtab %}
 
 {% tab title="Requirements" %}
-### Requirements
+### Fields
 
-* Title Application, Bill of Sales, Insurance Loss Payee Verification, Insurance Coverage Verification, Engagment Letter uses [Upload/Verify Side Drawer](../../drawer-templates/upload-verify-drawer.md).
-* Verbal Insurance Policy uses
-{% endtab %}
+| Name | Drawer Type | Required |
+| :--- | :--- | :--- |
+| Verbal Insurance Policy Check | Verification | Yes |
+| Title Application | Upload/Verify | Yes |
+| Bill of Sale | Upload/Verify | Yes |
+| Insurance Loss Payee Verification | Upload/Verify | Yes |
+| Insurance Coverage Verification | Upload/Verify | No |
+| Engagement Letter | Upload/Verify | No |
 
-{% tab title="Action" %}
-* For all tasks except Verbal Insurance Policy Check:
-  * When the Upload button is clicked it brings up the [Side Drawer - Upload](../../../components/drawer/upload.md)
-    * When a file is uploaded sucessfully the Uploaded status and Icon appears \(see States\)
-    * When a task is complete, the badge is marked as complete
-* For Verbal Insurance Policy Check:
-  * When Verify is clicked, the [Verification Drawer](../../../components/drawer/verification.md) appears. 
-    * If the policy is successfully verified, the badge should be marked as complete.
-    * If the policy is not verified, the badge should remain as incomplete.
+### Interactions
+
 * Finish Transaction marks the Asset record status as Ready To Fund.
   * An email is sent to Operations indicating that the vehicle is ready to fund.
   * Another email is sent to the member with an update on their loan status.
+* All other Interactions are inherited from the [Task Table component](../../../components/task-tables/task-table.md).
 {% endtab %}
 
-{% tab title="States" %}
+{% tab title="Validation/Error Handling" %}
+See [Task Table](../../../components/task-tables/task-table.md)
+{% endtab %}
+
+{% tab title="Designs" %}
 ### States
 
 ### On-loading
@@ -48,6 +55,10 @@ Disbursment is the final section for the lease-buyout flow and signfies to OPS t
 ### Completed 
 
 {% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=640%3A24741" %}
+{% endtab %}
+
+{% tab title="Code" %}
+
 {% endtab %}
 {% endtabs %}
 
