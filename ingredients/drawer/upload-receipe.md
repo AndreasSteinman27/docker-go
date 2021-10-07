@@ -1,4 +1,4 @@
-# Upload Drawer
+# Upload Drawer Receipe
 
 ![](../../.gitbook/assets/side-drawer-upload.png)
 
