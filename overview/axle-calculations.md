@@ -1,5 +1,18 @@
 # Rate Calculations
 
+## Database
+
+| Name | Database |
+| :--- | :--- |
+| State / County Taxes | state\_taxes |
+| City / Town Taxes | city\_taxes |
+| State Title Lien Fee | state\_title\_fee |
+| Plate / Tag Fee | plate\_tag\_fee |
+| DMV Handling Fee | ddi\_handling\_fee |
+| Other Fees | other\_fees |
+
+## Calculations
+
 <table>
   <thead>
     <tr>
@@ -8,6 +21,17 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="text-align:left">Carputty Service Fee</td>
+      <td style="text-align:left">(purchase_price + plate_tag_fee + state_title_fee + ddi_handling_fee +
+        state_taxes + city_taxes - down_payment + other_fees + sales_tax - net_trade)*1%</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Estimated Total Advance</td>
+      <td style="text-align:left">estimated_lease_buyout_amount + plate_tag_fee + state_title_fee + ddi_handling_fee
+        + state_taxes + city_taxes - down_payment + other_fees + carputty_service_fee
+        + ddi_fee_elt</td>
+    </tr>
     <tr>
       <td style="text-align:left">Maximum Vehicle Amount</td>
       <td style="text-align:left">
