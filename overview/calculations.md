@@ -2,14 +2,16 @@
 
 ## Database
 
+### Preliminary Statement
+
 | Name | Database |
 | :--- | :--- |
 | State / County Taxes | state\_taxes |
-| City / Town Taxes | city\_taxes |
+|  City / Town Taxes | city\_taxes |
 | State Title Lien Fee | state\_title\_fee |
 | Plate / Tag Fee | plate\_tag\_fee |
 | DMV Handling Fee | ddi\_handling\_fee |
-| Other Fees | other\_fees |
+|  Other Fees | other\_fees |
 
 ## Calculations
 
