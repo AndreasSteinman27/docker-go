@@ -20,7 +20,7 @@ Fields marked as Required must be completed and validated to submit the form att
 
 | Name | Drawer Type | Required |
 | :--- | :--- | :--- |
-| Bill of Sale | Upload/Verify | **Yes** |
+| Bill of Sale | Odometer | **Yes** |
 | Title Application | Upload/Verify | **Yes** |
 | Engagement Letter | Upload/Verify | **Yes** |
 
