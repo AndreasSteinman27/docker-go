@@ -43,54 +43,54 @@ The Right Side Bar shows summary information about a transaction.
 
 #### Personal Information
 
-| Field | Source |
-| :--- | :--- |
-| Email | Member Input |
-| Phone | Member Input |
-| Used/Line | Borrower Credit Line |
-| Interest Rate | Borrower Credit Line |
+| Field | Format | Source |
+| :--- | :--- | :--- |
+| Email | Text | Member Input |
+| Phone | Phone Number | Member Input |
+| Used/Line | Currency / Currency | Borrower Credit Line |
+| Interest Rate | Percentage | Borrower Credit Line |
 
 #### Asset Name
 
-| Field | Source |
-| :--- | :--- |
-| Year Make Model | Carputty Database |
-| Mileage | Member Input, Odometer Verification Drawer |
-| Current Valuation | Calculated by Monroney Drawer and Odometer Verification Drawer |
-| Remaining Payment | Member Input |
+| Field | Format | Source |
+| :--- | :--- | :--- |
+| Year Make Model | Text | Carputty Database |
+| Mileage | Mileage | Member Input, Odometer Verification Drawer |
+| Current Valuation | Currency | Calculated by Monroney Drawer and Odometer Verification Drawer |
+| Remaining Payment | Currency | Member Input |
 
 #### Transaction
 
-| Field | Source |
-| :--- | :--- |
-| Residual Amount | Member Input, Final Statement Form |
-| [Maximum Allowed](../overview/calculations.md) | Calculated |
-| [Advance Amount](../overview/calculations.md) | Calculated |
-| [Transaction Total](../overview/calculations.md) | Calculated |
-| [Minimum Down Payment](../overview/calculations.md) | Calculated |
+| Field | Format | Source |
+| :--- | :--- | :--- |
+| Residual Amount | Currency | Member Input, Final Statement Form |
+| [Maximum Allowed](../overview/calculations.md) | Currency | Calculated |
+| [Advance Amount](../overview/calculations.md) | Currency | Calculated |
+| [Transaction Total](../overview/calculations.md) | Currency | Calculated |
+| [Minimum Down Payment](../overview/calculations.md) | Currency | Calculated |
 
 #### Valuation
 
-| Field | Source |
-| :--- | :--- |
-| Preliminary Valuation | Monroney Label Drawer |
-| Final Valuation | Odometer Verification Drawer |
+| Field | Format | Source |
+| :--- | :--- | :--- |
+| Preliminary Valuation | Currency | Monroney Label Drawer |
+| Final Valuation | Currency | Odometer Verification Drawer |
 
 ### Fee Total
 
-| Field | Source |
-| :--- | :--- |
-| Estimated | Preliminary Statement Form |
-| Final | Final Statement Form |
+| Field | Format | Source |
+| :--- | :--- | :--- |
+| Estimated | Currency | Preliminary Statement Form |
+| Final | Currency | Final Statement Form |
 
 ### Lessor
 
-| Field | Source |
-| :--- | :--- |
-| Lease Account \# | Member Input |
-| Type | Preliminary Statement Form |
-| Phone | Preliminary Statement Form |
-| Address | Preliminary Statement Form |
+| Field | Format | Source |
+| :--- | :--- | :--- |
+| Lease Account \# | Text | Member Input |
+| Type | Format | Preliminary Statement Form |
+| Phone | Phone Number | Preliminary Statement Form |
+| Address | Text | Preliminary Statement Form |
 {% endtab %}
 
 {% tab title="Validation/Error Handling" %}
