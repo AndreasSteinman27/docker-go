@@ -67,7 +67,7 @@ The Right Side Bar shows summary information about a transaction.
 | [Maximum Allowed](../overview/calculations.md) | Calculated |
 | [Advance Amount](../overview/calculations.md) | Calculated |
 | [Transaction Total](../overview/calculations.md) | Calculated |
-| Minimum Down Payment | Calculated |
+| [Minimum Down Payment](../overview/calculations.md) | Calculated |
 
 #### Valuation
 
