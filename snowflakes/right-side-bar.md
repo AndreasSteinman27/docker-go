@@ -64,9 +64,9 @@ The Right Side Bar shows summary information about a transaction.
 | Field | Source |
 | :--- | :--- |
 | Residual Amount | Member Input, Final Statement Form |
-| Maximum Allowed | Calculated |
-| Advance Amount | Calculated |
-| Transaction Total | Calculated |
+| [Maximum Allowed](../overview/calculations.md) | Calculated |
+| [Advance Amount](../overview/calculations.md) | Calculated |
+| [Transaction Total](../overview/calculations.md) | Calculated |
 | Minimum Down Payment | Calculated |
 
 #### Valuation

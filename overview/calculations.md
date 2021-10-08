@@ -1,4 +1,4 @@
-# Rate Calculations
+# Calculations
 
 ## Database
 
