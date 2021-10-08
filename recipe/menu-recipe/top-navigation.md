@@ -1,6 +1,26 @@
 # LBO Nav Menu
 
-{% embed url="https://www.figma.com/file/w78ZiMR2USgl1CwXVrcxXv/?node-id=2%3A11819" caption="Base Component" %}
+![](../../.gitbook/assets/axle-nav-bar.png)
+
+### 
+
+{% tabs %}
+{% tab title="Usage" %}
+
+{% endtab %}
+
+{% tab title="Requirements" %}
+
+{% endtab %}
+
+{% tab title="States" %}
+
+{% endtab %}
+
+{% tab title="Code" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### 1. **Description**
 
